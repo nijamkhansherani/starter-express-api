@@ -1,7 +1,7 @@
 const express= require('express');
 const protect = require('../Middleware/addmiddleware')
 
-const { getaddtocard, postaddtocard, deleteaddtocard } = require("../controllers/addtocardcontrollers");
+const { getaddtocard, postaddtocard, deleteaddtocard } = require("../Controllers/addtocardcontrollers");
 const router = express.Router();
 
 router.use(express.json())
