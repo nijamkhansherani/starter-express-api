@@ -7,7 +7,7 @@ const Categories = [
         data:{
             Sarees:[
                 {
-                    title:"sarees",
+                    title:"Printed, Digital Print Bollywood Satin Saree ( White )",
                     Image:["https://rukminim1.flixcart.com/image/832/832/kwtkxow0/sari/2/a/z/free-looknbook-7045-peach-fabian-fashion-unstitched-original-imag9eztv86gbvfq.jpeg?q=70",
                     "https://rukminim1.flixcart.com/image/832/832/kwtkxow0/sari/s/k/x/free-looknbook-7045-peach-fabian-fashion-unstitched-original-imag9ezt5bhwxm3z.jpeg?q=70",
                 "https://rukminim1.flixcart.com/image/832/832/kxtaxzk0/shopsy-sari/d/s/j/free-lnb-fabian-fashion-unstitched-original-imaga6mvtkskmess.jpeg?q=70"],
@@ -31,7 +31,7 @@ const Categories = [
                 },
 
                 {
-                    title:"sarees",
+                    title:"Woven Bollywood Cotton Silk Saree (Pink)",
                     Image:["https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/sari/v/d/i/free-tilak-bpin-bandhani-hub-unstitched-original-imafzfm7s6hhhxyz.jpeg?q=70",
                     "https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/sari/z/y/h/free-tilak-bpin-bandhani-hub-unstitched-original-imafzfm7pknermkq.jpeg?q=70",
                     "https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/sari/2/b/i/free-tilak-bpin-bandhani-hub-unstitched-original-imafzfm7gahmg4pn.jpeg?q=70"],
@@ -55,7 +55,7 @@ const Categories = [
                 },
 
                 {
-                    title:"sarees",
+                    title:"Woven Bollywood Cotton Silk Saree (Yellow)",
                     Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/n/l/s/free-sz-chit-f-mu-862-silk-zone-unstitched-original-imaggsbjnguhntzm.jpeg?q=70",
                 "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/h/1/f/free-sz-chit-f-mu-862-silk-zone-unstitched-original-imaggsbj2gdw2vts.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/x/1/q/free-sz-chit-f-mu-862-silk-zone-unstitched-original-imaggsbjh3bys7br.jpeg?q=70"],
@@ -79,7 +79,7 @@ const Categories = [
                 },
 
                 {
-                    title:"sarees",
+                    title:"Embroidered, Dyed, Embellished, Self Design Bollywood Chiffon Saree ",
                     Image:["https://rukminim1.flixcart.com/image/832/832/kqgyhe80/sari/o/v/r/free-afkf810-kasturi-fashion-unstitched-original-imag4hbfsyrasu2g.jpeg?q=70",
                 "https://rukminim1.flixcart.com/image/832/832/kqgyhe80/sari/s/v/m/free-afkf810-kasturi-fashion-unstitched-original-imag4hbfkfshe3ew.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/832/832/kqgyhe80/sari/2/r/n/free-afkf810-kasturi-fashion-unstitched-original-imag4hbfs2arhj8p.jpeg?q=70"],
@@ -103,7 +103,7 @@ const Categories = [
                 },
 
                 {
-                    title:"sarees",
+                    title:"Woven Kanjivaram Silk Blend Saree (Pink) ",
                     Image:["https://rukminim1.flixcart.com/image/832/832/kxkqavk0/sari/d/o/3/free-pure-ch-314-marvosa-unstitched-original-imag9zxz2apgu7dn.jpeg?q=70",
                 "https://rukminim1.flixcart.com/image/832/832/kxkqavk0/sari/w/b/0/free-pure-ch-314-marvosa-unstitched-original-imag9zxzrfh2bpw8.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/832/832/kxkqavk0/sari/o/n/h/free-pure-ch-314-marvosa-unstitched-original-imag9zxzqpsvfgkw.jpeg?q=70"],
@@ -127,7 +127,7 @@ const Categories = [
                 },
 
                 {
-                    title:"sarees",
+                    title:"Woven Bollywood Satin Saree  (Grey)",
                     Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/m/g/r/free-gf-234-granthva-fab-unstitched-original-imaghfa6vz9kfhjv.jpeg?q=70",
                 "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/h/g/c/free-gf-234-granthva-fab-unstitched-original-imaghfa6vexuaery.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/t/4/k/free-gf-234-granthva-fab-unstitched-original-imaghfa68xys3awy.jpeg?q=70"],
@@ -151,7 +151,7 @@ const Categories = [
                 },
 
                 {
-                    title:"sarees",
+                    title:"Embroidered Bollywood Viscose Rayon Saree  (Red)",
                     Image:["https://rukminim1.flixcart.com/image/832/832/l48s9zk0/shopsy-sari/r/j/d/free-ish3003rd-neer-saree-unstitched-original-imagf72nyhgepwev.jpeg?q=70",
                 "https://rukminim1.flixcart.com/image/832/832/l48s9zk0/shopsy-sari/7/7/i/free-ish3003rd-neer-saree-unstitched-original-imagf72n8cqhqs4c.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/832/832/l48s9zk0/shopsy-sari/f/x/i/free-ish3003rd-neer-saree-unstitched-original-imagf72nh2m2amzp.jpeg?q=70"],
@@ -175,7 +175,7 @@ const Categories = [
                 },
 
                 {
-                    title:"sarees",
+                    title:"Embroidered Bollywood Art Silk Saree ",
                     Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/w/5/n/free-pattu-saree-ejoty-fashion-unstitched-original-imag4abzywzyk5ry-bb.jpeg?q=70",
                 "https://rukminim1.flixcart.com/image/832/832/kq8dua80/sari/b/f/a/free-pattu-saree-ejoty-fashion-unstitched-original-imag4abzwfmcvcez.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/832/832/kq8dua80/sari/q/b/x/free-pattu-saree-ejoty-fashion-unstitched-original-imag4abzfj2kfxmr.jpeg?q=70"],
@@ -199,7 +199,7 @@ const Categories = [
                 },
 
                 {
-                    title:"sarees",
+                    title:"Embroidered Banarasi Satin Saree  (Dark blue)",
                     Image:["https://rukminim1.flixcart.com/image/832/832/kzrbiq80/sari/5/0/k/free-mk-zal-cosbila-fashion-unstitched-original-imagbpgj83pvffj2.jpeg?q=70",
                 "https://rukminim1.flixcart.com/image/832/832/kzrbiq80/sari/w/d/t/free-mk-zal-cosbila-fashion-unstitched-original-imagbpgjnvfwhaj3.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/832/832/kzrbiq80/sari/x/h/x/free-mk-zal-cosbila-fashion-unstitched-original-imagbpgjfzybzsgu.jpeg?q=70"],
@@ -223,7 +223,7 @@ const Categories = [
                 },
 
                 {
-                    title:"sarees",
+                    title:"Woven Bollywood Satin Saree  (Grey)",
                     Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/n/r/0/free-pt-rainbow-grey-madhumeena-unstitched-original-imaghjaj3smrqp9g.jpeg?q=70",
                 "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/u/d/p/free-pt-rainbow-grey-madhumeena-unstitched-original-imaghjajxgnuvhtg.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/b/g/y/free-pt-rainbow-grey-madhumeena-unstitched-original-imaghjajwxpmgecf.jpeg?q=70"],
@@ -247,7 +247,7 @@ const Categories = [
                 },
 
                 {
-                    title:"sarees",
+                    title:"Woven Kanjivaram Silk Blend Saree  (Pink)",
                     Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/t/y/l/free-gt-1001-m-s-retail-unstitched-original-imagnjyhqgf4zzb3.jpeg?q=70",
                 "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/c/x/r/free-gt-1001-m-s-retail-unstitched-original-imagnjyhfckdzgyc.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/l/7/z/free-gt-1001-m-s-retail-unstitched-original-imagnjyhddssqby7.jpeg?q=70"],
@@ -276,7 +276,7 @@ const Categories = [
 
             FancySarees:[
                 {
-                    title:"Fancy Sarees",
+                    title:"Embellished Bollywood Georgette Saree ",
                     Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/m/g/r/free-gf-234-granthva-fab-unstitched-original-imaghfa6vz9kfhjv.jpeg?q=70",
                 "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/h/g/c/free-gf-234-granthva-fab-unstitched-original-imaghfa6vexuaery.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/t/4/k/free-gf-234-granthva-fab-unstitched-original-imaghfa68xys3awy.jpeg?q=70"],
@@ -300,7 +300,7 @@ const Categories = [
                 },
 
                 {
-                    title:"Fancy Sarees",
+                    title:"Digital Print Gadwal Viscose Rayon, Cotton Blend Saree  (Orange)",
                     Image:["https://rukminim1.flixcart.com/image/832/832/kxkqavk0/sari/d/o/3/free-pure-ch-314-marvosa-unstitched-original-imag9zxz2apgu7dn.jpeg?q=70",
                 "https://rukminim1.flixcart.com/image/832/832/kxkqavk0/sari/w/b/0/free-pure-ch-314-marvosa-unstitched-original-imag9zxzrfh2bpw8.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/832/832/kxkqavk0/sari/o/n/h/free-pure-ch-314-marvosa-unstitched-original-imag9zxzqpsvfgkw.jpeg?q=70"],
@@ -324,7 +324,7 @@ const Categories = [
                 },
 
                 {
-                    title:"Fancy Sarees",
+                    title:"Embellished Bollywood Georgette Saree ",
                     Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/m/g/r/free-gf-234-granthva-fab-unstitched-original-imaghfa6vz9kfhjv.jpeg?q=70",
                 "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/h/g/c/free-gf-234-granthva-fab-unstitched-original-imaghfa6vexuaery.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/t/4/k/free-gf-234-granthva-fab-unstitched-original-imaghfa68xys3awy.jpeg?q=70"],
@@ -348,7 +348,7 @@ const Categories = [
                 },
 
                 {
-                    title:"Fancy Sarees",
+                    title:"Embroidered Bollywood Viscose Rayon Saree  (Red)",
                     Image:["https://rukminim1.flixcart.com/image/832/832/l48s9zk0/shopsy-sari/r/j/d/free-ish3003rd-neer-saree-unstitched-original-imagf72nyhgepwev.jpeg?q=70",
                 "https://rukminim1.flixcart.com/image/832/832/l48s9zk0/shopsy-sari/7/7/i/free-ish3003rd-neer-saree-unstitched-original-imagf72n8cqhqs4c.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/832/832/l48s9zk0/shopsy-sari/f/x/i/free-ish3003rd-neer-saree-unstitched-original-imagf72nh2m2amzp.jpeg?q=70"],
@@ -372,7 +372,7 @@ const Categories = [
                 },
 
                 {
-                    title:"Fancy Sarees",
+                    title:"Women Banarasi Satin Saree ",
                     Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/w/5/n/free-pattu-saree-ejoty-fashion-unstitched-original-imag4abzywzyk5ry-bb.jpeg?q=70",
                 "https://rukminim1.flixcart.com/image/832/832/kq8dua80/sari/b/f/a/free-pattu-saree-ejoty-fashion-unstitched-original-imag4abzwfmcvcez.jpeg?q=70",
             "https://rukminim1.flixcart.com/image/832/832/kq8dua80/sari/q/b/x/free-pattu-saree-ejoty-fashion-unstitched-original-imag4abzfj2kfxmr.jpeg?q=70"],
@@ -399,7 +399,7 @@ const Categories = [
 
             SilkSarees:[
                 {
-                    title:"Silk Sarees",
+                    title:"Woven Bollywood Cotton Silk Saree  (Pink)",
                     Image:["https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/sari/v/d/i/free-tilak-bpin-bandhani-hub-unstitched-original-imafzfm7s6hhhxyz.jpeg?q=70",
                     "https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/sari/z/y/h/free-tilak-bpin-bandhani-hub-unstitched-original-imafzfm7pknermkq.jpeg?q=70",
                     "https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/sari/2/b/i/free-tilak-bpin-bandhani-hub-unstitched-original-imafzfm7gahmg4pn.jpeg?q=70"],
@@ -1916,7 +1916,7 @@ Lehengas={
 
 
 Trousers={
-    titel:"Trousers",
+    title:"Trousers",
     Image:"https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/x/b/x/36-epnchino-13-parrotgreen-urbano-fashion-original-imagmzvpxvkngfgu.jpeg?q=70",
     data:{
         Trousers:[
@@ -2198,7 +2198,7 @@ Trousers={
 
 
  Shirts={
-    titel:"Shirts",
+    title:"Shirts",
     Image:"https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/n/c/e/s-p1-sht-geographical-red-verticals-original-imaggphymyzfzfrc.jpeg?q=70",
     data:{
         Shirts:[
