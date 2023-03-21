@@ -4,400 +4,406 @@ const Categories = [
     Sarees={
         title:"Sarees",
         Image:"https://rukminim1.flixcart.com/image/832/832/kjx6tu80/sari/5/u/k/free-2s-yashomti-1004-mk-pisara-unstitched-original-imafzdn6cg2mxcng.jpeg?q=70",
-        data:{
-            Sarees:[
-                {
-                    title:"Printed, Digital Print Bollywood Satin Saree ( White )",
-                    Image:["https://rukminim1.flixcart.com/image/832/832/kwtkxow0/sari/2/a/z/free-looknbook-7045-peach-fabian-fashion-unstitched-original-imag9eztv86gbvfq.jpeg?q=70",
-                    "https://rukminim1.flixcart.com/image/832/832/kwtkxow0/sari/s/k/x/free-looknbook-7045-peach-fabian-fashion-unstitched-original-imag9ezt5bhwxm3z.jpeg?q=70",
-                "https://rukminim1.flixcart.com/image/832/832/kxtaxzk0/shopsy-sari/d/s/j/free-lnb-fabian-fashion-unstitched-original-imaga6mvtkskmess.jpeg?q=70"],
-                    sellingPrice:"2624",
-                    disPrice:"975",
-                    disPrsent:"62%",
-                    soldBy:"SHOPPEEN",
-                    COD:"Available",
-                    Status:"In-Stock",
-                    quantity:"1",
-                    Size:[
-                        'S','M','L','XL','XXL'
+        data:[
+            {
+                title:"Sarees",
+                Sarees:[
+                    {
+                        title:"Printed, Digital Print Bollywood Satin Saree ( White )",
+                        Image:["https://rukminim1.flixcart.com/image/832/832/kwtkxow0/sari/2/a/z/free-looknbook-7045-peach-fabian-fashion-unstitched-original-imag9eztv86gbvfq.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/kwtkxow0/sari/s/k/x/free-looknbook-7045-peach-fabian-fashion-unstitched-original-imag9ezt5bhwxm3z.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/kxtaxzk0/shopsy-sari/d/s/j/free-lnb-fabian-fashion-unstitched-original-imaga6mvtkskmess.jpeg?q=70"],
+                        sellingPrice:"2624",
+                        disPrice:"975",
+                        disPrsent:"62%",
+                        soldBy:"SHOPPEEN",
+                        COD:"Available",
+                        Status:"In-Stock",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHSJMFPA16",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Festive,Party wear",
+                            fabric:"Satin"
+                        }
+                    },
+    
+                    {
+                        title:"Woven Bollywood Cotton Silk Saree (Pink)",
+                        Image:["https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/sari/v/d/i/free-tilak-bpin-bandhani-hub-unstitched-original-imafzfm7s6hhhxyz.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/sari/z/y/h/free-tilak-bpin-bandhani-hub-unstitched-original-imafzfm7pknermkq.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/sari/2/b/i/free-tilak-bpin-bandhani-hub-unstitched-original-imafzfm7gahmg4pn.jpeg?q=70"],
+                        sellingPrice:"2799",
+                        disPrice:"1100",
+                        disPrsent:"60%",
+                        soldBy:"SHOPPEEN",
+                        COD:"Available",
+                        Status:"In-Stock",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHSLSKC77721A29",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Festive,Party wear",
+                            fabric:"Cotton"
+                        }
+                    },
+    
+                    {
+                        title:"Woven Bollywood Cotton Silk Saree (Yellow)",
+                        Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/n/l/s/free-sz-chit-f-mu-862-silk-zone-unstitched-original-imaggsbjnguhntzm.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/h/1/f/free-sz-chit-f-mu-862-silk-zone-unstitched-original-imaggsbj2gdw2vts.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/x/1/q/free-sz-chit-f-mu-862-silk-zone-unstitched-original-imaggsbjh3bys7br.jpeg?q=70"],
+                        sellingPrice:"2499",
+                        disPrice:"1245",
+                        disPrsent:"50%",
+                        soldBy:"SHOPPEEN",
+                        COD:"Available",
+                        Status:"In-Stock",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHSLSANU78781A30",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Function Wear",
+                            fabric:"Cotton"
+                        }
+                    },
+    
+                    {
+                        title:"Embroidered, Dyed, Embellished, Self Design Bollywood Chiffon Saree ",
+                        Image:["https://rukminim1.flixcart.com/image/832/832/kqgyhe80/sari/o/v/r/free-afkf810-kasturi-fashion-unstitched-original-imag4hbfsyrasu2g.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/kqgyhe80/sari/s/v/m/free-afkf810-kasturi-fashion-unstitched-original-imag4hbfkfshe3ew.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kqgyhe80/sari/2/r/n/free-afkf810-kasturi-fashion-unstitched-original-imag4hbfs2arhj8p.jpeg?q=70"],
+                        sellingPrice:"2628",
+                        disPrice:"1456",
+                        disPrsent:"44%",
+                        soldBy:"SHOPPEEN",
+                        COD:"Available",
+                        Status:"In-Stock",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHSLSVIC77201A01",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Festive, Party wear",
+                            fabric:"Satin chiffon"
+                        }
+                    },
+    
+                    {
+                        title:"Woven Kanjivaram Silk Blend Saree (Pink) ",
+                        Image:["https://rukminim1.flixcart.com/image/832/832/kxkqavk0/sari/d/o/3/free-pure-ch-314-marvosa-unstitched-original-imag9zxz2apgu7dn.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/kxkqavk0/sari/w/b/0/free-pure-ch-314-marvosa-unstitched-original-imag9zxzrfh2bpw8.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kxkqavk0/sari/o/n/h/free-pure-ch-314-marvosa-unstitched-original-imag9zxzqpsvfgkw.jpeg?q=70"],
+                        sellingPrice:"4024",
+                        disPrice:"1375",
+                        disPrsent:"65%",
+                        soldBy:"SHOPPEEN",
+                        COD:"Available",
+                        Status:"In-Stock",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHSORCH2A24",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Festive, Party wear",
+                            fabric:"Viscose saree"
+                        }
+                    },
+    
+                    {
+                        title:"Woven Bollywood Satin Saree  (Grey)",
+                        Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/m/g/r/free-gf-234-granthva-fab-unstitched-original-imaghfa6vz9kfhjv.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/h/g/c/free-gf-234-granthva-fab-unstitched-original-imaghfa6vexuaery.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/t/4/k/free-gf-234-granthva-fab-unstitched-original-imaghfa68xys3awy.jpeg?q=70"],
+                        sellingPrice:"2820",
+                        disPrice:"1199",
+                        disPrsent:"57%",
+                        soldBy:"SHOPPEEN",
+                        COD:"Available",
+                        Status:"In-Stock",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHSORASHA27",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Festive, Party wear",
+                            fabric:"Satin"
+                        }
+                    },
+    
+                    {
+                        title:"Embroidered Bollywood Viscose Rayon Saree  (Red)",
+                        Image:["https://rukminim1.flixcart.com/image/832/832/l48s9zk0/shopsy-sari/r/j/d/free-ish3003rd-neer-saree-unstitched-original-imagf72nyhgepwev.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/l48s9zk0/shopsy-sari/7/7/i/free-ish3003rd-neer-saree-unstitched-original-imagf72n8cqhqs4c.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/l48s9zk0/shopsy-sari/f/x/i/free-ish3003rd-neer-saree-unstitched-original-imagf72nh2m2amzp.jpeg?q=70"],
+                        sellingPrice:"2999",
+                        disPrice:"1145",
+                        disPrsent:"61%",
+                        soldBy:"SHOPPEEN",
+                        COD:"Available",
+                        Status:"In-Stock",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHSORSQA32",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Festive, Party wear",
+                            fabric:"Viscose satin "
+                        }
+                    },
+    
+                    {
+                        title:"Embroidered Bollywood Art Silk Saree ",
+                        Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/w/5/n/free-pattu-saree-ejoty-fashion-unstitched-original-imag4abzywzyk5ry-bb.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/kq8dua80/sari/b/f/a/free-pattu-saree-ejoty-fashion-unstitched-original-imag4abzwfmcvcez.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kq8dua80/sari/q/b/x/free-pattu-saree-ejoty-fashion-unstitched-original-imag4abzfj2kfxmr.jpeg?q=70"],
+                        sellingPrice:"2979",
+                        disPrice:"935",
+                        disPrsent:"44%",
+                        soldBy:"SHOPPEEN",
+                        COD:"Available",
+                        Status:"In-Stock",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHSORFCA33",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Festive, Party wear",
+                            fabric:"Satin"
+                        }
+                    },
+    
+                    {
+                        title:"Embroidered Banarasi Satin Saree  (Dark blue)",
+                        Image:["https://rukminim1.flixcart.com/image/832/832/kzrbiq80/sari/5/0/k/free-mk-zal-cosbila-fashion-unstitched-original-imagbpgj83pvffj2.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/kzrbiq80/sari/w/d/t/free-mk-zal-cosbila-fashion-unstitched-original-imagbpgjnvfwhaj3.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kzrbiq80/sari/x/h/x/free-mk-zal-cosbila-fashion-unstitched-original-imagbpgjfzybzsgu.jpeg?q=70"],
+                        sellingPrice:"2979",
+                        disPrice:"1450",
+                        disPrsent:"51%",
+                        soldBy:"SHOPPEEN",
+                        COD:"Available",
+                        Status:"In-Stock",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHSORGSA25",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Festive, Party wear",
+                            fabric:"Satin"
+                        }
+                    },
+    
+                    {
+                        title:"Woven Bollywood Satin Saree  (Grey)",
+                        Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/n/r/0/free-pt-rainbow-grey-madhumeena-unstitched-original-imaghjaj3smrqp9g.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/u/d/p/free-pt-rainbow-grey-madhumeena-unstitched-original-imaghjajxgnuvhtg.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/b/g/y/free-pt-rainbow-grey-madhumeena-unstitched-original-imaghjajwxpmgecf.jpeg?q=70"],
+                        sellingPrice:"2618",
+                        disPrice:"915",
+                        disPrsent:"65%",
+                        soldBy:"SHOPPEEN",
+                        COD:"Available",
+                        Status:"In-Stock",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHSORRMA34",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Festive, Party wear",
+                            fabric:"Satin"
+                        }
+                    },
+    
+                    {
+                        title:"Woven Kanjivaram Silk Blend Saree  (Pink)",
+                        Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/t/y/l/free-gt-1001-m-s-retail-unstitched-original-imagnjyhqgf4zzb3.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/c/x/r/free-gt-1001-m-s-retail-unstitched-original-imagnjyhfckdzgyc.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/l/7/z/free-gt-1001-m-s-retail-unstitched-original-imagnjyhddssqby7.jpeg?q=70"],
+                        sellingPrice:"3099",
+                        disPrice:"1115",
+                        disPrsent:"64%",
+                        soldBy:"SHOPPEEN",
+                        COD:"Available",
+                        Status:"In-Stock",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHSORSVA35",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Festive, Party wear",
+                            fabric:"Silk viscose"
+                        }
+                    },
+    
+                ],
+    
+            },
+            {
+                    title:"FancySarees",
+                    FancySarees:[
+                        {
+                            title:"Embellished Bollywood Georgette Saree ",
+                            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/m/g/r/free-gf-234-granthva-fab-unstitched-original-imaghfa6vz9kfhjv.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/h/g/c/free-gf-234-granthva-fab-unstitched-original-imaghfa6vexuaery.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/t/4/k/free-gf-234-granthva-fab-unstitched-original-imaghfa68xys3awy.jpeg?q=70"],
+                            sellingPrice:"2299",
+                            disPrice:"900",
+                            disPrsent:"60%",
+                            soldBy:"SHOPPEEN",
+                            COD:"Available",
+                            Status:"In-Stock",
+                            quantity:"1",
+                            Size:[
+                                'S','M','L','XL','XXL'
+                            ],
+                            ProductDetails:{
+                                productCode:"SHSORCRYA97",
+                                idealFor:"Women",
+                                packOf:"1",
+                                occasion:"Wedding Wear, Party wear",
+                                fabric:"Satin"
+                            }
+                        },
+        
+                        {
+                            title:"Digital Print Gadwal Viscose Rayon, Cotton Blend Saree  (Orange)",
+                            Image:["https://rukminim1.flixcart.com/image/832/832/kxkqavk0/sari/d/o/3/free-pure-ch-314-marvosa-unstitched-original-imag9zxz2apgu7dn.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/kxkqavk0/sari/w/b/0/free-pure-ch-314-marvosa-unstitched-original-imag9zxzrfh2bpw8.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/kxkqavk0/sari/o/n/h/free-pure-ch-314-marvosa-unstitched-original-imag9zxzqpsvfgkw.jpeg?q=70"],
+                            sellingPrice:"4024",
+                            disPrice:"1375",
+                            disPrsent:"65%",
+                            soldBy:"SHOPPEEN",
+                            COD:"Available",
+                            Status:"In-Stock",
+                            quantity:"1",
+                            Size:[
+                                'S','M','L','XL','XXL'
+                            ],
+                            ProductDetails:{
+                                productCode:"SHSORCH2A24",
+                                idealFor:"Women",
+                                packOf:"1",
+                                occasion:"Festive, Party wear",
+                                fabric:"Viscose saree"
+                            }
+                        },
+        
+                        {
+                            title:"Embellished Bollywood Georgette Saree ",
+                            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/m/g/r/free-gf-234-granthva-fab-unstitched-original-imaghfa6vz9kfhjv.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/h/g/c/free-gf-234-granthva-fab-unstitched-original-imaghfa6vexuaery.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/t/4/k/free-gf-234-granthva-fab-unstitched-original-imaghfa68xys3awy.jpeg?q=70"],
+                            sellingPrice:"2820",
+                            disPrice:"1199",
+                            disPrsent:"57%",
+                            soldBy:"SHOPPEEN",
+                            COD:"Available",
+                            Status:"In-Stock",
+                            quantity:"1",
+                            Size:[
+                                'S','M','L','XL','XXL'
+                            ],
+                            ProductDetails:{
+                                productCode:"SHSORASHA27",
+                                idealFor:"Women",
+                                packOf:"1",
+                                occasion:"Festive, Party wear",
+                                fabric:"Satin"
+                            }
+                        },
+        
+                        {
+                            title:"Embroidered Bollywood Viscose Rayon Saree  (Red)",
+                            Image:["https://rukminim1.flixcart.com/image/832/832/l48s9zk0/shopsy-sari/r/j/d/free-ish3003rd-neer-saree-unstitched-original-imagf72nyhgepwev.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/l48s9zk0/shopsy-sari/7/7/i/free-ish3003rd-neer-saree-unstitched-original-imagf72n8cqhqs4c.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/l48s9zk0/shopsy-sari/f/x/i/free-ish3003rd-neer-saree-unstitched-original-imagf72nh2m2amzp.jpeg?q=70"],
+                            sellingPrice:"2999",
+                            disPrice:"1145",
+                            disPrsent:"61%",
+                            soldBy:"SHOPPEEN",
+                            COD:"Available",
+                            Status:"In-Stock",
+                            quantity:"1",
+                            Size:[
+                                'S','M','L','XL','XXL'
+                            ],
+                            ProductDetails:{
+                                productCode:"SHSORSQA32",
+                                idealFor:"Women",
+                                packOf:"1",
+                                occasion:"Festive, Party wear",
+                                fabric:"Viscose satin "
+                            }
+                        },
+        
+                        {
+                            title:"Women Banarasi Satin Saree ",
+                            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/w/5/n/free-pattu-saree-ejoty-fashion-unstitched-original-imag4abzywzyk5ry-bb.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/kq8dua80/sari/b/f/a/free-pattu-saree-ejoty-fashion-unstitched-original-imag4abzwfmcvcez.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/kq8dua80/sari/q/b/x/free-pattu-saree-ejoty-fashion-unstitched-original-imag4abzfj2kfxmr.jpeg?q=70"],
+                            sellingPrice:"2979",
+                            disPrice:"935",
+                            disPrsent:"44%",
+                            soldBy:"SHOPPEEN",
+                            COD:"Available",
+                            Status:"In-Stock",
+                            quantity:"1",
+                            Size:[
+                                'S','M','L','XL','XXL'
+                            ],
+                            ProductDetails:{
+                                productCode:"SHSORFCA33",
+                                idealFor:"Women",
+                                packOf:"1",
+                                occasion:"Festive, Party wear",
+                                fabric:"Satin"
+                            }
+                        },
+        
                     ],
-                    ProductDetails:{
-                        productCode:"SHSJMFPA16",
-                        idealFor:"Women",
-                        packOf:"1",
-                        occasion:"Festive,Party wear",
-                        fabric:"Satin"
-                    }
-                },
-
-                {
-                    title:"Woven Bollywood Cotton Silk Saree (Pink)",
-                    Image:["https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/sari/v/d/i/free-tilak-bpin-bandhani-hub-unstitched-original-imafzfm7s6hhhxyz.jpeg?q=70",
-                    "https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/sari/z/y/h/free-tilak-bpin-bandhani-hub-unstitched-original-imafzfm7pknermkq.jpeg?q=70",
-                    "https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/sari/2/b/i/free-tilak-bpin-bandhani-hub-unstitched-original-imafzfm7gahmg4pn.jpeg?q=70"],
-                    sellingPrice:"2799",
-                    disPrice:"1100",
-                    disPrsent:"60%",
-                    soldBy:"SHOPPEEN",
-                    COD:"Available",
-                    Status:"In-Stock",
-                    quantity:"1",
-                    Size:[
-                        'S','M','L','XL','XXL'
-                    ],
-                    ProductDetails:{
-                        productCode:"SHSLSKC77721A29",
-                        idealFor:"Women",
-                        packOf:"1",
-                        occasion:"Festive,Party wear",
-                        fabric:"Cotton"
-                    }
-                },
-
-                {
-                    title:"Woven Bollywood Cotton Silk Saree (Yellow)",
-                    Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/n/l/s/free-sz-chit-f-mu-862-silk-zone-unstitched-original-imaggsbjnguhntzm.jpeg?q=70",
-                "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/h/1/f/free-sz-chit-f-mu-862-silk-zone-unstitched-original-imaggsbj2gdw2vts.jpeg?q=70",
-            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/x/1/q/free-sz-chit-f-mu-862-silk-zone-unstitched-original-imaggsbjh3bys7br.jpeg?q=70"],
-                    sellingPrice:"2499",
-                    disPrice:"1245",
-                    disPrsent:"50%",
-                    soldBy:"SHOPPEEN",
-                    COD:"Available",
-                    Status:"In-Stock",
-                    quantity:"1",
-                    Size:[
-                        'S','M','L','XL','XXL'
-                    ],
-                    ProductDetails:{
-                        productCode:"SHSLSANU78781A30",
-                        idealFor:"Women",
-                        packOf:"1",
-                        occasion:"Function Wear",
-                        fabric:"Cotton"
-                    }
-                },
-
-                {
-                    title:"Embroidered, Dyed, Embellished, Self Design Bollywood Chiffon Saree ",
-                    Image:["https://rukminim1.flixcart.com/image/832/832/kqgyhe80/sari/o/v/r/free-afkf810-kasturi-fashion-unstitched-original-imag4hbfsyrasu2g.jpeg?q=70",
-                "https://rukminim1.flixcart.com/image/832/832/kqgyhe80/sari/s/v/m/free-afkf810-kasturi-fashion-unstitched-original-imag4hbfkfshe3ew.jpeg?q=70",
-            "https://rukminim1.flixcart.com/image/832/832/kqgyhe80/sari/2/r/n/free-afkf810-kasturi-fashion-unstitched-original-imag4hbfs2arhj8p.jpeg?q=70"],
-                    sellingPrice:"2628",
-                    disPrice:"1456",
-                    disPrsent:"44%",
-                    soldBy:"SHOPPEEN",
-                    COD:"Available",
-                    Status:"In-Stock",
-                    quantity:"1",
-                    Size:[
-                        'S','M','L','XL','XXL'
-                    ],
-                    ProductDetails:{
-                        productCode:"SHSLSVIC77201A01",
-                        idealFor:"Women",
-                        packOf:"1",
-                        occasion:"Festive, Party wear",
-                        fabric:"Satin chiffon"
-                    }
-                },
-
-                {
-                    title:"Woven Kanjivaram Silk Blend Saree (Pink) ",
-                    Image:["https://rukminim1.flixcart.com/image/832/832/kxkqavk0/sari/d/o/3/free-pure-ch-314-marvosa-unstitched-original-imag9zxz2apgu7dn.jpeg?q=70",
-                "https://rukminim1.flixcart.com/image/832/832/kxkqavk0/sari/w/b/0/free-pure-ch-314-marvosa-unstitched-original-imag9zxzrfh2bpw8.jpeg?q=70",
-            "https://rukminim1.flixcart.com/image/832/832/kxkqavk0/sari/o/n/h/free-pure-ch-314-marvosa-unstitched-original-imag9zxzqpsvfgkw.jpeg?q=70"],
-                    sellingPrice:"4024",
-                    disPrice:"1375",
-                    disPrsent:"65%",
-                    soldBy:"SHOPPEEN",
-                    COD:"Available",
-                    Status:"In-Stock",
-                    quantity:"1",
-                    Size:[
-                        'S','M','L','XL','XXL'
-                    ],
-                    ProductDetails:{
-                        productCode:"SHSORCH2A24",
-                        idealFor:"Women",
-                        packOf:"1",
-                        occasion:"Festive, Party wear",
-                        fabric:"Viscose saree"
-                    }
-                },
-
-                {
-                    title:"Woven Bollywood Satin Saree  (Grey)",
-                    Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/m/g/r/free-gf-234-granthva-fab-unstitched-original-imaghfa6vz9kfhjv.jpeg?q=70",
-                "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/h/g/c/free-gf-234-granthva-fab-unstitched-original-imaghfa6vexuaery.jpeg?q=70",
-            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/t/4/k/free-gf-234-granthva-fab-unstitched-original-imaghfa68xys3awy.jpeg?q=70"],
-                    sellingPrice:"2820",
-                    disPrice:"1199",
-                    disPrsent:"57%",
-                    soldBy:"SHOPPEEN",
-                    COD:"Available",
-                    Status:"In-Stock",
-                    quantity:"1",
-                    Size:[
-                        'S','M','L','XL','XXL'
-                    ],
-                    ProductDetails:{
-                        productCode:"SHSORASHA27",
-                        idealFor:"Women",
-                        packOf:"1",
-                        occasion:"Festive, Party wear",
-                        fabric:"Satin"
-                    }
-                },
-
-                {
-                    title:"Embroidered Bollywood Viscose Rayon Saree  (Red)",
-                    Image:["https://rukminim1.flixcart.com/image/832/832/l48s9zk0/shopsy-sari/r/j/d/free-ish3003rd-neer-saree-unstitched-original-imagf72nyhgepwev.jpeg?q=70",
-                "https://rukminim1.flixcart.com/image/832/832/l48s9zk0/shopsy-sari/7/7/i/free-ish3003rd-neer-saree-unstitched-original-imagf72n8cqhqs4c.jpeg?q=70",
-            "https://rukminim1.flixcart.com/image/832/832/l48s9zk0/shopsy-sari/f/x/i/free-ish3003rd-neer-saree-unstitched-original-imagf72nh2m2amzp.jpeg?q=70"],
-                    sellingPrice:"2999",
-                    disPrice:"1145",
-                    disPrsent:"61%",
-                    soldBy:"SHOPPEEN",
-                    COD:"Available",
-                    Status:"In-Stock",
-                    quantity:"1",
-                    Size:[
-                        'S','M','L','XL','XXL'
-                    ],
-                    ProductDetails:{
-                        productCode:"SHSORSQA32",
-                        idealFor:"Women",
-                        packOf:"1",
-                        occasion:"Festive, Party wear",
-                        fabric:"Viscose satin "
-                    }
-                },
-
-                {
-                    title:"Embroidered Bollywood Art Silk Saree ",
-                    Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/w/5/n/free-pattu-saree-ejoty-fashion-unstitched-original-imag4abzywzyk5ry-bb.jpeg?q=70",
-                "https://rukminim1.flixcart.com/image/832/832/kq8dua80/sari/b/f/a/free-pattu-saree-ejoty-fashion-unstitched-original-imag4abzwfmcvcez.jpeg?q=70",
-            "https://rukminim1.flixcart.com/image/832/832/kq8dua80/sari/q/b/x/free-pattu-saree-ejoty-fashion-unstitched-original-imag4abzfj2kfxmr.jpeg?q=70"],
-                    sellingPrice:"2979",
-                    disPrice:"935",
-                    disPrsent:"44%",
-                    soldBy:"SHOPPEEN",
-                    COD:"Available",
-                    Status:"In-Stock",
-                    quantity:"1",
-                    Size:[
-                        'S','M','L','XL','XXL'
-                    ],
-                    ProductDetails:{
-                        productCode:"SHSORFCA33",
-                        idealFor:"Women",
-                        packOf:"1",
-                        occasion:"Festive, Party wear",
-                        fabric:"Satin"
-                    }
-                },
-
-                {
-                    title:"Embroidered Banarasi Satin Saree  (Dark blue)",
-                    Image:["https://rukminim1.flixcart.com/image/832/832/kzrbiq80/sari/5/0/k/free-mk-zal-cosbila-fashion-unstitched-original-imagbpgj83pvffj2.jpeg?q=70",
-                "https://rukminim1.flixcart.com/image/832/832/kzrbiq80/sari/w/d/t/free-mk-zal-cosbila-fashion-unstitched-original-imagbpgjnvfwhaj3.jpeg?q=70",
-            "https://rukminim1.flixcart.com/image/832/832/kzrbiq80/sari/x/h/x/free-mk-zal-cosbila-fashion-unstitched-original-imagbpgjfzybzsgu.jpeg?q=70"],
-                    sellingPrice:"2979",
-                    disPrice:"1450",
-                    disPrsent:"51%",
-                    soldBy:"SHOPPEEN",
-                    COD:"Available",
-                    Status:"In-Stock",
-                    quantity:"1",
-                    Size:[
-                        'S','M','L','XL','XXL'
-                    ],
-                    ProductDetails:{
-                        productCode:"SHSORGSA25",
-                        idealFor:"Women",
-                        packOf:"1",
-                        occasion:"Festive, Party wear",
-                        fabric:"Satin"
-                    }
-                },
-
-                {
-                    title:"Woven Bollywood Satin Saree  (Grey)",
-                    Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/n/r/0/free-pt-rainbow-grey-madhumeena-unstitched-original-imaghjaj3smrqp9g.jpeg?q=70",
-                "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/u/d/p/free-pt-rainbow-grey-madhumeena-unstitched-original-imaghjajxgnuvhtg.jpeg?q=70",
-            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/b/g/y/free-pt-rainbow-grey-madhumeena-unstitched-original-imaghjajwxpmgecf.jpeg?q=70"],
-                    sellingPrice:"2618",
-                    disPrice:"915",
-                    disPrsent:"65%",
-                    soldBy:"SHOPPEEN",
-                    COD:"Available",
-                    Status:"In-Stock",
-                    quantity:"1",
-                    Size:[
-                        'S','M','L','XL','XXL'
-                    ],
-                    ProductDetails:{
-                        productCode:"SHSORRMA34",
-                        idealFor:"Women",
-                        packOf:"1",
-                        occasion:"Festive, Party wear",
-                        fabric:"Satin"
-                    }
-                },
-
-                {
-                    title:"Woven Kanjivaram Silk Blend Saree  (Pink)",
-                    Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/t/y/l/free-gt-1001-m-s-retail-unstitched-original-imagnjyhqgf4zzb3.jpeg?q=70",
-                "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/c/x/r/free-gt-1001-m-s-retail-unstitched-original-imagnjyhfckdzgyc.jpeg?q=70",
-            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/l/7/z/free-gt-1001-m-s-retail-unstitched-original-imagnjyhddssqby7.jpeg?q=70"],
-                    sellingPrice:"3099",
-                    disPrice:"1115",
-                    disPrsent:"64%",
-                    soldBy:"SHOPPEEN",
-                    COD:"Available",
-                    Status:"In-Stock",
-                    quantity:"1",
-                    Size:[
-                        'S','M','L','XL','XXL'
-                    ],
-                    ProductDetails:{
-                        productCode:"SHSORSVA35",
-                        idealFor:"Women",
-                        packOf:"1",
-                        occasion:"Festive, Party wear",
-                        fabric:"Silk viscose"
-                    }
-                },
-
-            ],
-
-
-
-            FancySarees:[
-                {
-                    title:"Embellished Bollywood Georgette Saree ",
-                    Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/m/g/r/free-gf-234-granthva-fab-unstitched-original-imaghfa6vz9kfhjv.jpeg?q=70",
-                "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/h/g/c/free-gf-234-granthva-fab-unstitched-original-imaghfa6vexuaery.jpeg?q=70",
-            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/t/4/k/free-gf-234-granthva-fab-unstitched-original-imaghfa68xys3awy.jpeg?q=70"],
-                    sellingPrice:"2299",
-                    disPrice:"900",
-                    disPrsent:"60%",
-                    soldBy:"SHOPPEEN",
-                    COD:"Available",
-                    Status:"In-Stock",
-                    quantity:"1",
-                    Size:[
-                        'S','M','L','XL','XXL'
-                    ],
-                    ProductDetails:{
-                        productCode:"SHSORCRYA97",
-                        idealFor:"Women",
-                        packOf:"1",
-                        occasion:"Wedding Wear, Party wear",
-                        fabric:"Satin"
-                    }
-                },
-
-                {
-                    title:"Digital Print Gadwal Viscose Rayon, Cotton Blend Saree  (Orange)",
-                    Image:["https://rukminim1.flixcart.com/image/832/832/kxkqavk0/sari/d/o/3/free-pure-ch-314-marvosa-unstitched-original-imag9zxz2apgu7dn.jpeg?q=70",
-                "https://rukminim1.flixcart.com/image/832/832/kxkqavk0/sari/w/b/0/free-pure-ch-314-marvosa-unstitched-original-imag9zxzrfh2bpw8.jpeg?q=70",
-            "https://rukminim1.flixcart.com/image/832/832/kxkqavk0/sari/o/n/h/free-pure-ch-314-marvosa-unstitched-original-imag9zxzqpsvfgkw.jpeg?q=70"],
-                    sellingPrice:"4024",
-                    disPrice:"1375",
-                    disPrsent:"65%",
-                    soldBy:"SHOPPEEN",
-                    COD:"Available",
-                    Status:"In-Stock",
-                    quantity:"1",
-                    Size:[
-                        'S','M','L','XL','XXL'
-                    ],
-                    ProductDetails:{
-                        productCode:"SHSORCH2A24",
-                        idealFor:"Women",
-                        packOf:"1",
-                        occasion:"Festive, Party wear",
-                        fabric:"Viscose saree"
-                    }
-                },
-
-                {
-                    title:"Embellished Bollywood Georgette Saree ",
-                    Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/m/g/r/free-gf-234-granthva-fab-unstitched-original-imaghfa6vz9kfhjv.jpeg?q=70",
-                "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/h/g/c/free-gf-234-granthva-fab-unstitched-original-imaghfa6vexuaery.jpeg?q=70",
-            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/t/4/k/free-gf-234-granthva-fab-unstitched-original-imaghfa68xys3awy.jpeg?q=70"],
-                    sellingPrice:"2820",
-                    disPrice:"1199",
-                    disPrsent:"57%",
-                    soldBy:"SHOPPEEN",
-                    COD:"Available",
-                    Status:"In-Stock",
-                    quantity:"1",
-                    Size:[
-                        'S','M','L','XL','XXL'
-                    ],
-                    ProductDetails:{
-                        productCode:"SHSORASHA27",
-                        idealFor:"Women",
-                        packOf:"1",
-                        occasion:"Festive, Party wear",
-                        fabric:"Satin"
-                    }
-                },
-
-                {
-                    title:"Embroidered Bollywood Viscose Rayon Saree  (Red)",
-                    Image:["https://rukminim1.flixcart.com/image/832/832/l48s9zk0/shopsy-sari/r/j/d/free-ish3003rd-neer-saree-unstitched-original-imagf72nyhgepwev.jpeg?q=70",
-                "https://rukminim1.flixcart.com/image/832/832/l48s9zk0/shopsy-sari/7/7/i/free-ish3003rd-neer-saree-unstitched-original-imagf72n8cqhqs4c.jpeg?q=70",
-            "https://rukminim1.flixcart.com/image/832/832/l48s9zk0/shopsy-sari/f/x/i/free-ish3003rd-neer-saree-unstitched-original-imagf72nh2m2amzp.jpeg?q=70"],
-                    sellingPrice:"2999",
-                    disPrice:"1145",
-                    disPrsent:"61%",
-                    soldBy:"SHOPPEEN",
-                    COD:"Available",
-                    Status:"In-Stock",
-                    quantity:"1",
-                    Size:[
-                        'S','M','L','XL','XXL'
-                    ],
-                    ProductDetails:{
-                        productCode:"SHSORSQA32",
-                        idealFor:"Women",
-                        packOf:"1",
-                        occasion:"Festive, Party wear",
-                        fabric:"Viscose satin "
-                    }
-                },
-
-                {
-                    title:"Women Banarasi Satin Saree ",
-                    Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/w/5/n/free-pattu-saree-ejoty-fashion-unstitched-original-imag4abzywzyk5ry-bb.jpeg?q=70",
-                "https://rukminim1.flixcart.com/image/832/832/kq8dua80/sari/b/f/a/free-pattu-saree-ejoty-fashion-unstitched-original-imag4abzwfmcvcez.jpeg?q=70",
-            "https://rukminim1.flixcart.com/image/832/832/kq8dua80/sari/q/b/x/free-pattu-saree-ejoty-fashion-unstitched-original-imag4abzfj2kfxmr.jpeg?q=70"],
-                    sellingPrice:"2979",
-                    disPrice:"935",
-                    disPrsent:"44%",
-                    soldBy:"SHOPPEEN",
-                    COD:"Available",
-                    Status:"In-Stock",
-                    quantity:"1",
-                    Size:[
-                        'S','M','L','XL','XXL'
-                    ],
-                    ProductDetails:{
-                        productCode:"SHSORFCA33",
-                        idealFor:"Women",
-                        packOf:"1",
-                        occasion:"Festive, Party wear",
-                        fabric:"Satin"
-                    }
-                },
-
-            ],
-
-            SilkSarees:[
+            },
+            {
+                title:"SilkSarees",
+                
+               SilkSarees:[
                 {
                     title:"Woven Bollywood Cotton Silk Saree  (Pink)",
                     Image:["https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/sari/v/d/i/free-tilak-bpin-bandhani-hub-unstitched-original-imafzfm7s6hhhxyz.jpeg?q=70",
@@ -471,278 +477,288 @@ const Categories = [
                 },
             ],
 
-            PrintedSarees:[
-                {
-                    title:"Floral Print Bollywood Chiffon, Brasso Saree  (Dark black, Pink)",
-                    Image:["https://rukminim1.flixcart.com/image/832/832/l4ln8nk0/sari/d/g/z/free-2535s935-samah-unstitched-original-imagfgq5zhkgknt4.jpeg?q=70",
-                    "https://rukminim1.flixcart.com/image/832/832/l4ln8nk0/sari/z/6/l/free-2535s935-samah-unstitched-original-imagfgq5qynhyxge.jpeg?q=70",
-                "https://rukminim1.flixcart.com/image/832/832/l4ln8nk0/sari/k/h/m/free-2535s935-samah-unstitched-original-imagfgq5hwm5tnfz.jpeg?q=70"],
-                        sellingPrice:"2710",
-                        disPrice:"835",
-                        disPrsent:"69%",
-                        soldBy:"SHOPPEEN",
-                        COD:"Available",
-                        Status:"In-Stock",
-                        quantity:"1",
-                        Size:[
-                            'S','M','L','XL','XXL'
-                        ],
-                        ProductDetails:{
-                            productCode:"SHSSAJ1035A598",
-                            idealFor:"Women",
-                            packOf:"1",
-                            occasion:"Daily wear, Casual wear",
-                            fabric:"Chiffon"
-                        }
-                },
-
-                {
-                    title:"Printed, Self Design, Hand Painted, Embroidered, Embellished, Graphic Print, Floral Print Bollywood Georgette, Chiffon Saree  (Beige)",
-                    Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/m/d/g/free-tikka-lach-sareesnew2022-2023simplechiffon-virasat-blue-original-imagkefgfqssbuga.jpeg?q=70",
-                    "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/u/5/g/free-tikka-lach-sareesnew2022-2023simplechiffon-virasat-blue-original-imagkefgsmj7px4d.jpeg?q=70",
-                "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/g/i/x/free-tikka-lach-sareesnew2022-2023simplechiffon-virasat-blue-original-imagkefgazqg4e2g.jpeg?q=70"],
-                        sellingPrice:"1799",
-                        disPrice:"590",
-                        disPrsent:"67%",
-                        soldBy:"SHOPPEEN",
-                        COD:"Available",
-                        Status:"In-Stock",
-                        quantity:"1",
-                        Size:[
-                            'S','M','L','XL','XXL'
-                        ],
-                        ProductDetails:{
-                            productCode:"SHSSMCCF6847A606",
-                            idealFor:"Women",
-                            packOf:"1",
-                            occasion:"Daily wear, Casual wear",
-                            fabric:"Multi Chiffon"
-                        }
-                },
-
-                {
-                    title:"Geometric Print, Printed, Embellished Bollywood Chiffon Saree  (Light Blue)",
-                    Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/n/w/m/free-2662s2207j-siril-unstitched-original-imagkfhyhpmzt5wf.jpeg?q=70",
-                    "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/k/u/4/free-2662s2207j-siril-unstitched-original-imagkfhymq6k822t.jpeg?q=70",
-                "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/9/f/z/free-2662s2207j-siril-unstitched-original-imagkfhytp79qkcr.jpeg?q=70"],
-                        sellingPrice:"1799",
-                        disPrice:"810",
-                        disPrsent:"54%",
-                        soldBy:"SHOPPEEN",
-                        COD:"Available",
-                        Status:"In-Stock",
-                        quantity:"1",
-                        Size:[
-                            'S','M','L','XL','XXL'
-                        ],
-                        ProductDetails:{
-                            productCode:"SHSSMCCF6872A608",
-                            idealFor:"Women",
-                            packOf:"1",
-                            occasion:"Daily wear, Casual wear",
-                            fabric:"Multi chiffon"
-                        }
-                },
-
-                {
-                    title:"Printed Daily Wear Chiffon Saree  (Multicolor, Blue)",
-                    Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/d/k/i/free-2661s2182j-siril-unstitched-original-imagkfhyy3egtgnh.jpeg?q=70",
-                    "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/y/r/g/free-2661s2182j-siril-unstitched-original-imagkfhypayd2yrn.jpeg?q=70",
-                "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/h/v/v/free-2661s2182j-siril-unstitched-original-imagkfhybqbrd4gr.jpeg?q=70"],
-                        sellingPrice:"1799",
-                        disPrice:"570",
-                        disPrsent:"54%",
-                        soldBy:"SHOPPEEN",
-                        COD:"Available",
-                        Status:"In-Stock",
-                        quantity:"1",
-                        Size:[
-                            'S','M','L','XL','XXL'
-                        ],
-                        ProductDetails:{
-                            productCode:"SHSSMCCF6857A607",
-                            idealFor:"Women",
-                            packOf:"1",
-                            occasion:"Daily wear, Casual wear",
-                            fabric:"Multi chiffon"
-                        }
-                }
-            ],
-
-            DesignerAndStoneworkSarees:[
-                {
-                    title:"Self Design, Woven Kanjivaram Pure Silk, Cotton Silk Saree ",
-                    Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/6/f/r/free-2675s194ra-satrani-unstitched-original-imagmyg3ajp8yhbq.jpeg?q=70",
-                "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/b/s/w/free-2675s194ra-satrani-unstitched-original-imagmyg3pteav4fm.jpeg?q=70",
-            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/1/y/u/free-2675s194ra-satrani-unstitched-original-imagmyg3mwukqyd9.jpeg?q=70"],
-                    sellingPrice:"3999",
-                    disPrice:"1450",
-                    disPrsent:"63%",
-                    soldBy:"SHOPPEEN",
-                    COD:"Available",
-                    Status:"In-Stock",
-                    quantity:"1",
-                    Size:[
-                        'S','M','L','XL','XXL'
-                    ],
-                    ProductDetails:{
-                        productCode:"SHSDDDOL1543A695",
-                        idealFor:"Women",
-                        packOf:"1",
-                        occasion:"Festive, Party wear",
-                        fabric:"Chinon"
-                    } 
-                },
-
-                {
-                    title:"Embellished Bollywood Art Silk Saree ",
-                    Image:["https://rukminim1.flixcart.com/image/832/832/kzvlua80/sari/7/s/l/free-sds0030-sadika-unstitched-original-imagbsg4na5x3gfn.jpeg?q=70",
-                "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/f/4/y/free-mc020-new-matruchhaya-unstitched-original-imagm2chmfqu38kq.jpeg?q=70",
-            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/c/z/s/free-mc020-new-matruchhaya-unstitched-original-imagm2chf38gztnp.jpeg?q=70"],
-                    sellingPrice:"6799",
-                    disPrice:"2245",
-                    disPrsent:"66%",
-                    soldBy:"SHOPPEEN",
-                    COD:"Available",
-                    Status:"In-Stock",
-                    quantity:"1",
-                    Size:[
-                        'S','M','L','XL','XXL'
-                    ],
-                    ProductDetails:{
-                        productCode:"SOSDDVOLVO1391A677",
-                        idealFor:"Women",
-                        packOf:"1",
-                        occasion:"Wedding Wear, Party wear",
-                        fabric:"Hand Wash"
-                    } 
-                },
-
-                {
-                    title:"Self Design, Woven Kanjivaram Art Silk, Cotton Silk Saree  (Green)",
-                    Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/r/3/i/free-2678s663-samah-unstitched-original-imagkv2cgnacpfyh.jpeg?q=70",
-                "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/r/n/n/free-2678s663-samah-unstitched-original-imagkv2cfnmzs2qh.jpeg?q=70",
-            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/4/k/y/free-2678s663-samah-unstitched-original-imagkv2cfya8tdrg.jpeg?q=70"],
-                    sellingPrice:"3699",
-                    disPrice:"1150",
-                    disPrsent:"68%",
-                    soldBy:"SHOPPEEN",
-                    COD:"Available",
-                    Status:"In-Stock",
-                    quantity:"1",
-                    Size:[
-                        'S','M','L','XL','XXL'
-                    ],
-                    ProductDetails:{
-                        productCode:"SHSDDSIRBORA673",
-                        idealFor:"Women",
-                        packOf:"1",
-                        occasion:"Wedding Wear, Party wear",
-                        fabric:"Crape silk"
-                    } 
-                },
-
-                {
-                    title:"Self Design, Woven Kanjivaram Art Silk, Cotton Silk Saree  (Light Blue)",
-                    Image:["https://rukminim1.flixcart.com/image/832/832/kjn6qvk0-0/sari/i/a/9/free-banarasi-silk-fashion-ritmo-unstitched-original-imafz5sadsyupaa7.jpeg?q=70",
-                "https://rukminim1.flixcart.com/image/832/832/kmds4nk0/sari/w/r/t/free-banarasi-butti-green-bplash-fashion-unstitched-original-imagfavrrypydd9c.jpeg?q=70",
-            "https://rukminim1.flixcart.com/image/832/832/kmds4nk0/sari/s/v/s/free-banarasi-butti-green-bplash-fashion-unstitched-original-imagfavrknmcfzuc.jpeg?q=70"],
-                    sellingPrice:"5950",
-                    disPrice:"2395",
-                    disPrsent:"59%",
-                    soldBy:"SHOPPEEN",
-                    COD:"Available",
-                    Status:"In-Stock",
-                    quantity:"1",
-                    Size:[
-                        'S','M','L','XL','XXL'
-                    ],
-                    ProductDetails:{
-                        productCode:"SHSDDSWAS1291A693",
-                        idealFor:"Women",
-                        packOf:"1",
-                        occasion:"Festive, Party wear",
-                        fabric:"German silk"
-                    } 
-                },
-
-                {
-                    title:"Self Design, Ombre, Temple Border, Embroidered, Embellished, Woven Bollywood Silk Blend, Cotton Silk ",
-                    Image:["https://rukminim1.flixcart.com/image/832/832/k2qh5zk0/sari/7/y/d/free-kara124-pink-sariya-original-imafmyxs2a4nxrbn.jpeg?q=70",
-                "https://rukminim1.flixcart.com/image/832/832/k2qh5zk0/sari/7/y/d/free-kara124-pink-sariya-original-imafmyxsrzvymhkh.jpeg?q=70",
-            "https://rukminim1.flixcart.com/image/832/832/k2qh5zk0/sari/7/y/d/free-kara124-pink-sariya-original-imafmyxsh5g6xvvg.jpeg?q=70"],
-                    sellingPrice:"5951",
-                    disPrice:"2190",
-                    disPrsent:"63%",
-                    soldBy:"SHOPPEEN",
-                    COD:"Available",
-                    Status:"In-Stock",
-                    quantity:"1",
-                    Size:[
-                        'S','M','L','XL','XXL'
-                    ],
-                    ProductDetails:{
-                        productCode:"SHSDDZOM1443A694",
-                        idealFor:"Women",
-                        packOf:"1",
-                        occasion:"Wedding Wear, Party wear",
-                        fabric:"Hand silk"
-                    } 
-                }
-            ],
-
-            BollywoodCollections:[
-                {
-                    title:"Printed, Digital Print Bollywood Satin Saree  (White)",
-                    Image:["https://rukminim1.flixcart.com/image/832/832/kwtkxow0/sari/2/a/z/free-looknbook-7045-peach-fabian-fashion-unstitched-original-imag9eztv86gbvfq.jpeg?q=70",
-                    "https://rukminim1.flixcart.com/image/832/832/kwtkxow0/sari/s/k/x/free-looknbook-7045-peach-fabian-fashion-unstitched-original-imag9ezt5bhwxm3z.jpeg?q=70",
-                "https://rukminim1.flixcart.com/image/832/832/kxtaxzk0/shopsy-sari/d/s/j/free-lnb-fabian-fashion-unstitched-original-imaga6mvtkskmess.jpeg?q=70"],
-                    sellingPrice:"2624",
-                    disPrice:"975",
-                    disPrsent:"62%",
-                    soldBy:"SHOPPEEN",
-                    COD:"Available",
-                    Status:"In-Stock",
-                    quantity:"1",
-                    Size:[
-                        'S','M','L','XL','XXL'
-                    ],
-                    ProductDetails:{
-                        productCode:"SHSJMFPA16",
-                        idealFor:"Women",
-                        packOf:"1",
-                        occasion:"Festive,Party wear",
-                        fabric:"Satin"
+            },
+            {
+                title:"PrintedSarees",
+                PrintedSarees:[
+                    {
+                        title:"Floral Print Bollywood Chiffon, Brasso Saree  (Dark black, Pink)",
+                        Image:["https://rukminim1.flixcart.com/image/832/832/l4ln8nk0/sari/d/g/z/free-2535s935-samah-unstitched-original-imagfgq5zhkgknt4.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/l4ln8nk0/sari/z/6/l/free-2535s935-samah-unstitched-original-imagfgq5qynhyxge.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/l4ln8nk0/sari/k/h/m/free-2535s935-samah-unstitched-original-imagfgq5hwm5tnfz.jpeg?q=70"],
+                            sellingPrice:"2710",
+                            disPrice:"835",
+                            disPrsent:"69%",
+                            soldBy:"SHOPPEEN",
+                            COD:"Available",
+                            Status:"In-Stock",
+                            quantity:"1",
+                            Size:[
+                                'S','M','L','XL','XXL'
+                            ],
+                            ProductDetails:{
+                                productCode:"SHSSAJ1035A598",
+                                idealFor:"Women",
+                                packOf:"1",
+                                occasion:"Daily wear, Casual wear",
+                                fabric:"Chiffon"
+                            }
+                    },
+    
+                    {
+                        title:"Printed, Self Design, Hand Painted, Embroidered, Embellished, Graphic Print, Floral Print Bollywood Georgette, Chiffon Saree  (Beige)",
+                        Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/m/d/g/free-tikka-lach-sareesnew2022-2023simplechiffon-virasat-blue-original-imagkefgfqssbuga.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/u/5/g/free-tikka-lach-sareesnew2022-2023simplechiffon-virasat-blue-original-imagkefgsmj7px4d.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/g/i/x/free-tikka-lach-sareesnew2022-2023simplechiffon-virasat-blue-original-imagkefgazqg4e2g.jpeg?q=70"],
+                            sellingPrice:"1799",
+                            disPrice:"590",
+                            disPrsent:"67%",
+                            soldBy:"SHOPPEEN",
+                            COD:"Available",
+                            Status:"In-Stock",
+                            quantity:"1",
+                            Size:[
+                                'S','M','L','XL','XXL'
+                            ],
+                            ProductDetails:{
+                                productCode:"SHSSMCCF6847A606",
+                                idealFor:"Women",
+                                packOf:"1",
+                                occasion:"Daily wear, Casual wear",
+                                fabric:"Multi Chiffon"
+                            }
+                    },
+    
+                    {
+                        title:"Geometric Print, Printed, Embellished Bollywood Chiffon Saree  (Light Blue)",
+                        Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/n/w/m/free-2662s2207j-siril-unstitched-original-imagkfhyhpmzt5wf.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/k/u/4/free-2662s2207j-siril-unstitched-original-imagkfhymq6k822t.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/9/f/z/free-2662s2207j-siril-unstitched-original-imagkfhytp79qkcr.jpeg?q=70"],
+                            sellingPrice:"1799",
+                            disPrice:"810",
+                            disPrsent:"54%",
+                            soldBy:"SHOPPEEN",
+                            COD:"Available",
+                            Status:"In-Stock",
+                            quantity:"1",
+                            Size:[
+                                'S','M','L','XL','XXL'
+                            ],
+                            ProductDetails:{
+                                productCode:"SHSSMCCF6872A608",
+                                idealFor:"Women",
+                                packOf:"1",
+                                occasion:"Daily wear, Casual wear",
+                                fabric:"Multi chiffon"
+                            }
+                    },
+    
+                    {
+                        title:"Printed Daily Wear Chiffon Saree  (Multicolor, Blue)",
+                        Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/d/k/i/free-2661s2182j-siril-unstitched-original-imagkfhyy3egtgnh.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/y/r/g/free-2661s2182j-siril-unstitched-original-imagkfhypayd2yrn.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/h/v/v/free-2661s2182j-siril-unstitched-original-imagkfhybqbrd4gr.jpeg?q=70"],
+                            sellingPrice:"1799",
+                            disPrice:"570",
+                            disPrsent:"54%",
+                            soldBy:"SHOPPEEN",
+                            COD:"Available",
+                            Status:"In-Stock",
+                            quantity:"1",
+                            Size:[
+                                'S','M','L','XL','XXL'
+                            ],
+                            ProductDetails:{
+                                productCode:"SHSSMCCF6857A607",
+                                idealFor:"Women",
+                                packOf:"1",
+                                occasion:"Daily wear, Casual wear",
+                                fabric:"Multi chiffon"
+                            }
                     }
-                },
-
-                {
-                    title:"Embroidered Bollywood Art Silk Saree  (orange)",
-                    Image:["https://rukminim1.flixcart.com/image/832/832/kqgyhe80/sari/o/v/r/free-afkf810-kasturi-fashion-unstitched-original-imag4hbfsyrasu2g.jpeg?q=70",
-                "https://rukminim1.flixcart.com/image/832/832/kqgyhe80/sari/s/v/m/free-afkf810-kasturi-fashion-unstitched-original-imag4hbfkfshe3ew.jpeg?q=70",
-            "https://rukminim1.flixcart.com/image/832/832/kqgyhe80/sari/2/r/n/free-afkf810-kasturi-fashion-unstitched-original-imag4hbfs2arhj8p.jpeg?q=70"],
-                    sellingPrice:"2628",
-                    disPrice:"1456",
-                    disPrsent:"44%",
-                    soldBy:"SHOPPEEN",
-                    COD:"Available",
-                    Status:"In-Stock",
-                    quantity:"1",
-                    Size:[
-                        'S','M','L','XL','XXL'
-                    ],
-                    ProductDetails:{
-                        productCode:"SHSLSVIC77201A01",
-                        idealFor:"Women",
-                        packOf:"1",
-                        occasion:"Festive, Party wear",
-                        fabric:"Satin chiffon"
+                ],
+            },
+            {
+                title:"Designer AndS tonework Sarees",
+                DesignerAndStoneworkSarees:[
+                    {
+                        title:"Self Design, Woven Kanjivaram Pure Silk, Cotton Silk Saree ",
+                        Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/6/f/r/free-2675s194ra-satrani-unstitched-original-imagmyg3ajp8yhbq.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/b/s/w/free-2675s194ra-satrani-unstitched-original-imagmyg3pteav4fm.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/1/y/u/free-2675s194ra-satrani-unstitched-original-imagmyg3mwukqyd9.jpeg?q=70"],
+                        sellingPrice:"3999",
+                        disPrice:"1450",
+                        disPrsent:"63%",
+                        soldBy:"SHOPPEEN",
+                        COD:"Available",
+                        Status:"In-Stock",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHSDDDOL1543A695",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Festive, Party wear",
+                            fabric:"Chinon"
+                        } 
+                    },
+    
+                    {
+                        title:"Embellished Bollywood Art Silk Saree ",
+                        Image:["https://rukminim1.flixcart.com/image/832/832/kzvlua80/sari/7/s/l/free-sds0030-sadika-unstitched-original-imagbsg4na5x3gfn.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/f/4/y/free-mc020-new-matruchhaya-unstitched-original-imagm2chmfqu38kq.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/c/z/s/free-mc020-new-matruchhaya-unstitched-original-imagm2chf38gztnp.jpeg?q=70"],
+                        sellingPrice:"6799",
+                        disPrice:"2245",
+                        disPrsent:"66%",
+                        soldBy:"SHOPPEEN",
+                        COD:"Available",
+                        Status:"In-Stock",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SOSDDVOLVO1391A677",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Wedding Wear, Party wear",
+                            fabric:"Hand Wash"
+                        } 
+                    },
+    
+                    {
+                        title:"Self Design, Woven Kanjivaram Art Silk, Cotton Silk Saree  (Green)",
+                        Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/r/3/i/free-2678s663-samah-unstitched-original-imagkv2cgnacpfyh.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/r/n/n/free-2678s663-samah-unstitched-original-imagkv2cfnmzs2qh.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/4/k/y/free-2678s663-samah-unstitched-original-imagkv2cfya8tdrg.jpeg?q=70"],
+                        sellingPrice:"3699",
+                        disPrice:"1150",
+                        disPrsent:"68%",
+                        soldBy:"SHOPPEEN",
+                        COD:"Available",
+                        Status:"In-Stock",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHSDDSIRBORA673",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Wedding Wear, Party wear",
+                            fabric:"Crape silk"
+                        } 
+                    },
+    
+                    {
+                        title:"Self Design, Woven Kanjivaram Art Silk, Cotton Silk Saree  (Light Blue)",
+                        Image:["https://rukminim1.flixcart.com/image/832/832/kjn6qvk0-0/sari/i/a/9/free-banarasi-silk-fashion-ritmo-unstitched-original-imafz5sadsyupaa7.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/kmds4nk0/sari/w/r/t/free-banarasi-butti-green-bplash-fashion-unstitched-original-imagfavrrypydd9c.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kmds4nk0/sari/s/v/s/free-banarasi-butti-green-bplash-fashion-unstitched-original-imagfavrknmcfzuc.jpeg?q=70"],
+                        sellingPrice:"5950",
+                        disPrice:"2395",
+                        disPrsent:"59%",
+                        soldBy:"SHOPPEEN",
+                        COD:"Available",
+                        Status:"In-Stock",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHSDDSWAS1291A693",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Festive, Party wear",
+                            fabric:"German silk"
+                        } 
+                    },
+    
+                    {
+                        title:"Self Design, Ombre, Temple Border, Embroidered, Embellished, Woven Bollywood Silk Blend, Cotton Silk ",
+                        Image:["https://rukminim1.flixcart.com/image/832/832/k2qh5zk0/sari/7/y/d/free-kara124-pink-sariya-original-imafmyxs2a4nxrbn.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/k2qh5zk0/sari/7/y/d/free-kara124-pink-sariya-original-imafmyxsrzvymhkh.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/k2qh5zk0/sari/7/y/d/free-kara124-pink-sariya-original-imafmyxsh5g6xvvg.jpeg?q=70"],
+                        sellingPrice:"5951",
+                        disPrice:"2190",
+                        disPrsent:"63%",
+                        soldBy:"SHOPPEEN",
+                        COD:"Available",
+                        Status:"In-Stock",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHSDDZOM1443A694",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Wedding Wear, Party wear",
+                            fabric:"Hand silk"
+                        } 
                     }
-                },
-
-
-            ],
-
+                ],
+            },
+            {
+                title:"Bollywood Collections",
+                BollywoodCollections:[
+                    {
+                        title:"Printed, Digital Print Bollywood Satin Saree  (White)",
+                        Image:["https://rukminim1.flixcart.com/image/832/832/kwtkxow0/sari/2/a/z/free-looknbook-7045-peach-fabian-fashion-unstitched-original-imag9eztv86gbvfq.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/kwtkxow0/sari/s/k/x/free-looknbook-7045-peach-fabian-fashion-unstitched-original-imag9ezt5bhwxm3z.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/kxtaxzk0/shopsy-sari/d/s/j/free-lnb-fabian-fashion-unstitched-original-imaga6mvtkskmess.jpeg?q=70"],
+                        sellingPrice:"2624",
+                        disPrice:"975",
+                        disPrsent:"62%",
+                        soldBy:"SHOPPEEN",
+                        COD:"Available",
+                        Status:"In-Stock",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHSJMFPA16",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Festive,Party wear",
+                            fabric:"Satin"
+                        }
+                    },
+    
+                    {
+                        title:"Embroidered Bollywood Art Silk Saree  (orange)",
+                        Image:["https://rukminim1.flixcart.com/image/832/832/kqgyhe80/sari/o/v/r/free-afkf810-kasturi-fashion-unstitched-original-imag4hbfsyrasu2g.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/kqgyhe80/sari/s/v/m/free-afkf810-kasturi-fashion-unstitched-original-imag4hbfkfshe3ew.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kqgyhe80/sari/2/r/n/free-afkf810-kasturi-fashion-unstitched-original-imag4hbfs2arhj8p.jpeg?q=70"],
+                        sellingPrice:"2628",
+                        disPrice:"1456",
+                        disPrsent:"44%",
+                        soldBy:"SHOPPEEN",
+                        COD:"Available",
+                        Status:"In-Stock",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHSLSVIC77201A01",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Festive, Party wear",
+                            fabric:"Satin chiffon"
+                        }
+                    },
+    
+    
+                ],
+            },
+            {
+                title:"Japan Satin Sarees",
+                
             JapanSatinSarees:[
                 {
                     title:"Printed, Digital Print Bollywood Satin Saree  (White)",
@@ -793,7 +809,8 @@ const Categories = [
                 },
 
             ]
-        }
+            }
+        ]      
 },
 
 Kurtis={

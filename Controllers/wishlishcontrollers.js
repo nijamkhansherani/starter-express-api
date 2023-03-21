@@ -7,14 +7,13 @@ const asyncHandler = require('express-async-handler');
 
 
 const getwishlish = async (req, res) => {
-    // let data = await wishlish.find({ user_id: req.user});
+    let data = await wishlish.find({ user_id: req.user});
     
-    // if(!data.length){
-    //     res.status(200).json({ status: false, massage: "cart is empty"})
-    // }
-    // console.log("====>", data);
-    // res.status(200).json({ status: true, massage: data})
-    console.log("=========req.user",req.user)
+    if(!data.length){
+        res.status(200).json({ status: false, massage: "cart is empty"})
+    }
+    console.log("====>", data);
+    res.status(200).json({ status: true, massage: data})
     
     }
     
@@ -45,7 +44,7 @@ const deletewishlish=  async(req,res)=>{
         res.status(400);
         res.send("user not found");
     }
-        await findid.remove();
+        await findid.remove()
        
     res.status(200).json({message : `delete data ${req.params.id}`});
  }
