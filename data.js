@@ -7,7 +7,7 @@ const Categories = [
         data:[
             {
                 title:"Sarees",
-                Sarees:[
+                Productlist:[
                     {
                         title:"Printed, Digital Print Bollywood Satin Saree ( White )",
                         Image:["https://rukminim1.flixcart.com/image/832/832/kwtkxow0/sari/2/a/z/free-looknbook-7045-peach-fabian-fashion-unstitched-original-imag9eztv86gbvfq.jpeg?q=70",
@@ -277,7 +277,7 @@ const Categories = [
             },
             {
                     title:"Fancy Sarees",
-                    FancySarees:[
+                    Productlist:[
                         {
                             title:"Embellished Bollywood Georgette Saree ",
                             Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/m/g/r/free-gf-234-granthva-fab-unstitched-original-imaghfa6vz9kfhjv.jpeg?q=70",
@@ -402,8 +402,7 @@ const Categories = [
             },
             {
                 title:"Silk Sarees",
-                
-               SilkSarees:[
+                Productlist:[
                 {
                     title:"Woven Bollywood Cotton Silk Saree  (Pink)",
                     Image:["https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/sari/v/d/i/free-tilak-bpin-bandhani-hub-unstitched-original-imafzfm7s6hhhxyz.jpeg?q=70",
@@ -480,7 +479,7 @@ const Categories = [
             },
             {
                 title:"Printed Sarees",
-                PrintedSarees:[
+                Productlist:[
                     {
                         title:"Floral Print Bollywood Chiffon, Brasso Saree  (Dark black, Pink)",
                         Image:["https://rukminim1.flixcart.com/image/832/832/l4ln8nk0/sari/d/g/z/free-2535s935-samah-unstitched-original-imagfgq5zhkgknt4.jpeg?q=70",
@@ -580,7 +579,7 @@ const Categories = [
             },
             {
                 title:"Designer And Stonework Sarees",
-                DesignerAndStoneworkSarees:[
+                Productlist:[
                     {
                         title:"Self Design, Woven Kanjivaram Pure Silk, Cotton Silk Saree ",
                         Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/6/f/r/free-2675s194ra-satrani-unstitched-original-imagmyg3ajp8yhbq.jpeg?q=70",
@@ -704,7 +703,7 @@ const Categories = [
             },
             {
                 title:"Bollywood Collections",
-                BollywoodCollections:[
+                Productlist:[
                     {
                         title:"Printed, Digital Print Bollywood Satin Saree  (White)",
                         Image:["https://rukminim1.flixcart.com/image/832/832/kwtkxow0/sari/2/a/z/free-looknbook-7045-peach-fabian-fashion-unstitched-original-imag9eztv86gbvfq.jpeg?q=70",
@@ -758,8 +757,7 @@ const Categories = [
             },
             {
                 title:"Japan Satin Sarees",
-                
-            JapanSatinSarees:[
+                 Productlist:[
                 {
                     title:"Printed, Digital Print Bollywood Satin Saree  (White)",
                     Image:["https://rukminim1.flixcart.com/image/832/832/kwtkxow0/sari/2/a/z/free-looknbook-7045-peach-fabian-fashion-unstitched-original-imag9eztv86gbvfq.jpeg?q=70",
@@ -819,7 +817,7 @@ Kurtis={
     data:[
         {
             title:"Kurtis",
-            Kurtis:[
+            Productlist:[
                 {
                     title:"Women Printed Viscose Rayon Straight Kurta  (Black)",
                     Image:[
@@ -949,7 +947,7 @@ Kurtis={
         },
         {
             title:"Long Kurtis",
-            LongKurtis:[
+            Productlist:[
                 {
                     title:"Women Printed Georgette Gown Kurta  (Purple)",
                     Image:[
@@ -1079,7 +1077,7 @@ Kurtis={
         },
         {
             title:"MidLength Kurtis",
-            MidLengthKurtis:[
+            Productlist:[
                 {
                     title:"Women Printed Georgette Gown Kurta  (Purple)",
                     Image:[
@@ -1209,7 +1207,7 @@ Kurtis={
         },
         {
             title:"Short Tops",
-            ShortTops:[
+            Productlist:[
                 {
                     title:"Women Embroidered Viscose Rayon Straight Kurta  (Yellow)",
                     Image:[
@@ -1339,7 +1337,7 @@ Kurtis={
         },
         {
             title:"Dresses",
-            Dresses:[
+            Productlist:[
                 {
                     title:"Women Chikan Embroidery Cotton Rayon A-line Kurta  (Purple)",
                     Image:[
@@ -1477,7 +1475,7 @@ Lehengas={
     data:[
         {
             title:"Lehengas",
-            Lehengas:[
+            Productlist:[
                 { 
                     title:"Embroidered Semi Stitched Lehenga Choli  (Pink)",
                     Image:[ "https://rukminim1.flixcart.com/image/832/832/kxjav0w0/lehenga-choli/1/n/f/free-half-sleeve-l104-foriox-original-imag9yhyeqmczzws.jpeg?q=70",
@@ -1632,7 +1630,7 @@ Lehengas={
         },
         {
             title:"Velvet Lehengas",
-            VelvetLehengas:[
+            Productlist:[
                 { 
                     title:"Embroidered Semi Stitched Lehenga Choli  (Pink)",
                     Image:[ "https://rukminim1.flixcart.com/image/832/832/kxjav0w0/lehenga-choli/1/n/f/free-half-sleeve-l104-foriox-original-imag9yhyeqmczzws.jpeg?q=70",
@@ -1787,7 +1785,7 @@ Lehengas={
         },
         {
             title:"Netted Lehengas",
-            NettedLehengas:[
+            Productlist:[
                 { 
                     title:"Embroidered Semi Stitched Lehenga Choli  (Pink)",
                     Image:[ "https://rukminim1.flixcart.com/image/832/832/kxjav0w0/lehenga-choli/1/n/f/free-half-sleeve-l104-foriox-original-imag9yhyeqmczzws.jpeg?q=70",
@@ -1954,7 +1952,7 @@ Trousers={
     data:[
         {
             title:"Trousers",
-            Trousers:[
+            Productlist:[
                 { 
                     title:"Men Slim Fit Light Green Cotton Blend Trousers",
                     Image:[ "https://rukminim1.flixcart.com/image/832/832/klscivk0/trouser/q/q/k/28-sktr-4242-olv-fubar-original-imagyuff8uq6cxny.jpeg?q=70",
@@ -2009,7 +2007,7 @@ Trousers={
         },
         {
             title:"Jeans",
-            Jeans:[
+            Productlist:[
                 { 
                     title:"Boys Slim Mid Rise Grey Jeans",
                     Image:[ "https://rukminim1.flixcart.com/image/832/832/xif0q/jean/2/x/b/13-14-years-junhpsjoggerboy-lgrey-urbano-juniors-original-imafpm83zszw3dfn-bb.jpeg?q=70",
@@ -2064,7 +2062,7 @@ Trousers={
         },
         {
             title:"Popcorn Pants",
-            PopcornPants :[
+            Productlist:[
                 { 
                     title:"Men Slim Fit Gold Lycra Blend Trousers",
                     Image:[ "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/m/k/l/32-4way-20-grandstitch-original-imaggqhxhu8tk2dy.jpeg?q=70",
@@ -2119,7 +2117,7 @@ Trousers={
         },
         {
             title:"Lycra Pants",
-            LycraPants :[
+            Productlist:[
                 { 
                     title:"Men Slim Fit Light Blue Lycra Blend Trousers",
                     Image:[ "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/i/v/k/34-lycra001-online-cloth-khazana-original-imaghdg7dnetsgmt.jpeg?q=70",
@@ -2174,7 +2172,7 @@ Trousers={
         },
         {
           title:"Formal Pants",
-          FormalPants :[
+          Productlist:[
             { 
                 title:"Men Regular Fit Trousers",
                 Image:[ "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/w/o/a/34-22a4ctwb1019i901-united-colors-of-benetton-original-imagjs7hqygaqsze.jpeg?q=70",
@@ -2234,7 +2232,7 @@ Trousers={
     data:[
         {
             title:"Shirts",
-            Shirts:[
+            Productlist:[
                 { 
                     title:"Men Regular Fit Printed Casual Shirt",
                     Image:[ "https://rukminim1.flixcart.com/image/832/832/kc6jyq80/shirt/q/2/v/m-hm-shirt02-hanumntra-original-imaftd53zzeqchzy.jpeg?q=70",
@@ -2395,7 +2393,7 @@ Trousers={
         },
         {
             title:"Forml Shirts",
-            FormlShirts:[
+            Productlist:[
                 { 
                     title:"Men Slim Fit Printed Spread Collar Casual Shirt",
                     Image:[ "https://rukminim1.flixcart.com/image/832/832/kc6jyq80/shirt/q/2/v/m-hm-shirt02-hanumntra-original-imaftd53zzeqchzy.jpeg?q=70",
@@ -2556,7 +2554,7 @@ Trousers={
         },
         {
             title:"Casual Shirts",
-            CasualShirts :[
+            Productlist:[
                 { 
                     title:"Men Slim Fit Printed Spread Collar Casual Shirt",
                     Image:[ "https://rukminim1.flixcart.com/image/832/832/kc6jyq80/shirt/q/2/v/m-hm-shirt02-hanumntra-original-imaftd53zzeqchzy.jpeg?q=70",
@@ -2726,7 +2724,7 @@ HoursDelivery={
     data:[
         {
             title:"Fancy Sarees",
-            FancySarees:[
+            Productlist:[
                 {
                     title:"Floral Print Bollywood Lycra Blend Saree  (Black)",
                     Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/w/5/n/free-pattu-saree-ejoty-fashion-unstitched-original-imag4abzywzyk5ry-bb.jpeg?q=70",
@@ -2852,7 +2850,7 @@ HoursDelivery={
         },
         {
             title:"Silk Sarees",
-            SilkSarees:[
+            Productlist:[
                 {
                     title:"Woven Bollywood Cotton Silk Saree  (Pink)",
                     Image:["https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/sari/v/d/i/free-tilak-bpin-bandhani-hub-unstitched-original-imafzfm7s6hhhxyz.jpeg?q=70",
@@ -2928,7 +2926,7 @@ HoursDelivery={
         },
         {
             title:"Designer And Stonework Sarees",
-            DesignerAndStoneworkSarees:[
+            Productlist:[
                 {
                     title:"Dyed, Embellished, Woven Bollywood Chiffon, Jacquard Saree  (Beige)",
                     Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/6/f/r/free-2675s194ra-satrani-unstitched-original-imagmyg3ajp8yhbq.jpeg?q=70",
@@ -3052,7 +3050,7 @@ HoursDelivery={
         },
         {
             title:"Japan Satin Sarees",
-            JapanSatinSarees:[
+            Productlist:[
                 {
                     title:"Printed, Digital Print Bollywood Satin Saree  (White)",
                     Image:["https://rukminim1.flixcart.com/image/832/832/kwtkxow0/sari/2/a/z/free-looknbook-7045-peach-fabian-fashion-unstitched-original-imag9eztv86gbvfq.jpeg?q=70",
@@ -3106,7 +3104,7 @@ HoursDelivery={
         },
         {
             title:"long Kurtis",
-            longKurtis:[
+            Productlist:[
                 {
                     title:"Women Floral Print Viscose Rayon Anarkali Kurta  (Pink)",
                     Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/u/5/s/s-kurti-503-gujari-original-imag883udw6c7xxq-bb.jpeg?q=70",
@@ -3229,7 +3227,7 @@ HoursDelivery={
         },
         {
             title:"MidLength Kurtis",
-            MidLengthKurtis:[
+            Productlist:[
                 {
                     title:"Women Printed Cotton Blend Anarkali Kurta  (Green)",
                     Image:["https://rukminim1.flixcart.com/image/832/832/kffq2kw0-0/kurta/d/x/h/3xl-rp055-summer-printed-kurti-rajpari-original-imafvw679afxschr.jpeg?q=70",
@@ -3352,7 +3350,7 @@ HoursDelivery={
         },
         {
             title:"Bollywood Collections",
-            BollywoodCollections:[
+            Productlist:[
                 {
                     title:"Printed, Digital Print Bollywood Satin Saree  (White)",
                     Image:["https://rukminim1.flixcart.com/image/832/832/kwtkxow0/sari/2/a/z/free-looknbook-7045-peach-fabian-fashion-unstitched-original-imag9eztv86gbvfq.jpeg?q=70",
@@ -3406,7 +3404,7 @@ HoursDelivery={
         },
         {
             title:"Short Tops",
-            ShortTops:[
+            Productlist:[
                 {
                     title:"Casual Flared Sleeves Printed Women Green Top",
                     Image:["https://rukminim1.flixcart.com/image/832/832/kp8ntzk0/top/l/l/f/m-00128-top-dl-fashion-original-imag3gr4he5twhw3.jpeg?q=70",
@@ -3529,7 +3527,7 @@ HoursDelivery={
         },
         {
             title:"Dresses",
-            Dresses:[
+            Productlist:[
                 {
                     title:"Women A-line Blue Dress",
                     Image:["https://rukminim1.flixcart.com/image/832/832/kjabs7k0-0/dress/0/m/j/l-maxi-dress-sky-blue-maa-fab-original-imafyvtqkhwy5kw7.jpeg?q=70",
@@ -3653,7 +3651,7 @@ HoursDelivery={
         },
         {
             title:"Netted Lehengas",
-            NettedLehengas:[
+            Productlist:[
                 {
                     title:"Printed Stitched Lehenga & Crop Top  (Brown)",
                     Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/lehenga-choli/v/9/i/free-short-sleeve-rang-barse-royalwish-original-imag6jkgqheb5stu.jpeg?q=70",
@@ -3773,7 +3771,7 @@ HoursDelivery={
         },
         {
             title:"Velvet Lehengas",
-            VelvetLehengas:[
+            Productlist:[
                 {
                     title:"Embroidered Semi Stitched Lehenga Choli  (Red, Gold)",
                     Image:["https://rukminim1.flixcart.com/image/832/832/l19m93k0/lehenga-choli/r/r/3/free-short-sleeve-sb-velentine-s-b-creation-original-imagcvdgh5ptkwuq.jpeg?q=70",
@@ -3890,7 +3888,7 @@ HoursDelivery={
         },
         {
             title:"Forml Shirts",
-            FormlShirts:[
+            Productlist:[
                 { 
                     title:"Men Regular Fit Solid Spread Collar Formal Shirt",
                     Image:[ "https://rukminim1.flixcart.com/image/832/832/kc6jyq80/shirt/q/2/v/m-hm-shirt02-hanumntra-original-imaftd53zzeqchzy.jpeg?q=70",
@@ -4051,7 +4049,7 @@ HoursDelivery={
         },
         {
             title:"Casual Shirts",
-            CasualShirts :[
+            Productlist:[
                 { 
                     title:"Men Regular Fit Solid Spread Collar Formal Shirt",
                     Image:[ "https://rukminim1.flixcart.com/image/832/832/kc6jyq80/shirt/q/2/v/m-hm-shirt02-hanumntra-original-imaftd53zzeqchzy.jpeg?q=70",
@@ -4213,7 +4211,7 @@ HoursDelivery={
         },
         {
             title:"Trousers",
-            Trousers:[
+            Productlist:[
                 { 
                     title:"Men Slim Fit Green Cotton Blend Trousers",
                     Image:[ "https://rukminim1.flixcart.com/image/832/832/klscivk0/trouser/q/q/k/28-sktr-4242-olv-fubar-original-imagyuff8uq6cxny.jpeg?q=70",
@@ -4268,7 +4266,7 @@ HoursDelivery={
         },
         {
             title:"Jeans",
-            Jeans:[
+            Productlist:[
                 { 
                     title:"Boys Slim Mid Rise Grey Jeans",
                     Image:[ "https://rukminim1.flixcart.com/image/832/832/xif0q/jean/2/x/b/13-14-years-junhpsjoggerboy-lgrey-urbano-juniors-original-imafpm83zszw3dfn-bb.jpeg?q=70",
@@ -4323,7 +4321,7 @@ HoursDelivery={
         },
         {
             title:"Popcorn Pants",
-            PopcornPants :[
+            Productlist:[
                 { 
                     title:"Slim Fit Men Pure Cotton Dark Green Pure Cotton Trousers",
                     Image:[ "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/m/k/l/32-4way-20-grandstitch-original-imaggqhxhu8tk2dy.jpeg?q=70",
@@ -4378,7 +4376,7 @@ HoursDelivery={
         },
         {
             title:"Lycra Pants",
-            LycraPants :[
+            Productlist :[
                 { 
                     title:"Men Slim Fit Light Blue Lycra Blend Trousers",
                     Image:[ "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/i/v/k/34-lycra001-online-cloth-khazana-original-imaghdg7dnetsgmt.jpeg?q=70",
@@ -4433,7 +4431,7 @@ HoursDelivery={
         },
         {
             title:"Formal Pants",
-            FormalPants :[
+            Productlist :[
                 { 
                     title:"Men Slim Fit Grey Viscose Rayon Trousers",
                     Image:[ "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/w/o/a/34-22a4ctwb1019i901-united-colors-of-benetton-original-imagjs7hqygaqsze.jpeg?q=70",
@@ -4486,7 +4484,7 @@ HoursDelivery={
         },
         {
             title:"Sarees",
-            Sarees:[
+            Productlist:[
                 {
                     title:"Printed, Digital Print Bollywood Satin Saree  (White)",
                     Image:["https://rukminim1.flixcart.com/image/832/832/kwtkxow0/sari/2/a/z/free-looknbook-7045-peach-fabian-fashion-unstitched-original-imag9eztv86gbvfq.jpeg?q=70",
@@ -4611,7 +4609,7 @@ HoursDelivery={
         },
         {
             title:"Kurtis",
-            Kurtis:[
+            Productlist:[
                 {
                     title:"Women Printed, Solid Cotton Rayon Anarkali Kurta  (Black)",
                     Image:[
@@ -4741,7 +4739,7 @@ HoursDelivery={
         },
         {
             title:"Lehengas",
-            Lehengas:[
+            Productlist:[
                 { 
                     title:"Self Design Semi Stitched Lehenga Choli  (Pink)",
                     Image:[ "https://rukminim1.flixcart.com/image/832/832/kxjav0w0/lehenga-choli/1/n/f/free-half-sleeve-l104-foriox-original-imag9yhyeqmczzws.jpeg?q=70",
@@ -4882,7 +4880,7 @@ HoursDelivery={
         },
         {
             title:"Shirts",
-            Shirts:[
+            Productlist:[
                 { 
                     title:"Men Regular Fit Solid Button Down Collar Formal Shirt",
                     Image:[ "https://rukminim1.flixcart.com/image/832/832/kc6jyq80/shirt/q/2/v/m-hm-shirt02-hanumntra-original-imaftd53zzeqchzy.jpeg?q=70",
