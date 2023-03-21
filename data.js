@@ -276,7 +276,7 @@ const Categories = [
     
             },
             {
-                    title:"FancySarees",
+                    title:"Fancy Sarees",
                     FancySarees:[
                         {
                             title:"Embellished Bollywood Georgette Saree ",
@@ -401,7 +401,7 @@ const Categories = [
                     ],
             },
             {
-                title:"SilkSarees",
+                title:"Silk Sarees",
                 
                SilkSarees:[
                 {
@@ -479,7 +479,7 @@ const Categories = [
 
             },
             {
-                title:"PrintedSarees",
+                title:"Printed Sarees",
                 PrintedSarees:[
                     {
                         title:"Floral Print Bollywood Chiffon, Brasso Saree  (Dark black, Pink)",
@@ -579,7 +579,7 @@ const Categories = [
                 ],
             },
             {
-                title:"Designer AndS tonework Sarees",
+                title:"Designer And Stonework Sarees",
                 DesignerAndStoneworkSarees:[
                     {
                         title:"Self Design, Woven Kanjivaram Pure Silk, Cotton Silk Saree ",
@@ -2063,7 +2063,7 @@ Trousers={
             ],
         },
         {
-            title:"PopcornPants",
+            title:"Popcorn Pants",
             PopcornPants :[
                 { 
                     title:"Men Slim Fit Gold Lycra Blend Trousers",
@@ -2173,7 +2173,7 @@ Trousers={
           ],
         },
         {
-          title:"FormalPants",
+          title:"Formal Pants",
           FormalPants :[
             { 
                 title:"Men Regular Fit Trousers",
@@ -2725,7 +2725,7 @@ HoursDelivery={
     Image:"https://apollo-singapore.akamaized.net/v1/files/z16k99g4p63d-IN/image;s=272x0",
     data:[
         {
-            title:"FancySarees",
+            title:"Fancy Sarees",
             FancySarees:[
                 {
                     title:"Floral Print Bollywood Lycra Blend Saree  (Black)",
@@ -3405,7 +3405,7 @@ HoursDelivery={
             ],
         },
         {
-            title:"ShortTops",
+            title:"Short Tops",
             ShortTops:[
                 {
                     title:"Casual Flared Sleeves Printed Women Green Top",
@@ -3889,7 +3889,7 @@ HoursDelivery={
             ],
         },
         {
-            title:"FormlShirts",
+            title:"Forml Shirts",
             FormlShirts:[
                 { 
                     title:"Men Regular Fit Solid Spread Collar Formal Shirt",
@@ -4322,7 +4322,7 @@ HoursDelivery={
             ],
         },
         {
-            title:"PopcornPants",
+            title:"Popcorn Pants",
             PopcornPants :[
                 { 
                     title:"Slim Fit Men Pure Cotton Dark Green Pure Cotton Trousers",
@@ -4377,7 +4377,7 @@ HoursDelivery={
               ],
         },
         {
-            title:"LycraPants",
+            title:"Lycra Pants",
             LycraPants :[
                 { 
                     title:"Men Slim Fit Light Blue Lycra Blend Trousers",

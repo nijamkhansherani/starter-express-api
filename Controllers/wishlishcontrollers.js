@@ -39,15 +39,16 @@ const postwishlish = async (req, res) => {
 
 const deletewishlish=  async(req,res)=>{
    
-    let findid = await wishlish.findById(req.params._id);
-    if(!findid){
-        res.status(400);
-        res.send("user not found");
-    }
-        await findid.remove()
+   // let findidss = await wishlish.findById(req.params._id);
+    console.log("=================>>",req);
+//     if(!findidss){
+//         res.status(400);
+//         res.send("user not found");
+//     }
+//         await findidss.remove()  
        
-    res.status(200).json({message : `delete data ${req.params.id}`});
- }
+//     res.status(200).json({message : `delete data ${req.params._id}`});
+  }
 
 
 

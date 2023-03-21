@@ -2,7 +2,7 @@ const express= require('express');
 const protect = require('../Middleware/wishmiddleware')
 
 const { getwishlish, postwishlish, deletewishlish } = require("../Controllers/wishlishcontrollers");
-const router = express.Router();
+const router = express.Router(); 
 router.use(express.json())
 
 
