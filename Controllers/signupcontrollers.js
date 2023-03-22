@@ -35,7 +35,7 @@ const postsignup = async(req,res)=>{
     })
 }
 
-const LoginUser =asyncHandler(async (req,res)=>{
+const LoginUser =async (req,res)=>{
     const { email, password } = req.body
     const user = await signup.findOne({ email })
     if(user && (bcrypt.compare(password, user.password))){
@@ -48,11 +48,9 @@ const LoginUser =asyncHandler(async (req,res)=>{
     }
     else{
         res.status(400)
-        res.json({})
-
-        res.json()("invalid credentials");
+        res.send("invalid credentials")
     }
-})
+}
 
 const generateToken = (id) => {
     return jwt.sign({ id }, process.env.JWT_SECRET, {
