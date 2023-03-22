@@ -3776,7 +3776,8 @@ HoursDelivery={
                 {
                     title:"Embroidered Semi Stitched Lehenga Choli  (Red, Gold)",
                     Image:["https://rukminim1.flixcart.com/image/832/832/l19m93k0/lehenga-choli/r/r/3/free-short-sleeve-sb-velentine-s-b-creation-original-imagcvdgh5ptkwuq.jpeg?q=70",
-                "https://rukminim1.flixcart.com/image/832/832/l19m93k0/lehenga-choli/e/0/n/free-short-sleeve-sb-velentine-s-b-creation-original-imagcvdg9q5n8drz.jpeg?q=70"],
+                "https://rukminim1.flixcart.com/image/832/832/l19m93k0/lehenga-choli/e/0/n/free-short-sleeve-sb-velentine-s-b-creation-original-imagcvdg9q5n8drz.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/l19m93k0/lehenga-choli/r/r/3/free-short-sleeve-sb-velentine-s-b-creation-original-imagcvdgh5ptkwuq.jpeg?q=70"],
                     sellingPrice:"18010",
                     disPrice:"10806",
                     disPrsent:"40%",
@@ -3798,7 +3799,8 @@ HoursDelivery={
                 {
                     title:"Embellished, Self Design Semi Stitched Lehenga Choli  (Black)",
                     Image:["https://rukminim1.flixcart.com/image/832/832/ky0g58w0/lehenga-choli/s/4/a/free-full-sleeve-fl-105-jsitaliya-original-imagac3gdzdwy4zx.jpeg?q=70",
-                "https://rukminim1.flixcart.com/image/832/832/ky0g58w0/lehenga-choli/s/b/g/free-full-sleeve-fl-105-jsitaliya-original-imagac3geg5mghbx.jpeg?q=70"],
+                "https://rukminim1.flixcart.com/image/832/832/ky0g58w0/lehenga-choli/s/b/g/free-full-sleeve-fl-105-jsitaliya-original-imagac3geg5mghbx.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/ky0g58w0/lehenga-choli/s/4/a/free-full-sleeve-fl-105-jsitaliya-original-imagac3gdzdwy4zx.jpeg?q=70"],
                     sellingPrice:"18132",
                     disPrice:"4900",
                     disPrsent:"72%",
@@ -3820,7 +3822,8 @@ HoursDelivery={
                 {
                     title:"Embroidered Semi Stitched Lehenga Choli  (Red)",
                     Image:["https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/lehenga-choli/j/3/8/free-3-4-sleeve-me-25-henzoriz-original-imafzfr5hf4k79kz.jpeg?q=70",
-                "https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/lehenga-choli/u/x/g/free-3-4-sleeve-me-25-henzoriz-original-imafzfr5zysash9y.jpeg?q=70"],
+                "https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/lehenga-choli/u/x/g/free-3-4-sleeve-me-25-henzoriz-original-imafzfr5zysash9y.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/lehenga-choli/j/3/8/free-3-4-sleeve-me-25-henzoriz-original-imafzfr5hf4k79kz.jpeg?q=70"],
                     sellingPrice:"16999",
                     disPrice:"10199",
                     disPrsent:"40%",
@@ -3842,7 +3845,8 @@ HoursDelivery={
                 {
                     title:"Embellished, Self Design Semi Stitched Lehenga Choli  (Purple)   ",
                     Image:["https://rukminim1.flixcart.com/image/832/832/kxz0pe80/lehenga-choli/q/v/4/free-full-sleeve-fl-105-jsitaliya-original-imagabc86hjydgxz.jpeg?q=70",
-                "https://rukminim1.flixcart.com/image/832/832/kxz0pe80/lehenga-choli/f/s/r/free-full-sleeve-fl-105-jsitaliya-original-imagabc8fg9xqzjg.jpeg?q=70"],
+                "https://rukminim1.flixcart.com/image/832/832/kxz0pe80/lehenga-choli/f/s/r/free-full-sleeve-fl-105-jsitaliya-original-imagabc8fg9xqzjg.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kxz0pe80/lehenga-choli/q/v/4/free-full-sleeve-fl-105-jsitaliya-original-imagabc86hjydgxz.jpeg?q=70"],
                     sellingPrice:"15275",
                     disPrice:"4800",
                     disPrsent:"68%",
@@ -3864,7 +3868,8 @@ HoursDelivery={
                 {
                     title:"Embroidered Semi Stitched Lehenga Choli  (Maroon)",
                     Image:["https://rukminim1.flixcart.com/image/832/832/kxxl9jk0/lehenga-choli/i/y/z/free-half-sleeve-01-maroon-jfm-original-imagaa6sz8vsgcsr.jpeg?q=70",
-                "https://rukminim1.flixcart.com/image/832/832/kql8sy80/lehenga-choli/j/v/b/free-short-sleeve-hot-lady-maroon-marziyaa-original-imag4kgrqazewkyb.jpeg?q=70"],
+                "https://rukminim1.flixcart.com/image/832/832/kql8sy80/lehenga-choli/j/v/b/free-short-sleeve-hot-lady-maroon-marziyaa-original-imag4kgrqazewkyb.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kxxl9jk0/lehenga-choli/i/y/z/free-half-sleeve-01-maroon-jfm-original-imagaa6sz8vsgcsr.jpeg?q=70"],
                     sellingPrice:"25389",
                     disPrice:"7400",
                     disPrsent:"70%",
