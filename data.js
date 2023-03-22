@@ -3701,7 +3701,8 @@ HoursDelivery={
                 {
                     title:"Embroidered Semi Stitched Lehenga Choli  (Red, Gold)",
                     Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/lehenga-choli/i/e/z/free-short-sleeve-buke-krishna-royalwish-original-image87sn4q7pgcz.jpeg?q=70",
-                "https://rukminim1.flixcart.com/image/832/832/xif0q/lehenga-choli/q/w/o/free-short-sleeve-buke-krishna-royalwish-original-image87szwm5ayy4.jpeg?q=70"],
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/lehenga-choli/q/w/o/free-short-sleeve-buke-krishna-royalwish-original-image87szwm5ayy4.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/lehenga-choli/i/e/z/free-short-sleeve-buke-krishna-royalwish-original-image87sn4q7pgcz.jpeg?q=70"],
                     sellingPrice:"7999",
                     disPrice:"4879",
                     disPrsent:"39%",
