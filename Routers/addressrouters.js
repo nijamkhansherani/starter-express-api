@@ -7,7 +7,7 @@ const router = express.Router();
 router.use(express.json())
 
 router.get('/',protect,getaddress)
-router.post('/',protect,postaddress)
+router.post('/add',protect,postaddress)
 router.delete('/:_id',protect,deleteaddress)
 
 module.exports = router

@@ -47,9 +47,7 @@ const LoginUser =async (req,res)=>{
         })
     }
     else{
-        res.status(400)
-        throw new Error("invalid credentials")
-    }
+        res.status(400).json({massage:"invalid credentials"});    }
 }
 
 const generateToken = (id) => {
