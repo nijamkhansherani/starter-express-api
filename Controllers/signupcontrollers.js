@@ -48,7 +48,7 @@ const LoginUser =async (req,res)=>{
     }
     else{
         res.status(400)
-        res.send("invalid credentials")
+        throw new Error("invalid credentials")
     }
 }
 
