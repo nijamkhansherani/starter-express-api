@@ -10,7 +10,7 @@ const getaddtocard = async (req, res) => {
 let data = await addtocard.find({ user_id: req.user});
 
 if(!data.length){
-    res.status(200).json({ status: false, massage: "cart is empty"})
+    res.status(400).json({ status: false, massage: "cart is empty"})
 }
 console.log("====>", data);
 res.status(200).json({ status: true, massage: data})
@@ -21,17 +21,17 @@ res.status(200).json({ status: true, massage: data})
 
 const postaddtocard = async (req, res) => {
 
-    const { title, dis, price, reting,img,color,size, quentity } = req.body
-    if (!title && !dis && !price && !reting && !img && !color && !size && !quentity ) {
+    const { title, Image, disPrice, sellingPrice,COD,Status,size, quentity } = req.body
+    if (!title && !Image && !disPrice && !sellingPrice && !COD && !Status && !size && !quentity ) {
         res.status(400).json({ message: "Please add all Filed" })
     }
     let data = await addtocard.create({ 
         title,
-        dis,
-        img,
-        price,
-        reting,
-        color,
+        Image,
+        disPrice,
+        sellingPrice,
+        COD,
+        Status,
         size,
         quentity,
         user_id:req.user
