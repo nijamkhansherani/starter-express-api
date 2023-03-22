@@ -37,18 +37,22 @@ const postaddress = async(req,res)=>{
 
 }
 
-const deleteaddress = async(req,res)=>{
-    const findid = await address.findById(req.params._id)
-    if(!findid){
-        res.status(400).json({ message: "user not found" })
+const deleteaddress=  async(req,res)=>{
+   
+    let findidss = await address.findById(req.params._id);
+    console.log("=======findidss==========>>",findidss);
 
-    }
+    console.log("=================>>",req.params._id);
+     if(!findidss){
+         res.status(400);
+         res.send("user not found");
+     }
+        const deleteResult = await address.deleteMany({ _id:  findidss._id });
+       console.log("=======deleteResult======>",deleteResult)
+     res.status(200).json({message : `delete data ${req.params._id}`});
+  }
 
-    await findid.remove();
 
-    res.status(200).json({message : `delete data ${req.params.id}`});
-
-}
 
 module.exports = {
     getaddress,

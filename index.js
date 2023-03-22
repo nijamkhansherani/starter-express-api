@@ -13,10 +13,10 @@ app.use(express.urlencoded({ extended: false }));
 //s const errorHandler = require('./Middleware/errormiddleware')
 app.use(cors());
 app.use('/api/AllCategories', require('./Routers/allcategories'));
-app.use('/api/addtocard', require('./Routers/addtocardrouters'));
-app.use('/api/wishlish', require('./Routers/wishlishrouters'));
-app.use('/api/signup', require('./Routers/signuprouters'));
-app.use('/api/address',require('./Routers/addressrouters'))
+app.use('/api/shopeen/addtocard', require('./Routers/addtocardrouters'));
+app.use('/api/shopeen/wishlish', require('./Routers/wishlishrouters'));
+app.use('/api/shopeen/signup', require('./Routers/signuprouters'));
+app.use('/api/shopeen/address',require('./Routers/addressrouters'))
 app.listen(port, () => {
     console.log(`port is colled ${port}`);
 });

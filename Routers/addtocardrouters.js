@@ -6,7 +6,7 @@ const router = express.Router();
 
 router.use(express.json())
 
-router.get('/:_id',protect,getaddtocard)    
+router.get('/',protect,getaddtocard)    
 router.post('/add',protect,postaddtocard)
 router.delete('/:_id',protect,deleteaddtocard)
 

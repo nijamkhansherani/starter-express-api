@@ -44,15 +44,18 @@ const postaddtocard = async (req, res) => {
 
 const deleteaddtocard=  async(req,res)=>{
    
-    let findid = await addtocard.findById(req.params._id);
-    if(!findid){
-        res.status(400);
-        res.send("user not found");
-    }
-        await findid.remove();
-       
-    res.status(200).json({message : `delete data ${req.params.id}`});
- }
+    let findidss = await addtocard.findById(req.params._id);
+    console.log("=======findidss==========>>",findidss);
+
+    console.log("=================>>",req.params._id);
+     if(!findidss){
+         res.status(400);
+         res.send("user not found");
+     }
+        const deleteResult = await addtocard.deleteMany({ _id:  findidss._id });
+       console.log("=======deleteResult======>",deleteResult)
+     res.status(200).json({message : `delete data ${req.params._id}`});
+  }
 
 
 
