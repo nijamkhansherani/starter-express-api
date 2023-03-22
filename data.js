@@ -1607,7 +1607,8 @@ Lehengas={
                 { 
                     title:"Embroidered Semi Stitched Lehenga Choli  (Grey)",
                     Image:[ "https://rukminim1.flixcart.com/image/832/832/kvba7bk0/lehenga-choli/v/v/m/free-half-sleeve-new-ruffle-designer-lehenga-cholis-for-indian-original-imag88ryhq3gpupc.jpeg?q=70",
-                            "https://rukminim1.flixcart.com/image/832/832/kvba7bk0/lehenga-choli/n/a/y/free-half-sleeve-new-ruffle-designer-lehenga-cholis-for-indian-original-imag88ryg8pe4ehh.jpeg?q=70",],
+                            "https://rukminim1.flixcart.com/image/832/832/kvba7bk0/lehenga-choli/n/a/y/free-half-sleeve-new-ruffle-designer-lehenga-cholis-for-indian-original-imag88ryg8pe4ehh.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/kvba7bk0/lehenga-choli/v/v/m/free-half-sleeve-new-ruffle-designer-lehenga-cholis-for-indian-original-imag88ryhq3gpupc.jpeg?q=70"],
                     sellingPrice:"12210",
                     disPrice:"7570",
                     disPrsent:"38%",
@@ -1762,7 +1763,8 @@ Lehengas={
                 { 
                     title:"Embroidered Semi Stitched Lehenga Choli  (Grey)",
                     Image:[  "https://rukminim1.flixcart.com/image/832/832/kvba7bk0/lehenga-choli/v/v/m/free-half-sleeve-new-ruffle-designer-lehenga-cholis-for-indian-original-imag88ryhq3gpupc.jpeg?q=70",
-                             "https://rukminim1.flixcart.com/image/832/832/kvba7bk0/lehenga-choli/n/a/y/free-half-sleeve-new-ruffle-designer-lehenga-cholis-for-indian-original-imag88ryg8pe4ehh.jpeg?q=70"],
+                             "https://rukminim1.flixcart.com/image/832/832/kvba7bk0/lehenga-choli/n/a/y/free-half-sleeve-new-ruffle-designer-lehenga-cholis-for-indian-original-imag88ryg8pe4ehh.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kvba7bk0/lehenga-choli/v/v/m/free-half-sleeve-new-ruffle-designer-lehenga-cholis-for-indian-original-imag88ryhq3gpupc.jpeg?q=70"],
                     sellingPrice:"19684",
                     disPrice:"11810",
                     disPrsent:"40%",
@@ -1922,7 +1924,8 @@ Lehengas={
                 { 
                     title:"Floral Print Semi Stitched Lehenga Choli  (Blue)",
                     Image:[  "https://rukminim1.flixcart.com/image/832/832/kvba7bk0/lehenga-choli/v/v/m/free-half-sleeve-new-ruffle-designer-lehenga-cholis-for-indian-original-imag88ryhq3gpupc.jpeg?q=70",
-                             "https://rukminim1.flixcart.com/image/832/832/kvba7bk0/lehenga-choli/n/a/y/free-half-sleeve-new-ruffle-designer-lehenga-cholis-for-indian-original-imag88ryg8pe4ehh.jpeg?q=70"],
+                             "https://rukminim1.flixcart.com/image/832/832/kvba7bk0/lehenga-choli/n/a/y/free-half-sleeve-new-ruffle-designer-lehenga-cholis-for-indian-original-imag88ryg8pe4ehh.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kvba7bk0/lehenga-choli/v/v/m/free-half-sleeve-new-ruffle-designer-lehenga-cholis-for-indian-original-imag88ryhq3gpupc.jpeg?q=70"],
                     sellingPrice:"21700",
                     disPrice:"13020",
                     disPrsent:"40%",
