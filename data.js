@@ -677,7 +677,7 @@ const Categories = [
                     },
     
                     {
-                        title:"Self Design, Ombre, Temple Border, Embroidered, Embellished, Woven Bollywood Silk Blend, Cotton Silk ",
+                        title:"Self Design, Temple Border ,Woven Bollywood Silk Blend ",
                         Image:["https://rukminim1.flixcart.com/image/832/832/k2qh5zk0/sari/7/y/d/free-kara124-pink-sariya-original-imafmyxs2a4nxrbn.jpeg?q=70",
                     "https://rukminim1.flixcart.com/image/832/832/k2qh5zk0/sari/7/y/d/free-kara124-pink-sariya-original-imafmyxsrzvymhkh.jpeg?q=70",
                 "https://rukminim1.flixcart.com/image/832/832/k2qh5zk0/sari/7/y/d/free-kara124-pink-sariya-original-imafmyxsh5g6xvvg.jpeg?q=70"],
@@ -827,7 +827,7 @@ Kurtis={
                     ],
                     sellingPrice:"1974",
                     discountPrice:"545",
-                    dicPrsent:"72%",
+                    disPrsent:"72%",
                     soldBy:"SHOPPEN",
                     Status:"In-Stock",
                     COD:"Available",
@@ -927,7 +927,7 @@ Kurtis={
                     ],
                     sellingPrice:"1999",
                     disPrice:"499",
-                    dicPrsent:"75%",
+                    disPrsent:"75%",
                     soldBy:"SHOPPEN",
                     Status:"In-Stock",
                     COD:"Available",

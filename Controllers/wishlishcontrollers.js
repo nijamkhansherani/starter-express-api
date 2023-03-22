@@ -39,15 +39,17 @@ const postwishlish = async (req, res) => {
 
 const deletewishlish=  async(req,res)=>{
    
-   // let findidss = await wishlish.findById(req.params._id);
-    console.log("=================>>",req);
-//     if(!findidss){
-//         res.status(400);
-//         res.send("user not found");
-//     }
-//         await findidss.remove()  
-       
-//     res.status(200).json({message : `delete data ${req.params._id}`});
+    let findidss = await wishlish.findById(req.params._id);
+    console.log("=======findidss==========>>",findidss);
+
+    console.log("=================>>",req.params._id);
+     if(!findidss){
+         res.status(400);
+         res.send("user not found");
+     }
+        const deleteResult = await wishlish.deleteMany({ _id:  findidss._id });
+       console.log("=======deleteResult======>",deleteResult)
+     res.status(200).json({message : `delete data ${req.params._id}`});
   }
 
 

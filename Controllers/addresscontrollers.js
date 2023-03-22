@@ -40,7 +40,6 @@ const postaddress = async(req,res)=>{
 const deleteaddress = async(req,res)=>{
     const findid = await address.findById(req.params._id)
     if(!findid){
-        res.status(400),
         res.status(400).json({ message: "user not found" })
 
     }
