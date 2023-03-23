@@ -33,7 +33,7 @@ const postaddress = async(req,res)=>{
 
     })
     console.log("====>", data);
-    res.status(200).json(data)
+    res.status(200).json({status:true, data})
 
 }
 
