@@ -25,6 +25,7 @@ const postsignup = async(req,res)=>{
         gender
     })
     res.status(201).json({
+        status:true,
         firstname:data.firstname,
         lastname:data.lastname,
         email:data.email,
