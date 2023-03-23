@@ -5,6 +5,7 @@ const db = require('./app');
 app.use(express.json())
 
 
+
 app.get("/",async(req,res)=>{
    let dataa = await db();  
    let result = await dataa.find().toArray();
