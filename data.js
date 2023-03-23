@@ -1488,7 +1488,7 @@ Lehengas={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHLGHK8A517",
                         idealFor:"Women",
@@ -1968,7 +1968,7 @@ Trousers={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XLL"],
                     ProductDetails:{
                         productCode:"SHSTYBPPCS452",
                         idealFor:"men",
@@ -5054,7 +5054,5 @@ HoursDelivery={
 ]
 
 module.exports = {
-    Categories,
-    
-    
+    Categories,  
 }
