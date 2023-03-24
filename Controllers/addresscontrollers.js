@@ -10,7 +10,7 @@ const getaddress = async(req,res)=>{
         res.status(200).json({ status: false, massage:"address is empty"})
     }
     console.log("=====>",data);
-    res.status(200).json({ status:true, massage: data})
+    res.status(200).json({ status:true,  data})
     
 }
 
