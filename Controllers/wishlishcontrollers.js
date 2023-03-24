@@ -21,8 +21,8 @@ const getwishlish = async (req, res) => {
 
 const postwishlish = async (req, res) => {
 
-    const { title, dis, price,img} = req.body
-    if (!title && !dis && !price && !img ) {
+    const { title, dis, price,disPrsent,img} = req.body
+    if (!title && !dis && !price && disPrsent && !img ) {
         res.status(400).json({ message: "Please add all Filed" })
     }
     let data = await wishlish.create({ 
@@ -30,6 +30,7 @@ const postwishlish = async (req, res) => {
         dis,
         img,
         price,
+        disPrsent,
         user_id:req.user
 
     });

@@ -3,6 +3,7 @@ const wishlish = new mongoose.Schema({
     title: {  type: String },
     dis: { type: String },
     price: {type: Number},
+    disPrsent:{type:String},
     img: {type: String},
     user_id:{type: String}
     
