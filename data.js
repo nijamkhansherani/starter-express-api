@@ -1193,7 +1193,7 @@ Kurtis={
                     COD:"Available",
                     quantity:"1",
                     Size:[
-                        'm','L','XL','XXL'
+                        'M','L','XL','XXL'
                     ],
                     ProductDetails:{
                         productCode:"SHKRYAGYVL35003A137",
@@ -1515,7 +1515,7 @@ Lehengas={
                     COD:"Available",
                     status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHLGCKGHUA532",
                         idealFor:"Women",
@@ -1540,7 +1540,7 @@ Lehengas={
                     COD:"Available",
                     status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHLGCKANOA525",
                         idealFor:"Women",
@@ -1565,7 +1565,7 @@ Lehengas={
                     COD:"Available",
                     status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHLGCKMAYUA541",
                         idealFor:"Women",
@@ -1590,7 +1590,7 @@ Lehengas={
                     COD:"Available",
                     status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHLGCK12CA523",
                         idealFor:"Women",
@@ -1616,7 +1616,7 @@ Lehengas={
                     COD:"Available",
                     status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHLGCK4A513",
                         idealFor:"Women",
@@ -1644,7 +1644,7 @@ Lehengas={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHLGCKEKA531",
                         idealFor:"Women",
@@ -1670,7 +1670,7 @@ Lehengas={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHLGCKROSEA542",
                         idealFor:"Women",
@@ -1695,7 +1695,7 @@ Lehengas={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHLGCKSINA546",
                         idealFor:"Women",
@@ -1719,7 +1719,7 @@ Lehengas={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHLGCKROSEA543",
                         idealFor:"Women",
@@ -1745,7 +1745,7 @@ Lehengas={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHLGCK11A520",
                         idealFor:"Women",
@@ -1772,7 +1772,7 @@ Lehengas={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHLGCKVIA553",
                         idealFor:"Women",
@@ -1800,7 +1800,7 @@ Lehengas={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHLGCK8A517",
                         idealFor:"Women",
@@ -1825,7 +1825,7 @@ Lehengas={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHLGCK2A51",
                         idealFor:"Women",
@@ -1852,7 +1852,7 @@ Lehengas={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHLGCK12AA521",
                         idealFor:"Women",
@@ -1880,7 +1880,7 @@ Lehengas={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHLGCK12CA523",
                         idealFor:"Women",
@@ -1906,7 +1906,7 @@ Lehengas={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHLGCK4A513",
                         idealFor:"Women",
@@ -1933,7 +1933,7 @@ Lehengas={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHLGCK1A510",
                         idealFor:"Women",
@@ -1993,7 +1993,7 @@ Trousers={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBMP1A445",
                         idealFor:"men",
@@ -2023,7 +2023,7 @@ Trousers={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBPPCS452",
                         idealFor:"men",
@@ -2048,7 +2048,7 @@ Trousers={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBMP1A445",
                         idealFor:"men",
@@ -2078,7 +2078,7 @@ Trousers={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBPPCS452",
                         idealFor:"men",
@@ -2103,7 +2103,7 @@ Trousers={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBMP1A445",
                         idealFor:"men",
@@ -2133,7 +2133,7 @@ Trousers={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBPPCS452",
                         idealFor:"men",
@@ -2158,7 +2158,7 @@ Trousers={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBMP1A445",
                         idealFor:"men",
@@ -2188,7 +2188,7 @@ Trousers={
                 COD:"Available",
                 Status:"In-stock",
                 quantity:" + 1 -",
-                Size:["s","m","l","xl","xxl"],
+                Size:["S","M","L","XL","XXL"],
                 ProductDetails:{
                     productCode:"SHSTYBPPCS452",
                     idealFor:"men",
@@ -2212,7 +2212,7 @@ Trousers={
                 COD:"Available",
                 Status:"In-stock",
                 quantity:" + 1 -",
-                Size:["s","m","l","xl","xxl"],
+                Size:["S","M","L","XL","XXL"],
                 ProductDetails:{
                     productCode:"SHSTYBMP1A445",
                     idealFor:"men",
@@ -2248,7 +2248,7 @@ Trousers={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBPPCS452",
                         idealFor:"men",
@@ -2273,7 +2273,7 @@ Trousers={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBMP1A445",
                         idealFor:"men",
@@ -2299,7 +2299,7 @@ Trousers={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBSC4A448",
                         idealFor:"men",
@@ -2326,7 +2326,7 @@ Trousers={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBCLRSTP9A453",
                         idealFor:"men",
@@ -2353,7 +2353,7 @@ Trousers={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBSSLASHBOXA465",
                         idealFor:"men",
@@ -2379,7 +2379,7 @@ Trousers={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBSLABLBOXCHDA466",
                         idealFor:"men",
@@ -2409,7 +2409,7 @@ Trousers={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         ProductCode:"SHSTYBPPCS452",
                         IdealFor:"men",
@@ -2434,7 +2434,7 @@ Trousers={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBMP1A445",
                         idealFor:"men",
@@ -2460,7 +2460,7 @@ Trousers={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBSC4A448",
                         idealFor:"men",
@@ -2487,7 +2487,7 @@ Trousers={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBCLRSTP9A453",
                         idealFor:"men",
@@ -2514,7 +2514,7 @@ Trousers={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBSSLASHBOXA465",
                         idealFor:"men",
@@ -2540,7 +2540,7 @@ Trousers={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBSLABLBOXCHDA466",
                         idealFor:"men",
@@ -2570,7 +2570,7 @@ Trousers={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBPPCS452",
                         idealFor:"men",
@@ -2595,7 +2595,7 @@ Trousers={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBMP1A445",
                         idealFor:"men",
@@ -2621,7 +2621,7 @@ Trousers={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBSC4A448",
                         idealFor:"men",
@@ -2648,7 +2648,7 @@ Trousers={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBCLRSTP9A453",
                         idealFor:"men",
@@ -2675,7 +2675,7 @@ Trousers={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBSSLASHBOXA465",
                         idealFor:"men",
@@ -2702,7 +2702,7 @@ Trousers={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBSLABLBOXCHDA466",
                         idealFor:"men",
@@ -3910,7 +3910,7 @@ HoursDelivery={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBPPCS452",
                         idealFor:"men",
@@ -3935,7 +3935,7 @@ HoursDelivery={
                     COD:"Available",
                     status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBMP1A445",
                         idealFor:"men",
@@ -3961,7 +3961,7 @@ HoursDelivery={
                     COD:"Available",
                     status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBSC4A448",
                         idealFor:"men",
@@ -3988,7 +3988,7 @@ HoursDelivery={
                     COD:"Available",
                     status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBCLRSTP9A453",
                         idealFor:"men",
@@ -4015,7 +4015,7 @@ HoursDelivery={
                     COD:"Available",
                     status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBSSLASHBOXA465",
                         idealFor:"men",
@@ -4041,7 +4041,7 @@ HoursDelivery={
                     COD:"Available",
                     status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBSLABLBOXCHDA466",
                         idealFor:"men",
@@ -4071,7 +4071,7 @@ HoursDelivery={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBPPCS452",
                         idealFor:"men",
@@ -4096,7 +4096,7 @@ HoursDelivery={
                     COD:"Available",
                     status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBMP1A445",
                         idealFor:"men",
@@ -4122,7 +4122,7 @@ HoursDelivery={
                     COD:"Available",
                     status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBSC4A448",
                         idealFor:"men",
@@ -4149,7 +4149,7 @@ HoursDelivery={
                     COD:"Available",
                     status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBCLRSTP9A453",
                         idealFor:"men",
@@ -4176,7 +4176,7 @@ HoursDelivery={
                     COD:"Available",
                     status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBSSLASHBOXA465",
                         idealFor:"men",
@@ -4203,7 +4203,7 @@ HoursDelivery={
                     COD:"Available",
                     status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBSLABLBOXCHDA466",
                         idealFor:"men",
@@ -4233,7 +4233,7 @@ HoursDelivery={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBPPCS452",
                         idealFor:"men",
@@ -4258,7 +4258,7 @@ HoursDelivery={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBMP1A445",
                         idealFor:"men",
@@ -4288,7 +4288,7 @@ HoursDelivery={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBPPCS452",
                         idealFor:"men",
@@ -4313,7 +4313,7 @@ HoursDelivery={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBMP1A445",
                         idealFor:"men",
@@ -4343,7 +4343,7 @@ HoursDelivery={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBPPCS452",
                         idealFor:"men",
@@ -4368,7 +4368,7 @@ HoursDelivery={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBMP1A445",
                         idealFor:"men",
@@ -4398,7 +4398,7 @@ HoursDelivery={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBPPCS452",
                         idealFor:"men",
@@ -4423,7 +4423,7 @@ HoursDelivery={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBMP1A445",
                         idealFor:"men",
@@ -4453,7 +4453,7 @@ HoursDelivery={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBPPCS452",
                         idealFor:"men",
@@ -4478,7 +4478,7 @@ HoursDelivery={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBMP1A445",
                         idealFor:"men",
@@ -4761,7 +4761,7 @@ HoursDelivery={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHLGHK8A517",
                         idealFor:"Women",
@@ -4784,7 +4784,7 @@ HoursDelivery={
                     COD:"Available",
                     status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHLGCKGHUA532",
                         idealFor:"Women",
@@ -4807,7 +4807,7 @@ HoursDelivery={
                     COD:"Available",
                     status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHLGCKANOA525",
                         idealFor:"Women",
@@ -4831,7 +4831,7 @@ HoursDelivery={
                     COD:"Available",
                     status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHLGCKMAYUA541",
                         idealFor:"Women",
@@ -4853,7 +4853,7 @@ HoursDelivery={
                     COD:"Available",
                     status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHLGCK12CA523",
                         idealFor:"Women",
@@ -4874,7 +4874,7 @@ HoursDelivery={
                     COD:"Available",
                     status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHLGCK4A513",
                         idealFor:"Women",
@@ -4902,7 +4902,7 @@ HoursDelivery={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         ProductCode:"SHSTYBPPCS452",
                         IdealFor:"men",
@@ -4927,7 +4927,7 @@ HoursDelivery={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBMP1A445",
                         idealFor:"men",
@@ -4953,7 +4953,7 @@ HoursDelivery={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBSC4A448",
                         idealFor:"men",
@@ -4980,7 +4980,7 @@ HoursDelivery={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBCLRSTP9A453",
                         idealFor:"men",
@@ -5007,7 +5007,7 @@ HoursDelivery={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBSSLASHBOXA465",
                         idealFor:"men",
@@ -5033,7 +5033,7 @@ HoursDelivery={
                     COD:"Available",
                     Status:"In-stock",
                     quantity:" + 1 -",
-                    Size:["s","m","l","xl","xxl"],
+                    Size:["S","M","L","XL","XXL"],
                     ProductDetails:{
                         productCode:"SHSTYBSLABLBOXCHDA466",
                         idealFor:"men",
