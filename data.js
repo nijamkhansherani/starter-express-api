@@ -1007,7 +1007,7 @@ Kurtis={
                     ],
                     sellingPrice:"2399",
                     disPrice:"755",
-                    DisPrsent:"68%",
+                    disPrsent:"68%",
                     soldBy:"SHOPPEN",
                     Status:"In-Stock",
                     COD:"Available",
