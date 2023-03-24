@@ -16,7 +16,6 @@ router.get('/product',async(req,res)=>{
               { 'id': 7, 'price': '$24.5', 'title': 'Bag', 'img': 'https://preview.colorlib.com/theme/malefashion/img/product/product-7.jpg.webp', dis: "Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.", "reting": "5", "color": "black", "size": "XL", "qun": "1" },
               { 'id': 8, 'price': '$18.2', 'title': 'T-Sirt', 'img': 'https://preview.colorlib.com/theme/malefashion/img/product/product-8.jpg.webp', dis: "Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.", "reting": "5", "color": "yellow", "size": "L", "qun": "1" }
           ]
-      
     })
  })
  

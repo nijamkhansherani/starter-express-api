@@ -21,8 +21,8 @@ res.status(200).json({ status: true, massage: data})
 
 const postaddtocard = async (req, res) => {
 
-    const { title, Image, disPrice, sellingPrice,COD,Status,size, quentity } = req.body
-    if (!title && !Image && !disPrice && !sellingPrice && !COD && !Status && !size && !quentity ) {
+    const { title, Image, disPrice, sellingPrice,disPrsent,color,COD,Status,size, quentity } = req.body
+    if (!title && !Image && !disPrice && !sellingPrice && disPrsent && color && !COD && !Status && !size && !quentity ) {
         res.status(400).json({ message: "Please add all Filed" })
     }
     let data = await addtocard.create({ 
@@ -30,6 +30,8 @@ const postaddtocard = async (req, res) => {
         Image,
         disPrice,
         sellingPrice,
+        disPrsent,
+        color,
         COD,
         Status,
         size,

@@ -4,6 +4,8 @@ const addtocard = new mongoose.Schema({
     Image: {type: String},
     disPrice: { type: String },
     sellingPrice: {type: String},
+    disPrsent:{type:String},
+    color:{type: String},
     COD: {type: String},
     Status: { type: String},
     size:{ type:String },
