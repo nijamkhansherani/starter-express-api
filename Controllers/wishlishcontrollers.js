@@ -10,7 +10,7 @@ const getwishlish = async (req, res) => {
     let data = await wishlish.find({ user_id: req.user});
     
     if(!data.length){
-        res.status(200).json({ status: false, massage: "cart is empty"})
+        res.status(200).json({ status: false, massage: "wishlish is empty"})
     }
     console.log("====>", data);
     res.status(200).json({ status: true, data})
@@ -23,7 +23,7 @@ const postwishlish = async (req, res) => {
 
     const { title, dis, price,disPrsent,img} = req.body
     if (!title && !dis && !price && disPrsent && !img ) {
-        res.status(400).json({ message: "Please add all Filed" })
+        res.status(400).json({ message: "Please add all Filed"})
     }
     let data = await wishlish.create({ 
         title,
