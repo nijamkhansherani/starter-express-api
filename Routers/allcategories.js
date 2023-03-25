@@ -12,6 +12,9 @@ router.get('/',(req,res)=>{
 router.get('/WDC',(req,res)=>{
     res.json({status:true,Westerndresscollections})
 })  
+router.get('/SSC',(req,res)=>{
+    res.json({status:true,Specialsareecollections})
+})  
 
 
 module.exports = router;

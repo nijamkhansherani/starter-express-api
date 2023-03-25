@@ -5303,7 +5303,299 @@ const Westerndresscollections = [
     }
 ]
 
+const Specialsareecollections = [
+    {
+        title:"Specialsareecollections",
+        Productlist:[
+        {
+            title:"Digital Print Bollywood Chiffon, Brasso Saree  (Orange)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/2/l/y/free-wedding-premium-quality-partywear-simple-plain-stylish-original-imagnfwrbs7qw4c9.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/4/w/c/free-wedding-premium-quality-partywear-simple-plain-stylish-original-imagnfwrfbcgp9xq.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/3/k/1/free-wedding-premium-quality-partywear-simple-plain-stylish-original-imagnfwrvqsenchf.jpeg?q=70"],
+            sellingPrice:"629",
+            disPrice:"2999",
+            disPrsent:"79%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSMANVASNV22001A09",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Georgette"
+            }
+        },
+        {
+            title:"Printed, Floral Print, Paisley Bollywood Chiffon, Brasso Saree  (Black)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/d/z/6/free-wedding-partywear-fancy-plain-simple-stylish-new-latest-original-imaghtpzymbzchhh.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/q/l/1/free-wedding-partywear-fancy-plain-simple-stylish-new-latest-original-imaghtpz83bqzhpq.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/b/n/k/free-wedding-partywear-fancy-plain-simple-stylish-new-latest-original-imaghtpz7tezafdw.jpeg?q=70"],
+            sellingPrice:"629",
+            disPrice:"2499",
+            disPrsent:"74%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSMANFALAK1002A11",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Georgette"
+            }
+        },
+        {
+            title:"Woven Kanjivaram Jacquard, Art Silk Saree  (Blue)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/l4x2rgw0/sari/7/e/s/free-abha-swannah-unstitched-original-imagfpgbg6gruzcg.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-sari/4/w/o/free-shopsy-amisha-pan-02-benaifer-fashion-unstitched-original-imagkncxbw3ag54h.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-sari/z/9/y/free-shopsy-amisha-pan-02-benaifer-fashion-unstitched-original-imagkncxbzb2bhpp.jpeg?q=70"],
+            sellingPrice:"270",
+            disPrice:"3499",
+            disPrsent:"92%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSMANAMRITA1002A14",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"China chiffon"
+            }
+        },
+        {
+            title:"Woven Banarasi Silk Blend, Pure Silk Saree  (Purple)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/u/a/g/free-163-applix-style-unstitched-original-imagknhstgzser5x.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/d/6/p/free-shrushti-aryanari-unstitched-original-imagknhs5vdk9gfx.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/g/v/8/free-shrushti-aryanari-unstitched-original-imagknhss2esnrst.jpeg?q=70"],
+            sellingPrice:"350",
+            disPrice:"3299",
+            disPrsent:"89%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSMANBEPA1002A04",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Vichitra silk"
+            }
+        },
+        {
+            title:"Printed, Self Design, Floral Print Kalamkari Silk Blend Saree  (Mustard)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/k4ss2a80/sari/q/9/a/free-s181194-new-desirable-admirable-most-south-indian-bengali-original-imaf2yyqzestjazq.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/k4ss2a80/sari/q/9/a/free-s181194-new-desirable-admirable-most-south-indian-bengali-original-imaf2xzsrhqkwayr.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/k4ss2a80/sari/q/9/a/free-s181194-new-desirable-admirable-most-south-indian-bengali-original-imaf2y27kgeazfc6.jpeg?q=70"],
+            sellingPrice:"279",
+            disPrice:"1749",
+            disPrsent:"84%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSMANRAMYA1001A41",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Banarasi"
+            }
+        },
+        {
+            title:"Self Design Bollywood Satin Saree  (Black)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/k/x/9/free-elegant-premey-stitched-original-imaggdyynqasm4ug.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/o/v/k/free-elegant-premey-stitched-original-imaggdyypyfbgfa5.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/c/o/f/free-elegant-premey-stitched-original-imaggdyyuhtgpfwr.jpeg?q=70"],
+            sellingPrice:"529",
+            disPrice:"999",
+            disPrsent:"47%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSMANANU1001A13",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Synthetic"
+            }
+        },
+        {
+            title:"Printed, Self Design, Floral Print Mysore Silk Blend Saree  (Red))",
+            Image:["https://rukminim1.flixcart.com/image/832/832/k547l3k0/sari/p/u/9/free-combosr-a-76023-ishin-original-imaf2yyahkjbu7qc.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/k547l3k0/sari/p/u/9/free-combosr-a-76023-ishin-original-imaf2y7wzsdduvzm.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/k4ss2a80/sari/s/k/s/free-s181194-new-desirable-admirable-most-south-indian-bengali-original-imaf3uk7q4t7ytht.jpeg?q=70"],
+            sellingPrice:"287",
+            disPrice:"1499",
+            disPrsent:"80%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSMANFALAK1007A11",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Georgette"
+            }
+        },
+        {
+            title:"Embellished Bollywood Georgette Saree  (Blue)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/l3vxbbk0/sari/c/v/v/free-bansi-aqua-blue-disha-fashion-unstitched-original-imagewjkzufkgcmg.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/l3vxbbk0/sari/c/h/x/free-bansi-aqua-blue-disha-fashion-unstitched-original-imagewjk9egmdvnj.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/l3vxbbk0/sari/h/u/a/free-bansi-aqua-blue-disha-fashion-unstitched-original-imagewjkr6emarc7.jpeg?q=70"],
+            sellingPrice:"288",
+            disPrice:"3999",
+            disPrsent:"92%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSMANKAVYA1001A10",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Georgette"
+            }
+        },
+        {
+            title:"Embroidered Bollywood Chiffon Saree  (Dark Blue)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/kyoqmq80/sari/p/4/o/free-moti-the-gallery-shop-unstitched-original-imagavc5zz5azzcv.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kyoqmq80/sari/6/0/l/free-moti-the-gallery-shop-unstitched-original-imagavc5hsnw36zz.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kxnl6kw0/sari/q/z/h/free-blue-moti-work-saree-mydoux-unstitched-original-imaga2ba4tu2hcqr.jpeg?q=70"],
+            sellingPrice:"431",
+            disPrice:"999",
+            disPrsent:"56%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSMANFES1001A05",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Rayon"
+            }
+        },
+        {
+            title:"Digital Print Bollywood Chiffon, Brasso Saree  (Red)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/f/2/8/free-wedding-premium-quality-partywear-simple-plain-stylish-original-imagnfx7gvvg7wy9.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/v/y/l/free-wedding-premium-quality-partywear-simple-plain-stylish-original-imagnfx7zgqztg6b.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/g/d/z/free-wedding-premium-quality-partywear-simple-plain-stylish-original-imagnfx7cf3gr9dh.jpeg?q=70"],
+            sellingPrice:"629",
+            disPrice:"2999",
+            disPrsent:"79%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSMANEMILIA1002A37",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Synthetic"
+            }
+        },
+        {
+            title:"Printed Mysore Art Silk Saree  (Grey)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/kk5rgy80/sari/6/w/9/free-self17d10new-desirable-admirable-most-south-indian-bengali-original-imafzkh2vsrq7rhu.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kk5rgy80/sari/3/d/r/free-self17d10new-desirable-admirable-most-south-indian-bengali-original-imafzkh2hreqcgmg.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kk5rgy80/sari/u/7/x/free-self17d10new-desirable-admirable-most-south-indian-bengali-original-imafzkh2mw5n4ywz.jpeg?q=70"],
+            sellingPrice:"287",
+            disPrice:"3999",
+            disPrsent:"92%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSMANRASH1004A47",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Black rangoli"
+            }
+        },
+        {
+            title:"Woven Kanjivaram Silk Blend, Art Silk Saree  (Multicolor)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/kyhlfgw0/sari/m/w/2/free-parrot-1-multimall-unstitched-original-imagapuvhdhh54te.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/p/g/z/free-silk-samruddhi-unstitched-original-imagapuvhhhdaxcp.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/s/v/f/free-silk-samruddhi-unstitched-original-imagf8qrynwbzdn6.jpeg?q=70"],
+            sellingPrice:"336",
+            disPrice:"2899",
+            disPrsent:"92%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSMANBRI1001A15",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive Wear",
+                fabric:"Synthetic"
+            }
+        },
+
+
+
+        
+    ]
+
+    }
+]
+
+
+
 module.exports = {
     Categories, 
-    Westerndresscollections
+    Westerndresscollections,
+    Specialsareecollections
 }
