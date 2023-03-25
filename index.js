@@ -7,13 +7,12 @@ const port = process.env.PORT || 5000;
 
 const ConnectDB = require('./Config/db');
 const cors=require("cors");
-app.use(cors());
-// const corsOptions ={
-//    origin:'*', 
-//    credentials:true,   optionSuccessStatus:200,
-// }
+const corsOptions ={
+   origin:'*', 
+   credentials:true,   optionSuccessStatus:200,
+}
 
-//app.use(cors(corsOptions))
+app.use(cors(corsOptions))
 app.use(express.urlencoded({ extended: false }));
 
 //s const errorHandler = require('./Middleware/errormiddleware')
