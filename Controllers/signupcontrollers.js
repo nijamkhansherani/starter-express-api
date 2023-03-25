@@ -38,7 +38,7 @@ const postsignup = async(req,res)=>{
 
 const LoginUser =async (req,res)=>{
     const { email, password } = req.body
-    const user = await signup.findOne({ email, password })
+    const user = await signup.findById({ email, password })
     if(user && (bcrypt.compare(password, user.password))){
         res.json({
             status:true,
