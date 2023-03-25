@@ -1,7 +1,6 @@
 const express = require('express');
 const app = express();
 const cors = require('cors');
-app.use(cors());
 
 const { route } = require('./Routers/wishlishrouters');
 const dotenv = require('dotenv').config();
@@ -9,6 +8,7 @@ const port = process.env.PORT || 5000;
 
 const ConnectDB = require('./Config/db');
 ConnectDB()
+app.use(cors());
 
 app.use(express.urlencoded({ extended: false }));
 
