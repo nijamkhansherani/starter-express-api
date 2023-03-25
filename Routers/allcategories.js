@@ -1,5 +1,5 @@
 const express= require('express');
-const {Categories,Westerndresscollections,Specialsareecollections, StylishKurtiCollections,TrendingKurtiCollections,FashionSareeCollections,TopSellingKurti  } = require('../data')
+const {Categories,Westerndresscollections,Specialsareecollections, StylishKurtiCollections,TrendingKurtiCollections,FashionSareeCollections,TopSellingKurti,TopSareeCollectins  } = require('../data')
 
 const router = express.Router();
 
@@ -26,6 +26,9 @@ router.get('/TKC',(req,res)=>{
 }) 
  router.get('/TSK',(req,res)=>{
     res.json({status:true,TopSellingKurti})
-})  
+}) 
+router.get('/TSC',(req,res)=>{
+    res.json({status:true,TopSareeCollectins})
+})   
 
 module.exports = router;

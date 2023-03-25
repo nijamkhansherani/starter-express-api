@@ -6642,6 +6642,137 @@ const TopSellingKurti = [
     }
 ]
 
+const TopSareeCollectins = [
+    {
+        title:"Top Saree Collectins",
+        Productlist:[
+            {
+                title:"Printed, Digital Print Bollywood Satin Saree ( White )",
+                Image:["https://rukminim1.flixcart.com/image/832/832/kwtkxow0/sari/2/a/z/free-looknbook-7045-peach-fabian-fashion-unstitched-original-imag9eztv86gbvfq.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kwtkxow0/sari/s/k/x/free-looknbook-7045-peach-fabian-fashion-unstitched-original-imag9ezt5bhwxm3z.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kxtaxzk0/shopsy-sari/d/s/j/free-lnb-fabian-fashion-unstitched-original-imaga6mvtkskmess.jpeg?q=70"],
+                sellingPrice:"2624",
+                disPrice:"975",
+                disPrsent:"62%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-Stock",
+                quantity:"1",
+                Size:[
+                    'S','M','L','XL','XXL'
+                ],
+                ProductDetails:{
+                    productCode:"SHSJMFPA16",
+                    idealFor:"Women",
+                    packOf:"1",
+                    occasion:"Festive,Party wear",
+                    fabric:"Satin"
+                }
+            },
+
+            {
+                title:"Woven Bollywood Cotton Silk Saree (Pink)",
+                Image:["https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/sari/v/d/i/free-tilak-bpin-bandhani-hub-unstitched-original-imafzfm7s6hhhxyz.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/sari/z/y/h/free-tilak-bpin-bandhani-hub-unstitched-original-imafzfm7pknermkq.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/sari/2/b/i/free-tilak-bpin-bandhani-hub-unstitched-original-imafzfm7gahmg4pn.jpeg?q=70"],
+                sellingPrice:"2799",
+                disPrice:"1100",
+                disPrsent:"60%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-Stock",
+                quantity:"1",
+                Size:[
+                    'S','M','L','XL','XXL'
+                ],
+                ProductDetails:{
+                    productCode:"SHSLSKC77721A29",
+                    idealFor:"Women",
+                    packOf:"1",
+                    occasion:"Festive,Party wear",
+                    fabric:"Cotton"
+                }
+            },
+
+            {
+                title:"Woven Bollywood Cotton Silk Saree (Yellow)",
+                Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/n/l/s/free-sz-chit-f-mu-862-silk-zone-unstitched-original-imaggsbjnguhntzm.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/h/1/f/free-sz-chit-f-mu-862-silk-zone-unstitched-original-imaggsbj2gdw2vts.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/x/1/q/free-sz-chit-f-mu-862-silk-zone-unstitched-original-imaggsbjh3bys7br.jpeg?q=70"],
+                sellingPrice:"2499",
+                disPrice:"1245",
+                disPrsent:"50%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-Stock",
+                quantity:"1",
+                Size:[
+                    'S','M','L','XL','XXL'
+                ],
+                ProductDetails:{
+                    productCode:"SHSLSANU78781A30",
+                    idealFor:"Women",
+                    packOf:"1",
+                    occasion:"Function Wear",
+                    fabric:"Cotton"
+                }
+            },
+
+            {
+                title:"Embroidered, Dyed, Embellished, Self Design Bollywood Chiffon Saree ",
+                Image:["https://rukminim1.flixcart.com/image/832/832/kqgyhe80/sari/o/v/r/free-afkf810-kasturi-fashion-unstitched-original-imag4hbfsyrasu2g.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kqgyhe80/sari/s/v/m/free-afkf810-kasturi-fashion-unstitched-original-imag4hbfkfshe3ew.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/kqgyhe80/sari/2/r/n/free-afkf810-kasturi-fashion-unstitched-original-imag4hbfs2arhj8p.jpeg?q=70"],
+                sellingPrice:"2628",
+                disPrice:"1456",
+                disPrsent:"44%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-Stock",
+                quantity:"1",
+                Size:[
+                    'S','M','L','XL','XXL'
+                ],
+                ProductDetails:{
+                    productCode:"SHSLSVIC77201A01",
+                    idealFor:"Women",
+                    packOf:"1",
+                    occasion:"Festive, Party wear",
+                    fabric:"Satin chiffon"
+                }
+            },
+            {
+                title:"Woven Kanjivaram Silk Blend Saree  (Pink)",
+                Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/t/y/l/free-gt-1001-m-s-retail-unstitched-original-imagnjyhqgf4zzb3.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/c/x/r/free-gt-1001-m-s-retail-unstitched-original-imagnjyhfckdzgyc.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/l/7/z/free-gt-1001-m-s-retail-unstitched-original-imagnjyhddssqby7.jpeg?q=70"],
+                sellingPrice:"3099",
+                disPrice:"1115",
+                disPrsent:"64%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-Stock",
+                quantity:"1",
+                Size:[
+                    'S','M','L','XL','XXL'
+                ],
+                ProductDetails:{
+                    productCode:"SHSORSVA35",
+                    idealFor:"Women",
+                    packOf:"1",
+                    occasion:"Festive, Party wear",
+                    fabric:"Silk viscose"
+                }
+            },
+
+
+
+        ]
+    }
+]
+
+
+
 
 
 
@@ -6653,5 +6784,6 @@ module.exports = {
     StylishKurtiCollections,
     TrendingKurtiCollections,
     FashionSareeCollections,
-    TopSellingKurti
+    TopSellingKurti,
+    TopSareeCollectins
 }
