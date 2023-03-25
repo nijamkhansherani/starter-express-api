@@ -6771,6 +6771,876 @@ const TopSareeCollectins = [
     }
 ]
 
+const BridalWeddingCollection = [
+    {
+        title:"Bridal Wedding Collection",
+        Productlist:[
+            { 
+                title:"Embroidered Semi Stitched Lehenga Choli  (Pink)",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/kxjav0w0/lehenga-choli/1/n/f/free-half-sleeve-l104-foriox-original-imag9yhyeqmczzws.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/kxjav0w0/lehenga-choli/i/u/a/free-half-sleeve-l104-foriox-original-imag9yhym6sya9qd.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/kxjav0w0/lehenga-choli/g/b/h/free-half-sleeve-l104-foriox-original-imag9yhy4fzv9kny.jpeg?q=70"],
+                sellingPrice:"21549",
+                disPrice:"6500",
+                disPrsent:"69%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-stock",
+                quantity:" + 1 -",
+                Size:["S","M","L","XL","XXL"],
+                ProductDetails:{
+                    productCode:"SHLGHK8A517",
+                    idealFor:"Women",
+                    packOf:"1",
+                    LehengaFabric:"Netted stain",
+                    LehengaBlouseFabric:"Netted stain",
+                
+                
+                    
+
+                }
+            },
+            { 
+                title:"Embroidered Semi Stitched Lehenga Choli ",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/krntoy80/lehenga-choli/z/n/8/free-3-4-sleeve-future-wine-goroly-original-imag5ezdwczgyb5m.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/krntoy80/lehenga-choli/o/m/e/free-3-4-sleeve-future-wine-goroly-original-imag5ezd4rkawhxq.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/krntoy80/lehenga-choli/t/w/l/free-3-4-sleeve-future-wine-goroly-original-imag5ezdgm3dumzv.jpeg?q=70"],
+                sellingPrice:"24024",
+                disPrice:"7800",
+                disPrsent:"67%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:" + 1 -",
+                Size:["S","M","L","XL","XXL"],
+                ProductDetails:{
+                    productCode:"SHLGCKMAYUA541",
+                    idealFor:"Women",
+                    packOf:"1",
+                    LehengaFabric:" Vrlvet",
+                    LehengaBlouseFabric:"Vrlvet ",
+                }
+            },
+            { 
+                title:"Floral Print Semi Stitched Lehenga Choli  (Blue)",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/xif0q/lehenga-choli/g/0/m/free-sleeveless-zip1434-zinariya-fab-original-imagnftyaaaqjexa.jpeg?q=70",
+                         "https://rukminim1.flixcart.com/image/832/832/xif0q/lehenga-choli/r/f/w/free-sleeveless-zip1434-zinariya-fab-original-imagnftyr5e7aadz.jpeg?q=70",
+                         "https://rukminim1.flixcart.com/image/832/832/xif0q/lehenga-choli/v/4/e/free-sleeveless-zip1434-zinariya-fab-original-imagnftyksxk8gec.jpeg?q=70"],
+                sellingPrice:"6799",
+                disPrice:"2700",
+                disPrsent:"60%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:" + 1 -",
+                Size:["S","M","L","XL","XXL"],
+                ProductDetails:{
+                    productCode:"SHLGCK12CA523",
+                    idealFor:"Women",
+                    packOf:"1",
+                    LehengaFabric:"Netted stain",
+                    LehengaBlouseFabric:"Netted stain",
+                }
+            },
+            { 
+                title:"Floral Print Semi Stitched Lehenga Choli  (Blue)",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/kt7jv680/lehenga-choli/f/n/i/free-sleeveless-l8097-fashionuma-original-imag6hxffsx8hkgh.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/kt7jv680/lehenga-choli/r/h/a/free-sleeveless-l8097-fashionuma-original-imag6hxfawazw8yd.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/kt7jv680/lehenga-choli/q/w/o/free-sleeveless-l8097-fashionuma-original-imag6hxfrtc4v8zz.jpeg?q=70"],
+                sellingPrice:"20856",
+                disPrice:"12514",
+                disPrsent:"39%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-stock",
+                quantity:" + 1 -",
+                Size:["S","M","L","XL","XXL"],
+                ProductDetails:{
+                    productCode:"SHLGCK2A51",
+                    idealFor:"Women",
+                    packOf:"1",
+                    LehengaFabric:"Netted stain",
+                    LehengaBlouseFabric:"Netted stain",
+                
+                    
+
+                }
+            },
+            { 
+                title:"Embroidered Semi Stitched Lehenga Choli  (Pink)",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/xif0q/lehenga-choli/q/h/c/free-half-sleeve-kasariya-sojitra-enterprise-original-imaghvg3hbmzkhhj.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/lehenga-choli/b/q/q/free-short-sleeve-kasariya-peach-drashti-villa-original-imagh7wxrhgkfcgq.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/lehenga-choli/i/v/r/free-short-sleeve-kasariya-peach-drashti-villa-original-imagh7wxuq6pfzby.jpeg?q=70"],
+                sellingPrice:"2999",
+                disPrice:"849",
+                disPrsent:"71%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-stock",
+                quantity:" + 1 -",
+                Size:["S","M","L","XL","XXL"],
+                ProductDetails:{
+                    productCode:"SHLGCK13A523",
+                    idealFor:"Women",
+                    packOf:"1",
+                    LehengaFabric:"Netted stain",
+                    LehengaBlouseFabric:"Netted stain",   
+
+                }
+            },
+            { 
+                title:"Embroidered Semi Stitched Lehenga Choli  (Maroon)",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/kyyqpow0/lehenga-choli/j/p/l/free-half-sleeve-l8199-fashion-basket-original-imagb2qfzkpmkgxg.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/kyyqpow0/lehenga-choli/0/3/0/free-half-sleeve-l8199-fashion-basket-original-imagb2qfchvmzhr9.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/kyyqpow0/lehenga-choli/g/h/6/free-half-sleeve-l8199-fashion-basket-original-imagb2qf9k9hsxcv.jpeg?q=70"],
+                sellingPrice:"4699",
+                disPrice:"1929",
+                disPrsent:"58%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-stock",
+                quantity:" + 1 -",
+                Size:["S","M","L","XL","XXL"],
+                ProductDetails:{
+                    productCode:"SHLGHKMAHAA538",
+                    idealFor:"Women",
+                    packOf:"1",
+                    LehengaFabric:"Velvet",
+                    LehengaBlouseFabric:"Velvet",   
+
+                }
+            },
+            { 
+                title:"Embroidered Semi Stitched Lehenga Choli  (Red)",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/kyyqpow0/lehenga-choli/j/p/l/free-half-sleeve-l8199-fashion-basket-original-imagb2qfzkpmkgxg.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/kyyqpow0/lehenga-choli/0/3/0/free-half-sleeve-l8199-fashion-basket-original-imagb2qfchvmzhr9.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/kyyqpow0/lehenga-choli/g/h/6/free-half-sleeve-l8199-fashion-basket-original-imagb2qf9k9hsxcv.jpeg?q=70"],
+                sellingPrice:"3999",
+                disPrice:"718",
+                disPrsent:"82%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-stock",
+                quantity:" + 1 -",
+                Size:["S","M","L","XL","XXL"],
+                ProductDetails:{
+                    productCode:"SHLGHKNUSA528",
+                    idealFor:"Women",
+                    packOf:"1",
+                    LehengaFabric:"Velvet",
+                    LehengaBlouseFabric:"Velvet",   
+
+                }
+            },
+            { 
+                title:"Embroidered Semi Stitched Lehenga Choli  (Red)",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/l31x2fk0/lehenga-choli/o/i/p/free-half-sleeve-bipasha-tribhuvan-fab-original-image9cwugvczaas.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/l31x2fk0/lehenga-choli/b/5/9/free-half-sleeve-bipasha-tribhuvan-fab-original-image9cwj2kartpj.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/l31x2fk0/lehenga-choli/o/i/p/free-half-sleeve-bipasha-tribhuvan-fab-original-image9cwugvczaas.jpeg?q=70"],
+                sellingPrice:"999",
+                disPrice:"649",
+                disPrsent:"35%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-stock",
+                quantity:" + 1 -",
+                Size:["S","M","L","XL","XXL"],
+                ProductDetails:{
+                    productCode:"SHLGHKANUSA530",
+                    idealFor:"Women",
+                    packOf:"1",
+                    LehengaFabric:"Velvet",
+                    LehengaBlouseFabric:"Velvet",   
+
+                }
+            },
+            { 
+                title:"Embroidered, Self Design Semi Stitched Lehenga Choli  (Red)",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/xif0q/lehenga-choli/a/k/6/free-short-sleeve-dolly-lehenga-kr-royalwish-original-imag6hrjwanb99gc.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/lehenga-choli/t/w/d/free-short-sleeve-dolly-lehenga-kr-royalwish-original-imag6hrjtg3hadth.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/lehenga-choli/a/k/6/free-short-sleeve-dolly-lehenga-kr-royalwish-original-imag6hrjwanb99gc.jpeg?q=70"],
+                sellingPrice:"2599",
+                disPrice:"899",
+                disPrsent:"65%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-stock",
+                quantity:" + 1 -",
+                Size:["S","M","L","XL","XXL"],
+                ProductDetails:{
+                    productCode:"SHLGHKSSRA544",
+                    idealFor:"Women",
+                    packOf:"1",
+                    LehengaFabric:"Velvet",
+                    LehengaBlouseFabric:"Velvet",   
+
+                }
+            },
+            { 
+                title:"Embroidered Semi Stitched Lehenga Choli  (Red)",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/khz693k0-0/lehenga-choli/f/z/k/free-full-sleeve-apsara-woman-vivura-original-imafxvfjwfvzghgs.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/khz693k0-0/lehenga-choli/f/c/r/free-full-sleeve-apsara-woman-vivura-original-imafxvfjjha8ftsc.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/kit6hzk0-0/lehenga-choli/k/7/q/free-half-sleeve-dulhen-7-lehenga-marutinandan-nx-original-imafygj4zzyyap5c.jpeg?q=70"],
+                sellingPrice:"2599",
+                disPrice:"899",
+                disPrsent:"65%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-stock",
+                quantity:" + 1 -",
+                Size:["S","M","L","XL","XXL"],
+                ProductDetails:{
+                    productCode:"SHLGHKANTA526",
+                    idealFor:"Women",
+                    packOf:"1",
+                    LehengaFabric:"Velvet",
+                    LehengaBlouseFabric:"Velvet",   
+
+                }
+            },
+            { 
+                title:"Embroidered, Floral Print Semi Stitched Lehenga Choli  (Red)",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/l4x2rgw0/lehenga-choli/j/e/j/free-half-sleeve-bridal-red-niza-fashion-original-imagfperthgqethw.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/128/128/l4x2rgw0/lehenga-choli/5/m/z/free-half-sleeve-bridal-red-niza-fashion-original-imagfperzfrhjchc.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/l4x2rgw0/lehenga-choli/j/e/j/free-half-sleeve-bridal-red-niza-fashion-original-imagfperthgqethw.jpeg?q=70"],
+                sellingPrice:"2999",
+                disPrice:"685",
+                disPrsent:"77%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-stock",
+                quantity:" + 1 -",
+                Size:["S","M","L","XL","XXL"],
+                ProductDetails:{
+                    productCode:"SHLGHKHIRA533",
+                    idealFor:"Women",
+                    packOf:"1",
+                    LehengaFabric:"Velvet",
+                    LehengaBlouseFabric:"Velvet",   
+
+                }
+            },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ]
+    }
+]
+
+const Dressesforyou = [
+    {
+        title:"Dresses for you",
+        Productlist:[
+        {
+            title:"Georgette Stitched Flared/A-line Gown  (Light Green)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/gown/0/n/z/na-m-full-sleeve-stitched-e6017-afsana-na-original-imagnqf5z5zmg7cf.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/gown/o/w/n/na-m-full-sleeve-stitched-e6017-afsana-na-original-imagnqf542ghm776.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/gown/w/n/o/na-m-full-sleeve-stitched-e6017-afsana-na-original-imagnqf5ntkzvd2z.jpeg?q=70"],
+            sellingPrice:"849",
+            disPrice:"3699",
+            disPrsent:"77%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKVAMAMR22035A269",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Maslin silk"
+            }
+        },
+        
+        {
+            title:"Printed Crepe Stitched Anarkali Gown  (Beige)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/kzfvzww0/gown/l/z/g/16-s-short-sleeve-stitched-gown-badami-ne-style-60-original-imagbg8m9dpz4wtw.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kzfvzww0/gown/m/h/v/16-s-short-sleeve-stitched-gown-badami-ne-style-60-original-imagbg8metw45qjc.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kzfvzww0/gown/h/o/b/16-s-short-sleeve-stitched-gown-badami-ne-style-60-original-imagbg8mgvnwaqut.jpeg?q=70"],
+            sellingPrice:"278",
+            disPrice:"1599",
+            disPrsent:"82%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKVAMVHN3001A214",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Heavy georgette"
+            }
+        },
+
+        {
+            title:"Printed Rayon Blend Stitched Anarkali Gown  (Maroon)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/kpk3csw0/gown/7/8/r/15-xxl-3-4-sleeve-stitched-mroonhar-dup-baba-kurti-15-original-imag3rf5eyerhrxq.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kpk3csw0/gown/i/j/o/15-xxl-3-4-sleeve-stitched-mroonhar-dup-baba-kurti-15-original-imag3rf5zcfczc4z.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kpk3csw0/gown/h/x/j/15-xxl-3-4-sleeve-stitched-mroonhar-dup-baba-kurti-15-original-imag3rf5hzfyggu4.jpeg?q=70"],
+            sellingPrice:"426",
+            disPrice:"2999",
+            disPrsent:"85%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKVAMPAL6008A213",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Soft tapeta silk"
+            }
+        },
+
+        {
+            title:"Self Design Georgette Stitched Anarkali Gown  (Green)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/gown/c/r/l/na-m-full-sleeve-stitched-e6014-afsana-na-original-imagnqeza3qkqhgj.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/gown/u/n/a/na-xl-full-sleeve-stitched-e6014-afsana-na-original-imagnqezgggqavqs.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/gown/p/j/1/na-xl-full-sleeve-stitched-e6014-afsana-na-original-imagnqezx6kqqarj.jpeg?q=70"],
+            sellingPrice:"1449",
+            disPrice:"5999",
+            disPrsent:"75%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKVAMSDV418031A267",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Georgette"
+            }
+        },
+
+        {
+            title:"Georgette Stitched Flared/A-line Gown  (White, Black)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/dress/v/s/8/xl-mona-full-length-gown-handyhope-original-imagfqtgqcwatgnr.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/h/l/l/xl-mona-full-length-gown-handyhope-original-imagfqtgrr5z2aqk.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/n/z/m/xl-mona-full-length-gown-handyhope-original-imagfqtgqg9dymtm.jpeg?q=70"],
+            sellingPrice:"404",
+            disPrice:"1699",
+            disPrsent:"76%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKVAMREHV727032A271",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Georgette"
+            }
+        },
+
+        {
+            title:"Embroidered Art Silk Semi Stitched Anarkali Gown  (Purple)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/kmuxevk0/fabric/9/f/2/yes-semi-stitched-f1349-purple-fashion-basket-original-imagfzf29phgf7sv.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kmuxevk0/fabric/9/f/2/yes-semi-stitched-f1349-purple-fashion-basket-original-imagfzf29phgf7sv.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kmwcuq80/gown/u/n/k/na-free-full-sleeve-semi-stitched-yo-f1349-purple-yoyo-fashion-original-imagfp3pbahvepmk.jpeg?q=70"],
+            sellingPrice:"1209",
+            disPrice:"4999",
+            disPrsent:"75%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKVAMSDV418030A266",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Georgette"
+            }
+        },
+
+        {
+            title:"Dyed Georgette Stitched Anarkali Gown  (Black)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/gown/i/a/q/na-xl-full-sleeve-stitched-re-40-raiyani-enterprise-na-original-imagc5mtp4acxzat.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/gown/9/d/n/na-xl-full-sleeve-stitched-re-40-raiyani-enterprise-na-original-imagc5mth6avczzz.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/gown/y/t/y/na-xl-full-sleeve-stitched-re-40-raiyani-enterprise-na-original-imagc5mthhbvkngz.jpeg?q=70"],
+            sellingPrice:"390",
+            disPrice:"1599",
+            disPrsent:"75%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKVAMPAL6007A212",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Soft tapeta silk"
+            }
+        },
+
+        {
+            title:"Printed Georgette Stitched Anarkali Gown  (Multicolor)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/gown/h/n/v/na-xl-half-sleeve-stitched-e6018-afsana-na-original-imagnqf62snhgcgy.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/gown/o/i/e/na-xl-half-sleeve-stitched-e6018-afsana-na-original-imagnqf66xupfyqb.jpeg?q=70"],
+            sellingPrice:"1299",
+            disPrice:"5999",
+            disPrsent:"78%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKVAMELG213009A228",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Soft georgette"
+            }
+        },
+
+        {
+            title:"Georgette Stitched Flared/A-line Gown  (Beige)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/dress/w/o/c/xxl-mona-full-length-gown-handyhope-original-imagfqtgbm9u7zwm.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/n/4/z/xxl-mona-full-length-gown-handyhope-original-imagfqtgyjunx8bz.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/1/e/f/xxl-mona-full-length-gown-handyhope-original-imagfqtgxck3vnzy.jpeg?q=70"],
+            sellingPrice:"404",
+            disPrice:"1699",
+            disPrsent:"76%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"HKVAMVHN3004A217",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Heavy georgette"
+            }
+        },
+
+        {
+            title:"Embroidered Net Semi Stitched Anarkali Gown  (Red)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-gown/h/o/4/free-half-sleeve-semi-stitched-ngb-01-life-sky-original-imag7vdaybd4qazn.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-gown/w/g/y/free-half-sleeve-semi-stitched-ngb-09-life-sky-original-imag7vday6ubquqz.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-gown/v/n/i/free-half-sleeve-semi-stitched-ngb-01-life-sky-original-imag7vda55mgf7y7.jpeg?q=70"],
+            sellingPrice:"449",
+            disPrice:"3099",
+            disPrsent:"85%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKVAMPAL6003A208",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Soft tapeta silk"
+            }
+        },
+
+
+        ]
+    
+    }
+
+ ]
+
+ const WesternDressesForWomen = [
+    {
+        title:"Western Dresses For Women",
+        Productlist:[
+        {
+            title:"Women Maxi Blue Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/1/h/g/m-pw333-purshottam-wala-original-imag8zf6ybkmhehy-bb.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-dress/r/9/m/xs-dks333-dk-fab-original-imag8zf6xefgrkfj.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/kvvad8w0/kurta/e/n/c/m-pw333-purshottam-wala-original-imag8zf6vbjhytyr.jpeg?q=70"],
+            sellingPrice:"1899",
+            disPrice:"379",
+            disPrsent:"80%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'L','XL','XXL'
+            ],
+            ProductDetails:{
+                ProductCode:"SHKRYAGYVL35001A135",
+                idealFor:"Women",
+                packOf:"1 ( Kurti + Bottom)",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Slub linen"
+              }
+           }, 
+
+
+           {
+            title:"Women A-line Black Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/dress/u/g/z/l-pwd396-purshottam-wala-original-imaghzt7pehffh8w.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/l/q/s/l-pwd396-purshottam-wala-original-imaghzt73rk8dsac.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/x/c/n/l-pwd396-purshottam-wala-original-imaghzt7yawvsygy.jpeg?q=70"],
+            sellingPrice:"2199",
+            disPrice:"379",
+            disPrsent:"82%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'L','XL','XXL'
+            ],
+            ProductDetails:{
+                ProductCode:"SHKRYAAL2002A140",
+                idealFor:"Women",
+                packOf:"1 ( Kurti + Bottom + Dupatta)",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Rayon"
+              }
+           }, 
+
+
+           {
+            title:"Women Asymmetric Black Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/b/5/w/xl-322k772-saara-original-imafz3xfdnekz6by-bb.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/kjkbv680-0/kurta/c/9/n/xl-322k772-saara-original-imafz3xfp2egv2fz.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/kjkbv680-0/kurta/c/u/8/l-322kr772-sanisa-original-imafz3y4mayxss4c.jpeg?q=70"],
+            sellingPrice:"1997",
+            disPrice:"299",
+            disPrsent:"85%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'L','XL','XXL'
+            ],
+            ProductDetails:{
+                ProductCode:"SHKAGYCRMD001A419",
+                idealFor:"Women",
+                packOf:"1( Kurti + Dupatta)",
+                occasion:"Festive, Party wear",
+                fabric:"Heavy tesla slub"
+              }
+           }, 
+
+
+           {
+            title:"Women Maxi Maroon Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/kvcpn680/dress/5/d/v/xl-dv333-daevish-original-imag89k7mw5hc3zd.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/kvcpn680/dress/u/e/k/xl-dv333-daevish-original-imag89k7wg9s3kck.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/kvcpn680/dress/4/3/w/xl-dv333-daevish-original-imag89k7zzny9hf7.jpeg?q=70"],
+            sellingPrice:"1899",
+            disPrice:"379",
+            disPrsent:"80%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'L','XL','XXL'
+            ],
+            ProductDetails:{
+                ProductCode:"SHKRGM1002A180",
+                idealFor:"Women",
+                packOf:"1 (Kurti + Dupatta)",
+                occasion:"Festive, Party wear",
+                fabric:"Rayon"
+              }
+           }, 
+
+
+           {
+            title:"Women Fit and Flare Blue Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/dress/e/a/p/s-pwd322-purshottam-wala-original-imagm6ywr7vz95sz.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/7/l/3/s-pwd322-purshottam-wala-original-imagm6ywpygucx3g.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/g/f/i/s-pwd322-purshottam-wala-original-imagmddhdevbfphg.jpeg?q=70"],
+            sellingPrice:"2099",
+            disPrice:"379",
+            disPrsent:"81%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'L','XL','XXL'
+            ],
+            ProductDetails:{
+                ProductCode:"SHKRYSENC01A274",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Rayon"
+              }
+           }, 
+
+
+           {
+            title:"Women Fit and Flare Black Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/dress/q/7/v/s-pwd322-purshottam-wala-original-imagm7ypaavduvnm.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/w/z/a/s-pwd322-purshottam-wala-original-imagm7ypp8g7r9mk.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/1/2/o/s-pwd322-purshottam-wala-original-imagm7ypjvj7pwre.jpeg?q=70"],
+            sellingPrice:"2099",
+            disPrice:"379",
+            disPrsent:"81%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'L','XL','XXL'
+            ],
+            ProductDetails:{
+                ProductCode:"SHKVAMLKNV21007A245",
+                idealFor:"Women",
+                packOf:"1 (Kurti+ Bottom+ Dupatta)",
+                occasion:"Festive, Party wear",
+                fabric:"Rayon"
+              }
+           }, 
+
+
+           {
+            title:"Women Fit and Flare Multicolor Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/kvpklu80/dress/r/3/4/s-aa-0119-mauve-boho-long-dress-aayu-original-imag8k648mcxpeud.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/kvpklu80/dress/4/u/b/l-aa-0119-mauve-boho-long-dress-aayu-original-imag8k645zmjcgmy.jpeg?q=70",
+                   "https://rukminim1.flixcart.com/image/832/832/kvpklu80/dress/0/i/z/s-aa-0119-mauve-boho-long-dress-aayu-original-imag8k64vza4ze3c.jpeg?q=70" ],
+            sellingPrice:"1099",
+            disPrice:"399",
+            disPrsent:"63%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'L','XL','XXL'
+            ],
+            ProductDetails:{
+                ProductCode:"SHKVAMLCPA201",
+                idealFor:"Women",
+                packOf:"1( Kurti+ Bottom+ Dupatta) ",
+                occasion:"Festive, Party wear",
+                fabric:"Rayon"
+              }
+           }, 
+
+
+           {
+            title:"Women Ethnic Dress Black Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/dress/c/6/z/xs-pw320-purshottam-wala-original-imagm5xzsmbf65sv.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/o/8/3/xs-pw320-purshottam-wala-original-imagm5xzwxcyspvu.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/kshtxu80/dress/e/h/k/m-dv320-daevish-original-imag6fxnwsfceejx.jpeg?q=70"],
+            sellingPrice:"1799",
+            disPrice:"379",
+            disPrsent:"78%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'L','XL','XXL'
+            ],
+            ProductDetails:{
+                ProductCode:"SHKARFFR1010A81",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Cotton"
+              }
+           }, 
+        ]
+     }
+]
+
+
+const StellarStylesForHim = [
+    {
+        title:"Stellar Styles For Him",
+        Productlist:[
+            { 
+                title:"Men Slim Fit Solid Spread Collar Formal Shirt",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/v/g/u/s-r-stbrg-stoneberg-original-imaghf7mfydfgfxg.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/3/t/n/s-r-stbrg-stoneberg-original-imaghf7m5yt6urzk.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/l/k/w/s-r-stbrg-stoneberg-original-imaghf7m3zuhkhpm.jpeg?q=70"],
+                sellingPrice:"1299",
+                disPrice:"450",
+                disPrsent:"65%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:" + 1 -",
+                Size:["s","m","l","xl","xxl"],
+                ProductDetails:{
+                    productcode:"SHSTYBMP1A445",
+                    idealfor:"men",
+                    packof:"1",
+                    Occasion:"Daily Wear,casual wear",
+                    ShirtsFabric:"Royon",
+                    
+
+                }
+            },
+
+
+            { 
+                title:"Men Slim Fit Solid Spread Collar Formal Shirt",
+                Image:["https://rukminim1.flixcart.com/image/832/832/l3t2fm80/shirt/o/6/x/xxl-r-black-stoneberg-original-imageum2jqhkdmhj.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/l3t2fm80/shirt/5/o/f/xxl-r-black-stoneberg-original-imageum2fbxk8s7b.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/l3t2fm80/shirt/g/8/m/xxl-r-black-stoneberg-original-imageum2fusthtfg.jpeg?q=70"],
+                sellingPrice:"1893",
+                disPrice:"1445",
+                disPrsent:"21%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:" + 1 -",
+                Size:["s","m","l","xl","xxl"],
+                ProductDetails:{
+                    productcode:"SHSTYBSC4A448",
+                    idealfor:"men",
+                    packof:"1",
+                    Occasion:"Daily Wear,casual wear",
+                    ShirtsFabric:"Cotton",
+                }
+            },
+
+
+            { 
+                title:"Men Slim Fit Checkered Casual Shirt",
+                Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/g/c/6/m-pk19sh09b-surhi-original-imaft8w4sdbfhphu-bb.jpeg?q=70",
+                       "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/i/j/2/2xl-pk19sh09b-surhi-original-imaft8wh9tjw77ke.jpeg?q=70",
+                       "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/a/2/u/2xl-pk19sh09b-surhi-original-imaft8w4k6xheux6.jpeg?q=70"],
+                sellingPrice:"999",
+                disPrice:"510",
+                disPrsent:"48%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-stock",
+                quantity:" + 1 -",
+                Size:["s","m","l","xl","xxl"],
+                ProductDetails:{
+                    Productcode:"SHSTYBPPCS452",
+                    Idealfor:"men",
+                    Packof:"1",
+                    Occasion:"Daily Wear,casual wear",
+                    ShirtsFabric:"Cotton",
+                }
+            },
+
+            {
+                title:"Men Slim Fit Washed Mandarin Collar Casual Shirt",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/ku4ezrk0/shirt/t/j/e/xl-sksh-bb110-xl-ma3-fubar-original-imag7baxs7pp5yuq.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/ku4ezrk0/shirt/p/u/l/xl-sksh-bb110-xl-ma3-fubar-original-imag7baxfeu2gk6e.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/ku4ezrk0/shirt/j/w/r/xl-sksh-bb110-xl-ma3-fubar-original-imag7baxqknaxhyz.jpeg?q=70"],
+                sellingPrice:"1349",
+                disPrice:"455",
+                disPrsent:"66%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:" + 1 -",
+                Size:["s","m","l","xl","xxl"],
+                ProductDetails:{
+                    productcode:"SHSTYBCLRSTP9A453",
+                    idealfor:"men",
+                    packof:"1",
+                    Occasion:"Daily Wear,casual wear",
+                    ShirtsFabric:"Cotton",
+                }
+            },
+
+
+            { 
+                title:"Men Slim Fit Checkered Spread Collar Casual Shirt",
+                Image:["https://rukminim1.flixcart.com/image/832/832/l30hmkw0/shirt/t/k/f/l-check1195-tanip-original-image85ed7ezb29q.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/l30hmkw0/shirt/z/k/y/l-check1195-tanip-original-image85e5gbzbtwg.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/l30hmkw0/shirt/w/o/e/l-check1195-tanip-original-image85ekvh7rgue.jpeg?q=70"],       
+                sellingPrice:"999",
+                disPrice:"529",
+                disPrsent:"48%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:" + 1 -",
+                Size:["s","m","l","xl","xxl"],
+                ProductDetails:{
+                    productcode:"SHSTYBSLABLBOXCHDA466",
+                    idealfor:"men",
+                    packof:"1",
+                    Occasion:"Daily Wear,casual wear",
+                    ShirtsFabric:"Cotton",
+                }
+            },
+
+
+            { 
+                title:"Men Regular Fit Solid Spread Collar Casual Shirt",
+                Image:["https://rukminim1.flixcart.com/image/832/832/kzogn0w0/shirt/c/n/x/xl-monikat-magenta-voroxy-original-imagbmqzvhcqhzbv.jpeg?q=70",
+                       "https://rukminim1.flixcart.com/image/832/832/kzogn0w0/shirt/b/x/e/xl-monikat-magenta-voroxy-original-imagbmqzmb5ug3ng.jpeg?q=70",
+                       "https://rukminim1.flixcart.com/image/832/832/kzogn0w0/shirt/s/m/a/xl-monikat-magenta-voroxy-original-imagbmqz5stgafra.jpeg?q=70"],
+                sellingPrice:"999",
+                disPrice:"245",
+                disPrsent:"75%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:" + 1 -",
+                Size:["s","m","l","xl","xxl"],
+                ProductDetails:{
+                    productcode:"SHSTYBSSLASHBOXA465",
+                    idealfor:"men",
+                    packof:"1",
+                    Occasion:"Daily Wear,casual wear",
+                    ShirtsFabric:"Cotton",
+                }
+            },
+        ]
+     }
+]
+
+
 
 
 
@@ -6785,5 +7655,10 @@ module.exports = {
     TrendingKurtiCollections,
     FashionSareeCollections,
     TopSellingKurti,
-    TopSareeCollectins
+    TopSareeCollectins,
+    BridalWeddingCollection,
+    Dressesforyou,
+    WesternDressesForWomen,
+    StellarStylesForHim
+    
 }
