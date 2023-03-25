@@ -10,7 +10,7 @@ router.get('/',(req,res)=>{
     res.json({status:true,Categories})
 })    
 router.get('/WDC',(req,res)=>{
-    res.json({status:true,data:Westerndresscollections})
+    res.json({status:true,Westerndresscollections})
 })  
 
 
