@@ -7,7 +7,7 @@ router.use(express.json())
 
 
 router.get('/',(req,res)=>{
-    res.json({status:true,data:Categories})
+    res.json({status:true,Categories})
 })    
 router.get('/WDC',(req,res)=>{
     res.json({status:true,data:Westerndresscollections})
