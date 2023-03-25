@@ -5053,6 +5053,38 @@ HoursDelivery={
 }
 ]
 
+const Westerndresscollections = [
+    {
+        title:"Westerndresscollections",
+        Productlist:[
+        {
+            title:"Woven Bollywood Cotton Silk Saree  (Pink)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/sari/v/d/i/free-tilak-bpin-bandhani-hub-unstitched-original-imafzfm7s6hhhxyz.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/sari/z/y/h/free-tilak-bpin-bandhani-hub-unstitched-original-imafzfm7pknermkq.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/sari/2/b/i/free-tilak-bpin-bandhani-hub-unstitched-original-imafzfm7gahmg4pn.jpeg?q=70"],
+            sellingPrice:"2799",
+            disPrice:"1100",
+            disPrsent:"60%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSLSKC77721A29",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive, Party wear",
+                fabric:"Cotton"
+            }
+        },
+        
+    ]
+    }
+]
+
 module.exports = {
     Categories,  
 }
