@@ -5058,13 +5058,13 @@ const Westerndresscollections = [
         title:"Westerndresscollections",
         Productlist:[
         {
-            title:"Woven Bollywood Cotton Silk Saree  (Pink)",
+            title:"Women Fit and Flare Yellow Dress",
             Image:["https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/sari/v/d/i/free-tilak-bpin-bandhani-hub-unstitched-original-imafzfm7s6hhhxyz.jpeg?q=70",
-            "https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/sari/z/y/h/free-tilak-bpin-bandhani-hub-unstitched-original-imafzfm7pknermkq.jpeg?q=70",
-            "https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/sari/2/b/i/free-tilak-bpin-bandhani-hub-unstitched-original-imafzfm7gahmg4pn.jpeg?q=70"],
-            sellingPrice:"2799",
-            disPrice:"1100",
-            disPrsent:"60%",
+            "https://rukminim1.flixcart.com/image/832/832/kyxb9u80/dress/l/w/n/s-ddc-0022-dream-cloth-original-imagbfu4brtgyfvg.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kyxb9u80/dress/d/y/x/s-ddc-0022-dream-cloth-original-imagbfu4g7urr4pg.jpeg?q=70"],
+            sellingPrice:"1999",
+            disPrice:"499",
+            disPrsent:"75%",
             soldBy:"SHOPPEEN",
             COD:"Available",
             Status:"In-Stock",
@@ -5073,18 +5073,237 @@ const Westerndresscollections = [
                 'S','M','L','XL','XXL'
             ],
             ProductDetails:{
-                productCode:"SHSLSKC77721A29",
+                productCode:"SHKWWEST380A415",
                 idealFor:"Women",
                 packOf:"1",
-                occasion:"Festive, Party wear",
-                fabric:"Cotton"
+                occasion:"Daily wear, Casual wear",
+                fabric:"Georgette"
             }
         },
+        {
+            title:"Women Maxi Red Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/j7p2tu80/dress/n/d/a/free-rd520-01-ritu-designs-original-imaemzkfak6rgfuf.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/j7p2tu80/dress/n/d/a/free-rd520-01-ritu-designs-original-imaemzkftzyd3gwj.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/j7p2tu80/dress/n/d/a/free-rd520-01-ritu-designs-original-imaemzkggss7razf.jpeg?q=70"],
+            sellingPrice:"2499",
+            disPrice:"1660",
+            disPrsent:"33%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKWEST378A413",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear, Casual wear",
+                fabric:"Georgette"
+            }
+        },
+        {
+            title:"Women Fit and Flare Blue Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/dress/h/i/3/xxl-women-middi-zeshe-meshe-original-imagmcacupgwygwc.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/w/i/7/xxl-women-middi-zeshe-meshe-original-imagmcacbqu5cufz.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/i/i/c/xxl-women-middi-zeshe-meshe-original-imagmcacezd3ry3w.jpeg?q=70"],
+            sellingPrice:"999",
+            disPrice:"499",
+            disPrsent:"50%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKWEST379A414",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear, Casual wear",
+                fabric:"Crepe"
+            }
+        },
+        {
+            title:"Women Fit and Flare Green Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/l16rde80/dress/h/d/i/s-nvc270-stiped-midi-green-mon-fashion-collection-original-imagcshcgacqdkc7.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/l16rde80/dress/w/s/h/l-nvc270-stiped-midi-green-mon-fashion-collection-original-imagcshcnzamnht6.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/l16rde80/dress/w/f/u/s-nvc270-stiped-midi-green-mon-fashion-collection-original-imagcshczgg4qk87.jpeg?q=70"],
+            sellingPrice:"1999",
+            disPrice:"499",
+            disPrsent:"75%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKWESTT377A412",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear, Casual wear",
+                fabric:"Georgette"
+            }
+        },
+        {
+            title:"Women Maxi Red, White Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/kwxv98w0/dress/u/a/o/s-gmlr087-g-m-collections-original-imag9g4ntwgyhuu6.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/128/128/kwxv98w0/dress/b/9/m/s-gmlr087-g-m-collections-original-imag9g4nzw2vvxyn.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/128/128/kwxv98w0/dress/o/d/s/s-gmlr087-g-m-collections-original-imag9g4nuvyyhyp4.jpeg?q=70"],
+            sellingPrice:"999",
+            disPrice:"599",
+            disPrsent:"40%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKWEST371A409",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear, Casual wear",
+                fabric:"Georgette"
+            }
+        },
+        {
+            title:"Women A-line Maroon Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/kcrzki80/dress/e/f/2/xs-lr790-maroon-g-m-collections-original-imafttb7jssqyewv.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kcrzki80/dress/e/f/2/m-lr790-maroon-g-m-collections-original-imafttb74hvy3a9t.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kcrzki80/dress/e/f/2/m-lr790-maroon-g-m-collections-original-imafttb7gfzpnhgc.jpeg?q=70"],
+            sellingPrice:"1299",
+            disPrice:"599",
+            disPrsent:"53%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKWEST373A411",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear, Casual wear",
+                fabric:"Chiffon satin"
+            }
+        },
+        {
+            title:"Women A-line Maroon Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/kcrzki80/dress/e/f/2/xs-lr790-maroon-g-m-collections-original-imafttb7jssqyewv.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kcrzki80/dress/e/f/2/m-lr790-maroon-g-m-collections-original-imafttb74hvy3a9t.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kcrzki80/dress/e/f/2/m-lr790-maroon-g-m-collections-original-imafttb7gfzpnhgc.jpeg?q=70"],
+            sellingPrice:"1299",
+            disPrice:"599",
+            disPrsent:"53%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKWEST373A411",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear, Casual wear",
+                fabric:"satin"
+            }
+        },
+        {
+            title:"Women Fit and Flare Pink Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/dress/o/x/k/l-women-middi-zeshe-meshe-original-imagmcadbvgtz8xp.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/z/p/g/l-women-middi-zeshe-meshe-original-imagmcadujfdguvh.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/x/o/e/l-women-middi-zeshe-meshe-original-imagmcadnkgycywr.jpeg?q=70"],
+            sellingPrice:"999",
+            disPrice:"499",
+            disPrsent:"50%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKWEST382A416",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear, Casual wear",
+                fabric:"Crepe"
+            }
+        },
+        {
+            title:"Women Fit and Flare Pink Dress",
+            Image:["https://rukminim1.flixcart.com/image/128/128/xif0q/dress/p/s/w/s-women-middi-zeshe-meshe-original-imagmcachkcnkg8q.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/r/m/h/s-women-middi-zeshe-meshe-original-imagmcacqhjvxm7g.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/o/6/k/l-mehendi-colour-solid-mid-length-dress-for-women-shama-original-imagmng8v5ktfrrf.jpeg?q=70"],
+            sellingPrice:"999",
+            disPrice:"499",
+            disPrsent:"50%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKWEST382A416",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear, Casual wear",
+                fabric:"Crepe"
+            }
+        },
+        {
+            title:"Women Skater White Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/k65d18w0/dress/5/v/y/m-black-ak-fashion-original-imafgu2wpejsmanc.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/k65d18w0/dress/5/v/y/l-black-ak-fashion-original-imafgu2wzwr3dmgt.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/jykfxjk0/dress/j/z/r/xl-bczwd11-xl-new-latest-designer-party-wear-rayon-lygra-white-original-imafgqbmf95sdzsv.jpeg?q=70"],
+            sellingPrice:"2665",
+            disPrice:"498",
+            disPrsent:"81%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKWEST382A416",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear, Casual wear",
+                fabric:"Satin"
+            }
+        },
+
+
+
+
+
+
+
+
+
+
+
         
     ]
     }
 ]
 
 module.exports = {
-    Categories,  
+    Categories, 
+    Westerndresscollections
 }
