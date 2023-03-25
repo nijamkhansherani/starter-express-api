@@ -13,7 +13,7 @@ app.use(cors());
 //    credentials:true,   optionSuccessStatus:200,
 // }
 
-app.use(cors(corsOptions))
+//app.use(cors(corsOptions))
 app.use(express.urlencoded({ extended: false }));
 
 //s const errorHandler = require('./Middleware/errormiddleware')
