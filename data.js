@@ -5798,6 +5798,850 @@ const StylishKurtiCollections = [
      }
 ]
 
+const TrendingKurtiCollections = [
+    {
+        title:"Trending Kurti Collections",
+        Productlist:[
+        {
+            title:"Women Embroidered Viscose Rayon High Low Kurta  (Green)",
+            Image:[
+               "https://rukminim1.flixcart.com/image/832/832/klcmoi80/kurta/b/x/w/3xl-navya-a-1-ak-fab-original-imagyhhhdjy97a6b.jpeg?q=70",
+               "https://rukminim1.flixcart.com/image/832/832/klcmoi80/kurta/j/p/5/3xl-navya-a-1-ak-fab-original-imagyhhhhfjwbnty.jpeg?q=70",
+               "https://rukminim1.flixcart.com/image/832/832/klcmoi80/kurta/p/q/4/3xl-navya-a-1-ak-fab-original-imagyhhhc68hrymz.jpeg?q=70"
+            ],
+            sellingPrice:"1299",
+            disPrice:"549",
+            disPrsent:"57%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'M','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKRYAAL2001A139",
+                idealFor:"Women",
+                packOf:"1(Kurti + Bottom + Dupatta)",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Reyon"
+            },
+        },
+        {
+            title:"Women Embroidered Cotton Blend Anarkali Kurta  (Maroon)",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/o/f/t/xxl-1051plykmaroon-yash-gallery-original-imag3sh5tj7fjh94-bb.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kplisnk0/kurta/a/w/r/xxl-1051plykmaroon-yash-gallery-original-imag3sh5pvv3gzwf.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kplisnk0/kurta/b/o/n/xxl-1051plykmaroon-yash-gallery-original-imag3sh5hjbe3wsh.jpeg?q=70"
+            ],
+            sellingPrice:"3999",
+            disPrice:"909",
+            disPrsent:"77%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL'
+            ],
+            ProductDetails:{
+                productCode:"SHKRYC3001A143",
+                idealFor:"Women",
+                packOf:"1(Kurti + Dupatta)",
+                occasion:"Festive, Party wear",
+                fabric:"Heavy tesla slub"
+            },
+        },
+        {
+            title:"Women Striped Cotton Rayon A-line Kurta  (Orange)",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/a/w/t/l-digitalkurti-indian-fashionista-original-imaghtcyrvfsurez.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/r/q/a/l-digitalkurti-indian-fashionista-original-imaghtcybghhgshc.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/v/t/u/l-digitalkurti-indian-fashionista-original-imaghtcyknanfu3h.jpeg?q=70"
+            ],
+            sellingPrice:"1499",
+            disPrice:"279",
+            disPrsent:"81%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKRARO1003A186",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Regular Wear",
+                fabric:"Rayon"
+            },
+        },
+        {
+            title:"Women Floral Print Viscose Rayon Anarkali Kurta  (Multicolor)",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/kwwfte80/kurta/3/2/v/xl-hk001-hardik-fab-original-imag9han3nhkjqjg.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kwwfte80/kurta/7/5/d/xl-hk001-hardik-fab-original-imag9han6dwx3ru4.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kwwfte80/kurta/c/l/o/xl-hk001-hardik-fab-original-imag9hantjber87k.jpeg?q=70"
+            ],
+            sellingPrice:"1,299",
+            disPrice:"449",
+            disPrsent:"65%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKRYAAL2004A142",
+                idealFor:"Women",
+                packOf:"1(Kurti + Bottom + Dupatta)",
+                occasion:"Daily Wear,Casual wear",
+                fabric:"Rayon"
+            },
+        },
+        {
+            title:"Women Striped Khadi Cotton A-line Kurta  (Light Blue)",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/f/1/q/s-rf-pure-khadi-green-rimeline-fashion-original-imagjhy5en8fa5nw.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/j/o/o/s-rf-pure-khadi-green-rimeline-fashion-original-imagjhy5epw4gsh2.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/n/m/s/s-rf-pure-khadi-green-rimeline-fashion-original-imagjhy5bvc7vayj.jpeg?q=70"
+            ],
+            sellingPrice:"1299",
+            disPrice:"329",
+            disPrsent:"74%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKRYAGYVL35002A136",
+                idealFor:"Women",
+                packOf:"1(Kurti + Bottom)",
+                occasion:"Festive,Party wear",
+                fabric:"Slub linen striped"
+            },
+        },
+        {
+            title:"Women Solid Cotton Blend Straight Kurta  (Blue)",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/kd1zngw0/kurta/b/w/y/m-yash-gallery-women-s-cotton-slub-cambric-cotton-patch-work-a-original-imafufpfytazzaa8.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kd1zngw0/kurta/w/n/h/m-yash-gallery-women-s-cotton-slub-cambric-cotton-patch-work-a-original-imafufpf2eu24dww.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kd1zngw0/kurta/p/x/s/m-yash-gallery-women-s-cotton-slub-cambric-cotton-patch-work-a-original-imafufpff3apmbhg.jpeg?q=70"
+            ],
+            sellingPrice:"819",
+            disPrice:"3,799",
+            disPrsent:"78%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKRCYC3003A145",
+                idealFor:"Women",
+                packOf:"1(Kurti + Duppta)",
+                occasion:"Festive,Party wear",
+                fabric:"Heavy tesla slub"
+            },
+        },
+        {
+            title:"Women Self Design Cotton Blend A-line Kurta  (Dark Green)",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/l3t2fm80/kurta/j/f/3/xxl-s-p-2-bottle-green-somnath-collection-original-imagetr5ebhgbbbg.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/l3t2fm80/kurta/c/m/0/xxl-s-p-2-bottle-green-somnath-collection-original-imagetr5xhecju4g.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/l3t2fm80/kurta/x/b/x/xxl-s-p-2-bottle-green-somnath-collection-original-imagetr5npvche9h.jpeg?q=70"
+            ],
+            sellingPrice:"999",
+            disPrice:"236",
+            disPrsent:"76%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKRYAARVL33003A192",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Regular Wear",
+                fabric:"Slub cotton"
+            },
+        },
+        {
+            title:"Women Printed Crepe Straight Kurta  (Yellow)",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/l51d30w0/kurta/p/x/t/xxl-ri-530350-1-stop-fashion-original-imagfsvawzxhgv7a.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/l51d30w0/kurta/m/u/y/xxl-ri-530350-1-stop-fashion-original-imagfsvafzphgdem.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/l51d30w0/kurta/1/y/l/xxl-ri-530350-1-stop-fashion-original-imagfsvajghkyfpr.jpeg?q=70"
+            ],
+            sellingPrice:"999",
+            disPrice:"169",
+            disPrsent:"83%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+               's','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKVAMMH303A252",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Viscose saffon slub"
+            },
+        },
+        {
+            title:"Women Printed Viscose Rayon Anarkali Kurta  (Pink)",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/kij6f0w0-0/dress/q/2/s/xl-aadya-leaf-print-gown-sri-aadya-creation-original-imafyaptbvvrhs2z.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kij6f0w0-0/dress/d/q/j/m-aadya-leaf-print-gown-sri-aadya-creation-original-imafyaptxyddyskw.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kingqkw0-0/kurta/9/c/i/l-women-paisley-rayon-gown-pink-kurta-dress-vyshivka-original-imafyecdh6hzwbvm.jpeg?q=70"
+            ],
+            sellingPrice:"799",
+            disPrice:"359",
+            disPrsent:"55%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+               'M','L','XL'
+            ],
+            ProductDetails:{
+                productCode:"SHKRYAAL2002A140",
+                idealFor:"Women",
+                packOf:"1(Kurti + Bottom + Dupptta)",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Rayon"
+            },
+        },
+        {
+            title:"Women Embroidered Viscose Rayon Straight Kurta",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/l27wtjk0/kurta/u/w/h/3xl-new-folder-kurti-pink-vikshita-fashion-original-imagdhu7f8bvcmvg.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/l05lx8w0/kurta/2/w/x/3xl-red-kurta-lemoda-fashion-original-imagcyeqeq3znbru.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kzpw2vk0/kurta/i/h/u/xl-bhandni-print-red-m-size-bhavya-fashion-hub-original-imagbz5zhffjjxhn.jpeg?q=70"
+            ],
+            sellingPrice:"600",
+            disPrice:"315",
+            disPrsent:"47%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+               'M','L','XL',"XXL"
+            ],
+            ProductDetails:{
+                productCode:"SHKRAR01002A185",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Reguler wear",
+                fabric:"Rayon"
+            },
+        },
+        {
+            title:"Women Solid Cotton Blend A-line Kurta  (Green)",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/l52sivk0/kurta/y/8/1/l-287yk253green-yash-gallery-original-imagfu3thcjedfze.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/l52sivk0/kurta/n/h/t/l-287yk253green-yash-gallery-original-imagfu3tmrsbzbbp.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/l52sivk0/kurta/f/6/k/l-287yk253green-yash-gallery-original-imagfu3tshghh86a.jpeg?q=70"
+            ],
+            sellingPrice:"2,899",
+            disPrice:"759",
+            disPrsent:"73%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+               'M','L','XL',"XXL"
+            ],
+            ProductDetails:{
+                productCode:"SHKRYAKN1003A198",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Fastive wear",
+                fabric:"Cotton"
+            },
+        }                    
+    ]
+    }
+]
+
+const FashionSareeCollections = [
+    {
+      title: "Fashion Saree Collections",
+      Productlist: [
+        {
+          title: "Unstitched Pure Silk Multi-purpose Fabric Self Design",
+          Image: [
+            "https://rukminim1.flixcart.com/image/832/832/l5bd5zk0/sari/e/7/w/free-ms-172-dark-blue-lifera-unstitched-original-imaggysn8wggvbx8.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/l5bd5zk0/sari/b/s/8/free-ms-172-dark-blue-lifera-unstitched-original-imaggysnjet8jatu.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/l5iid8w0/sari/i/x/g/free-mahadev-pandadi-mahadev-retail-shop-unstitched-original-imaggysnqbxzbghw.jpeg?q=70",
+          ],
+          sellingPrice: "2999",
+          disPrice: "799",
+          disPrsent: "73%",
+          soldBy: "SHOPPEEN",
+          COD: "Available",
+          Status: "In-Stock",
+          quantity: "1",
+          Size: ["S", "M", "L", "XL", "XXL"],
+          ProductDetails: {
+            productCode: "SHSDDSAH1512A678",
+            idealFor: "Women",
+            packOf: "1",
+            occasion: "Festive, Party wear",
+            fabric: "JapanSilk",
+          },
+        },
+  
+        {
+          title: "Embroidered Fashion Pure Silk Saree  (Blue)",
+          Image: [
+            "https://rukminim1.flixcart.com/image/832/832/k3hmj680/sari/z/q/j/free-10045-jimplei-original-imafmmy6rvpf5cea.jpeg?q=70",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThEuqEkKVlX-SYQsJck_7gLcivEBLAvy032YSzqPUsC0t3BZnocyU5h-pSpfZ5_bOtHQ4&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnYkI6CR3ucKij6GxW5lxYxrv3lICHanBppMwiKnaZ9KWvbCKjnN91VlH2DggZ5NH2qU8&usqp=CAU",
+          ],
+          sellingPrice: "4999",
+          disPrice: "1845",
+          disPrsent: "63%",
+          soldBy: "SHOPPEEN",
+          COD: "Available",
+          Status: "In-Stock",
+          quantity: "1",
+          Size: ["S", "M", "L", "XL", "XXL"],
+          ProductDetails: {
+            productCode: "SHSDDAMA1336A686",
+            idealFor: "Women",
+            packOf: "1",
+            occasion: "Festive, Party wear",
+            fabric: "RangoliSilk",
+          },
+        },
+  
+        {
+          title:
+            "Printed, Self Design, Embellished, Floral Print, Solid/Plain Bollywood Georgette Saree  (Multicolor, Cream)",
+          Image: [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSryZyFqFxLHGZtZ3DZnFIz8N0ww33honSJJv_PbOBt0Bkyo9z0ZXLDXl0Igbv1q12s2DA&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPR0EKN2Dj6sxQy3vS9XtIasss2-2XakVX8lhHzowfqosKYfD551ZReFRsL4SO9vTnzz0&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTKf-UPGAZsxdw3LB4iQalrPrOUSWtlMiHjhOyzgt5zvYDKH5sFJaZMTa-KPXh4cd49VI&usqp=CAU",
+          ],
+          sellingPrice: "5799",
+          disPrice: "2100",
+          disPrsent: "63%",
+          soldBy: "SHOPPEEN",
+          COD: "Available",
+          Status: "In-Stock",
+          quantity: "1",
+          Size: ["S", "M", "L", "XL", "XXL"],
+          ProductDetails: {
+            productCode: "SHSDDFV1452A687",
+            idealFor: "Women",
+            packOf: "1",
+            occasion: "Wedding Wear,Party Wear",
+            fabric: "Half velvet half viscose",
+          },
+        },
+        {
+          title:
+            "Self Design, Woven Kanjivaram Silk Blend, Jacquard Saree  (Green)",
+          Image: [
+            "https://rukminim1.flixcart.com/image/832/832/kmgn0cw0/sari/y/u/p/free-butta-butti-green-bplash-fashion-unstitched-original-imagfczyznwph2gy.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/kms2j680/sari/d/h/f/free-kanjivaramsareeslatestdesign-catwalk-studio-unstitched-original-imagfhyzqwvcw3bn.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-sari/w/m/a/free-shopsy-gola-green-02-benaifer-fashion-unstitched-original-imagfdtzezzbk3ha.jpeg?q=70",
+          ],
+          sellingPrice: "3999",
+          disPrice: "829",
+          disPrsent: "79%",
+          soldBy: "SHOPPEEN",
+          COD: "Available",
+          Status: "In-Stock",
+          quantity: "1",
+          Size: ["S", "M", "L", "XL", "XXL"],
+          ProductDetails: {
+            productCode: "SHSDDSWAS1291A693",
+            idealFor: "Women",
+            packOf: "1",
+            occasion: "Festive,Party Wear",
+            fabric: "GermanSilk",
+          },
+        },
+        {
+          title: "Embellished, Solid/Plain Bollywood Lycra Blend Saree  (Brown)",
+          Image: [
+            "https://rukminim1.flixcart.com/image/400/400/kph8h3k0/sari/a/e/n/free-rw-red-shop-lady-stitched-original-imag3pfdbrhvazfw.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/400/400/kbl4cy80/sari/h/n/c/free-3002-radha-raman-fashion-unstitched-original-imafswhrrcshtgz7.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/krxtrww0/sari/j/0/h/free-malai-saree-carryox-unstitched-original-imag5mdhffez2dcz.jpeg?q=70",
+          ],
+          sellingPrice: "2645",
+          disPrice: "2215",
+          disPrsent: "16%",
+          soldBy: "SHOPPEEN",
+          COD: "Available",
+          Status: "In-Stock",
+          quantity: "1",
+          Size: ["S", "M", "L", "XL", "XXL"],
+          ProductDetails: {
+            productCode: "SHSDDSIVELA674",
+            idealFor: "Women",
+            packOf: "1",
+            occasion: "WeddingParty ,Party Wear",
+            fabric: "MalaiVelvet",
+          },
+        },
+        {
+          title: "Embroidered Bollywood Net Saree  (Blue)",
+          Image: [
+            "https://rukminim1.flixcart.com/image/612/612/krxtrww0/sari/z/w/a/free-malai-saree-carryox-unstitched-original-imag5mdhgyf62pwf.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/krxtrww0/sari/u/5/n/free-malai-saree-carryox-unstitched-original-imag5mdhfnmavjwj.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/g/x/2/free-latest-new-design-net-saree-casual-formal-party-wear-original-imaggzs64jffmnmb.jpeg?q=70",
+          ],
+          sellingPrice: "6399",
+          disPrice: "2395",
+          disPrsent: "62%",
+          soldBy: "SHOPPEEN",
+          COD: "Available",
+          Status: "In-Stock",
+          quantity: "1",
+          Size: ["S", "M", "L", "XL", "XXL"],
+          ProductDetails: {
+            productCode: "SHSDDPARI15O1A689",
+            idealFor: "Women",
+            packOf: "1",
+            occasion: "WeddingParty ,Party Wear",
+            fabric: "SoftGliterNet",
+          },
+        },
+  
+        {
+          title:
+            "Self Design, Woven Kanjivaram Silk Blend, Jacquard Saree  (Red)",
+          Image: [
+            "https://rukminim1.flixcart.com/image/612/612/kms2j680/sari/3/w/x/free-saree-for-women-catwalk-studio-unstitched-original-imagfhymf5ghms3z.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/xif0q/sari/x/n/s/free-bandhani-ruby-red-04-hathdora-creation-unstitched-original-imafz5sbhygxhrfh.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kmgn0cw0/sari/0/e/l/free-butta-butti-red-bplash-fashion-unstitched-original-imagfczyatzagw5b.jpeg?q=70",
+          ],
+          sellingPrice: "3999",
+          disPrice: "829",
+          disPrsent: "79%",
+          soldBy: "SHOPPEEN",
+          COD: "Available",
+          Status: "In-Stock",
+          quantity: "1",
+          Size: ["S", "M", "L", "XL", "XXL"],
+          ProductDetails: {
+            productCode: "SHSDDDHARAA692",
+            idealFor: "Women",
+            packOf: "1",
+            occasion: "Festive ,Party Wear",
+            fabric: "GermanSilk",
+          },
+        },
+        {
+          title:
+            "Printed, Self Design, Hand Painted, Ombre, Graphic Print, Floral Print, Checkered Bollywood Georgette, Chiffon Saree  (Blue)",
+          Image: [
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/1/c/e/free-2691s255-samah-unstitched-original-imagkyhh57yvxscb.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/xif0q/sari/f/m/6/free-re-m-n-grey-richeraa-no-blouse-original-imagjyjjvzmmdc3d.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/xif0q/sari/z/f/8/free-ramuba-shani-ramuba-fab-unstitched-original-imagdyqyppghhqpm.jpeg?q=70",
+          ],
+          sellingPrice: "4599",
+          disPrice: "599",
+          disPrsent: "86%",
+          soldBy: "SHOPPEEN",
+          COD: "Available",
+          Status: "In-Stock",
+          quantity: "1",
+          Size: ["S", "M", "L", "XL", "XXL"],
+          ProductDetails: {
+            productCode: "SHSDDDOL1543A695",
+            idealFor: "Women",
+            packOf: "1",
+            occasion: "Festive ,Party Wear",
+            fabric: "ChinonSilk",
+          },
+        },
+        {
+          title: "Solid/Plain Bollywood Georgette, Satin Saree  (Grey)",
+          Image: [
+            "https://rukminim1.flixcart.com/image/832/832/k4irzbk0/sari/f/f/n/free-ght6yh-sareeflame-original-imafh3qjge4uehs7.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/xif0q/sari/g/1/c/free-janki-nipshya-unstitched-original-image5wazpsjdmwh.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/xif0q/sari/e/d/x/free-ramuba-shani-ramuba-fab-unstitched-original-imagdyqytfpvnxmn.jpeg?q=70",
+          ],
+          sellingPrice: "5999",
+          disPrice: "635",
+          disPrsent: "89%",
+          soldBy: "SHOPPEEN",
+          COD: "Available",
+          Status: "In-Stock",
+          quantity: "1",
+          Size: ["S", "M", "L", "XL", "XXL"],
+          ProductDetails: {
+            productCode: "SHSDDVOLVO1391A677",
+            idealFor: "Women",
+            packOf: "1",
+            occasion: "Wedding Wear ,Party Wear",
+            fabric: "PureGeorgette",
+          },
+        },
+        {
+          title: "Woven Kanjivaram Jacquard, Art Silk Saree  (Multicolor)",
+          Image: [
+            "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-sari/c/v/n/free-catlog055net2023-hutah-unstitched-original-imagntjczfghzdpj.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/400/400/l4n2oi80/kurta/1/j/4/l-khan08-grn-kurta-khawab-fashion-original-imagfhshhfmnhpgd.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/v/v/r/free-jf-bahurani-copper-tereza-unstitched-original-imagczh7vd2vumdz.jpeg?q=70",
+          ],
+          sellingPrice: "2799",
+          disPrice: "359",
+          disPrsent: "87%",
+          soldBy: "SHOPPEEN",
+          COD: "Available",
+          Status: "In-Stock",
+          quantity: "1",
+          Size: ["S", "M", "L", "XL", "XXL"],
+          ProductDetails: {
+            productCode: "SHSDDZOM1443A694",
+            idealFor: "Women",
+            packOf: "1",
+            occasion: " Wedding Wear ,Party Wear",
+            fabric: "NylonSilk",
+          },
+        },
+        {
+          title: "Embroidered Bollywood Net Saree  (Orange)",
+          Image: [
+            "https://rukminim1.flixcart.com/image/612/612/kz3118w0/sari/5/k/a/free-women-s-new-latest-women-s-soft-net-saree-with-embroidary-original-imagajuzgfvnteuq.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/kp2y2kw0/sari/t/h/c/free-peach-colour-net-saree-ethnic-desi-color-colour-reversible-original-imag3ecm7xyqvszr.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kxjav0w0/sari/s/p/h/free-sk-orange-heavy-pure-mono-soft-net-hathdora-creation-original-imag9ynvgmkngrrg.jpeg?q=70",
+          ],
+          sellingPrice: "1999",
+          disPrice: "749",
+          disPrsent: "62%",
+          soldBy: "SHOPPEEN",
+          COD: "Available",
+          Status: "In-Stock",
+          quantity: "1",
+          Size: ["S", "M", "L", "XL", "XXL"],
+          ProductDetails: {
+            productCode: "SHSDDRINA1485A675",
+            idealFor: "Women",
+            packOf: "1",
+            occasion: "Wedding Wear ,Party Wear",
+            fabric: "SoftNet",
+          },
+        },
+        {
+          title: "Solid/Plain Assam Silk Pure Silk Saree  (Maroon)",
+          Image: [
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-sari/v/r/h/free-savariya-wine-kara-enterprise-no-blouse-original-imaghhzzepxqrszm.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/kyxb9u80/sari/g/o/i/free-malay-style-riddhi-enterprise-unstitched-original-imagbfu2be352dff.jpeg?q=70","https://rukminim1.flixcart.com/image/612/612/ki96c280-0/sari/7/m/c/free-ruffle-digital-patta-malai-aaena-stitched-original-imafy39uqhqvreuw.jpeg?q=70",
+        ],
+        sellingPrice: "3900",
+        disPrice: "599",
+        disPrsent: "84%",
+        soldBy: "SHOPPEEN",
+        COD: "Available",
+        Status: "In-Stock",
+        quantity: "1",
+        Size: ["S", "M", "L", "XL", "XXL"],
+        ProductDetails: {
+          productCode: "SHSDDIGA690",
+          idealFor: "Women",
+          packOf: "1",
+          occasion: "Wedding Wear ,Party Wear",
+          fabric: "MalaiSilk",
+        },
+      },
+      {
+        title: "Embellished Bollywood Art Silk, Chiffon Saree  (Grey, Yellow)",
+        Image: [
+          "https://rukminim1.flixcart.com/image/612/612/xif0q/sari/v/w/2/free-10-royal-opara-silk-saree-pure-cotton-sarees-for-summer-original-imagnx8k9h8vdvua.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/e/p/k/free-yellow-grey-half-half-atila-9-dailywear04-designer-stylist-original-imagkfm4bf6sfpfu.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/612/612/xif0q/sari/f/h/y/free-yellow-grey-half-half-atila-11-dailywear04-designer-stylist-original-imagkfmmnauxhy4k.jpeg?q=70",
+        ],
+        sellingPrice: "3599",
+        disPrice: "749",
+        disPrsent: "79%",
+        soldBy: "SHOPPEEN",
+        COD: "Available",
+        Status: "In-Stock",
+        quantity: "1",
+        Size: ["S", "M", "L", "XL", "XXL"],
+        ProductDetails: {
+          productCode: "SHSDDSIRBORA673",
+          idealFor: "Women",
+          packOf: "1",
+          occasion: "Wedding Wear ,Party Wear",
+          fabric: "CrapeSilk",
+        },
+      },
+      {
+        title: "Woven Kanjivaram Silk Blend, Jacquard Saree  (Yellow)",
+        Image: [
+          "https://rukminim1.flixcart.com/image/832/832/kst9gnk0/sari/t/z/j/free-ms-106-faxofab-unstitched-original-imag6as6uwyyfe45.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/612/612/xif0q/sari/g/9/g/free-2837s296j-siril-unstitched-original-imagnhrnvprhvykw.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/612/612/xif0q/sari/0/c/r/free-esc-8177-anjaneya-sarees-unstitched-original-imagf8uuf3hugmua.jpeg?q=70",
+        ],
+        sellingPrice: "2499",
+        disPrice: "849",
+        disPrsent: "66%",
+        soldBy: "SHOPPEEN",
+        COD: "Available",
+        Status: "In-Stock",
+        quantity: "1",
+        Size: ["S", "M", "L", "XL", "XXL"],
+        ProductDetails: {
+          productCode: "SHSDDSINA685",
+          idealFor: "Women",
+          packOf: "1",
+          occasion: "Wedding Wear ,Party Wear",
+          fabric: "ChinonSilk",
+        },
+      },
+
+      {
+        title: "Printed Bollywood Pure Silk Saree  (Blue)",
+        Image: [
+          "https://rukminim1.flixcart.com/image/612/612/kk01pjk0/sari/2/8/2/free-premium-quality-orange-red-yellow-fabric-ideal-for-daily-original-imafzftuyss3zgvk.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/612/612/kk01pjk0/sari/2/s/h/free-mq-japan-black-mess-up-fashion-unstitched-original-imafzfs7v47frdbp.jpeg?q=70",
+          "https://rukminim1.flixcart.com/image/612/612/kk01pjk0/sari/h/w/p/free-premium-quality-orange-red-yellow-fabric-ideal-for-daily-original-imafzftvzbyvfzhc.jpeg?q=70",
+        ],
+        sellingPrice: "2099",
+        disPrice: "502",
+        disPrsent: "76%",
+        soldBy: "SHOPPEEN",
+        COD: "Available",
+        Status: "In-Stock",
+        quantity: "1",
+        Size: ["S", "M", "L", "XL", "XXL"],
+        ProductDetails: {
+          productCode: "SHSDDMISS134OA682",
+          idealFor: "Women",
+          packOf: "1",
+          occasion: "Wedding Wear ,Party Wear",
+          fabric: "JapanSilk",
+        },
+      },
+    ],
+  },
+];
+
+const TopSellingKurti = [
+    {
+        title:"Top Selling Kurti",
+        Productlist:[
+        {
+            title:"Women Embroidered Georgette Anarkali Kurta  (Maroon)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/l34ry4w0/kurta/v/k/u/3xl-sd-3-anarkali-kurta-label-d11-original-imagebfhmrkqhatu.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/l34ry4w0/kurta/f/s/9/3xl-sd-3-anarkali-kurta-label-d11-original-imagebfhbygmsyed.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/l34ry4w0/kurta/v/k/u/3xl-sd-3-anarkali-kurta-label-d11-original-imagebfhmrkqhatu.jpeg?q=70"],
+            sellingPrice:"1399",
+            disPrice:"949",
+            disPrsent:"32%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKRCOM99003A175",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Rayon"
+            }
+        },
+
+        {
+            title:"Women Embroidered, Woven Design, Self Design Viscose Rayon Straight Kurta  (Maroon)",
+             Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/l/v/e/3xl-du-rkc-290-305-maroon-fk-l-d-uniq-original-imagmmcthdyjuvv4.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/b/v/r/3xl-du-rkc-290-305-maroon-fk-l-d-uniq-original-imagmmctaurjcdcx.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/z/d/8/3xl-du-rkc-290-305-maroon-fk-l-d-uniq-original-imagmmctzymgzbud.jpeg?q=70"],
+            sellingPrice:"3699",
+            disPrice:"481",
+            disPrsent:"86%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKYTV145448A120",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Rayon"
+            }
+        },
+    
+        {
+            title:"Women Embroidered, Bandhani, Block Print, Printed Viscose Rayon Straight Kurta  (Yellow)",
+             Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/9/r/n/xxl-du-rkc-468-357-fk-brown-xxl-d-uniq-original-imagkmgmczg6th8d.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/z/u/y/xxl-du-rkc-468-357-fk-brown-xxl-d-uniq-original-imagkmgm4jdsqxtj.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/z/u/y/xxl-du-rkc-468-357-fk-brown-xxl-d-uniq-original-imagkmgm4jdsqxtj.jpeg?q=70"],
+            sellingPrice:"4199",
+            disPrice:"586",
+            disPrsent:"86%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKRLBCC1A168",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Dyed"
+            }
+        }, 
+        
+        {
+            title:"Women Embroidered Viscose Rayon Straight Kurta  (Blue)",
+             Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/k/k/4/m-rf-1036-rimeline-fashion-original-imagm8cp8s6pcdzx.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/z/k/5/m-rf-1036-rimeline-fashion-original-imagm8cpywzhhgcs.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/m/d/s/m-rf-1036-rimeline-fashion-original-imagm8cpnabrngnr.jpeg?q=70"],
+            sellingPrice:"1299",
+            disPrice:"367",
+            disPrsent:"71%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKRCRUZ004A163",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Woolen"
+            }
+        }, 
+
+        {
+            title:"Women Embroidered Georgette Anarkali Kurta  (Pink)",
+             Image:["https://rukminim1.flixcart.com/image/832/832/l2qhjm80/kurta/y/z/g/l-sd-3-anarkali-kurta-label-d11-original-imageygzdp3tmch5.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/128/128/l2qhjm80/kurta/x/m/m/l-sd-3-anarkali-kurta-label-d11-original-imageygz6zcfbwtd.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/l2qhjm80/kurta/8/d/m/l-sd-3-anarkali-kurta-label-d11-original-imageygz8yvwhgge.jpeg?q=70"],
+            sellingPrice:"1399",
+            disPrice:"949",
+            disPrsent:"32%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKRWTV44001A149",
+                idealFor:"Women",
+                packOf:"1(Kurti + Bottom)",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Cotton"
+            }
+        }, 
+
+        {
+            title:"Women Solid Cotton Rayon Ethnic Dress  (Black)",
+             Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/d/p/c/xl-plain-12345-kanya-creation-original-imagm69hrd74kyzs.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/v/d/9/xl-plain-12345-kanya-creation-original-imagm69htjaygbvf.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/a/z/1/xl-plain-12345-kanya-creation-original-imagm69hgghkxwzv.jpeg?q=70"],
+            sellingPrice:"1299",
+            disPrice:"359",
+            disPrsent:"72%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKRCOM99001A173",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Rayon"
+            }
+        }, 
+        
+        
+        {
+            title:"Women Self Design Viscose Rayon Gown Kurta With Attached Dupatta  (Black)",
+             Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/l/t/1/m-dg-137-chechi-original-imagne3a7ytxd4py.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/e/h/r/m-dg-137-chechi-original-imagne3acbk84ypm.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/z/t/w/m-dg-137-chechi-original-imagne3amjjfxe5u.jpeg?q=70 "],
+            sellingPrice:"3999",
+            disPrice:"519",
+            disPrsent:"87%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKRCRUZOO6A165",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Woolen"
+            }
+        }, 
+
+        {
+            title:"Women Embroidered Georgette Anarkali Kurta  (Light Blue)",
+             Image:["https://rukminim1.flixcart.com/image/832/832/l34ry4w0/kurta/g/q/u/l-sd-3-anarkali-kurta-label-d11-original-imagebfhseuezgqf.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/l34ry4w0/kurta/4/8/t/l-sd-3-anarkali-kurta-label-d11-original-imagebfhharzy5qk.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/l34ry4w0/kurta/2/z/e/l-sd-3-anarkali-kurta-label-d11-original-imagebfhgvmggzna.jpeg?q=70"],
+            sellingPrice:"1399",
+            disPrice:"944",
+            disPrsent:"32%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSRWTV44005A153",
+                idealFor:"Women",
+                packOf:"1(Kurti + Bottom)",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Cotton"
+            }
+        }, 
+
+    ]
+    }
+]
+
 
 
 
@@ -5806,5 +6650,8 @@ module.exports = {
     Categories, 
     Westerndresscollections,
     Specialsareecollections,
-    StylishKurtiCollections
+    StylishKurtiCollections,
+    TrendingKurtiCollections,
+    FashionSareeCollections,
+    TopSellingKurti
 }
