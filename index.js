@@ -8,8 +8,9 @@ const port = process.env.PORT || 5000;
 
 const ConnectDB = require('./Config/db');
 ConnectDB()
-app.use(cors());
-
+app.use(cors({
+    origin: '*'
+}));
 app.use(express.urlencoded({ extended: false }));
 
 //s const errorHandler = require('./Middleware/errormiddleware')
