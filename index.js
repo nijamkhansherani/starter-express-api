@@ -7,10 +7,11 @@ const port = process.env.PORT || 5000;
 
 const ConnectDB = require('./Config/db');
 const cors=require("cors");
-const corsOptions ={
-   origin:'*', 
-   credentials:true,   optionSuccessStatus:200,
-}
+app.use(cors());
+// const corsOptions ={
+//    origin:'*', 
+//    credentials:true,   optionSuccessStatus:200,
+// }
 
 app.use(cors(corsOptions))
 app.use(express.urlencoded({ extended: false }));
