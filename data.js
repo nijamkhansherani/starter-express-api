@@ -5055,7 +5055,7 @@ HoursDelivery={
 
 const Westerndresscollections = [
     {
-        title:"Westerndresscollections",
+        title:"Western dress collections",
         Productlist:[
         {
             title:"Women Fit and Flare Yellow Dress",
@@ -5305,7 +5305,7 @@ const Westerndresscollections = [
 
 const Specialsareecollections = [
     {
-        title:"Specialsareecollections",
+        title:"Special saree collections",
         Productlist:[
         {
             title:"Digital Print Bollywood Chiffon, Brasso Saree  (Orange)",
