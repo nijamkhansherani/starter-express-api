@@ -7640,6 +7640,725 @@ const StellarStylesForHim = [
      }
 ]
 
+const WomenSareecollections = [
+    {
+        title:"WomenSareecollections",
+        Productlist:[
+        {
+            title:"Woven Kanjivaram Jacquard, Art Silk Saree  (Blue)",
+            Image:["https://rukminim1.flixcart.com/image/832/832/l4x2rgw0/sari/7/e/s/free-abha-swannah-unstitched-original-imagfpgbg6gruzcg.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-sari/z/9/y/free-shopsy-amisha-pan-02-benaifer-fashion-unstitched-original-imagkncxbzb2bhpp.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-sari/o/1/0/free-shopsy-amisha-pan-02-benaifer-fashion-unstitched-original-imagkncx7khkbszh.jpeg?q=70"],
+            sellingPrice:"3499",
+            disPrice:"270",
+            disPrsent:"92%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSDDSWAS1291A693",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive,Party wear",
+                fabric:"German silk"
+            }
+        },
+
+        {
+            title:"Printed, Self Design, Floral Print Kalamkari Silk Blend Saree  (Mustard)",
+             Image:["https://rukminim1.flixcart.com/image/832/832/k4ss2a80/sari/q/9/a/free-s181194-new-desirable-admirable-most-south-indian-bengali-original-imaf2yyqzestjazq.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/k4ss2a80/sari/q/9/a/free-s181194-new-desirable-admirable-most-south-indian-bengali-original-imaf2xzsrhqkwayr.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/k4ss2a80/sari/q/9/a/free-s181194-new-desirable-admirable-most-south-indian-bengali-original-imaf2y27kgeazfc6.jpeg?q=70"],
+            sellingPrice:"1999",
+            disPrice:"298",
+            disPrsent:"85%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSDDAPEK1498A681",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Wedding Wear,Party Wear",
+                fabric:"Georgette"
+            }
+        },
+    
+        {
+            title:"Printed Bollywood Art Silk Saree  (White)",
+             Image:["https://rukminim1.flixcart.com/image/832/832/kynb6vk0/sari/o/q/v/free-bahubali-white-ontic-lifestyle-unstitched-original-imagatvhhnkk4pyy.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/kynb6vk0/sari/v/h/d/free-bahubali-white-ontic-lifestyle-unstitched-original-imagatvh2fzkvhym.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/kynb6vk0/sari/k/r/g/free-bahubali-white-ontic-lifestyle-unstitched-original-imagatvhafcygt9g.jpeg?q=70"],
+            sellingPrice:"1500",
+            disPrice:"298",
+            disPrsent:"80%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSDDPARI1501A689",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Wedding wear,Party wear",
+                fabric:"Soft glitter net"
+            }
+        }, 
+        
+        {
+            title:"Woven Paithani Jacquard, Art Silk Saree  (Maroon)",
+             Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/v/l/q/free-df-vishva-maroon-lichi-soft-silk-jacquard-woven-saree-heavy-original-imagh8hytfggqhg8.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/l2arp8w0/sari/1/z/d/free-gp-vishva-maroonart-silk-designer-bollywood-fashion-style-original-imagdz58gpfzrraq.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/l2arp8w0/sari/d/n/c/free-gp-vishva-maroonart-silk-designer-bollywood-fashion-style-original-imagdz58guuxewsz.jpeg?q=70"],
+            sellingPrice:"3999",
+            disPrice:"565",
+            disPrsent:"85%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSDDBRA684",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive,Party wear",
+                fabric:"Brazzo"
+            }
+        }, 
+
+        {
+            title:"Embroidered Bollywood Chiffon Saree  (Dark Blue)",
+             Image:["https://rukminim1.flixcart.com/image/832/832/kyoqmq80/sari/p/4/o/free-moti-the-gallery-shop-unstitched-original-imagavc5zz5azzcv.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/kyoqmq80/sari/5/0/v/free-moti-the-gallery-shop-unstitched-original-imagavc5gaqhrkxg.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/kxnl6kw0/sari/q/z/h/free-blue-moti-work-saree-mydoux-unstitched-original-imaga2ba4tu2hcqr.jpeg?q=70"],
+            sellingPrice:"999",
+            disPrice:"431",
+            disPrsent:"56%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSDDDOL1543A695",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive,Party wear",
+                fabric:"Chinon silk"
+            }
+        }, 
+
+        {
+            title:"Woven Kanjivaram Jacquard, Pure Silk Saree  (Purple)",
+             Image:["https://rukminim1.flixcart.com/image/832/832/ktizdzk0/shopsy-sari/q/q/c/free-harshita-dream-star-unstitched-original-imag6utqcvfzr96f.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/ktizdzk0/shopsy-sari/u/n/v/free-mb0212-asnr-trend-unstitched-original-imag6ugavh5zqqy9.jpeg?q=70",
+             "https://rukminim1.flixcart.com/image/832/832/kthjy4w0/sari/g/c/t/free-purmbsaree-asnr-trend-unstitched-original-imag6tnapffxfz7y.jpeg?q=70"],
+            sellingPrice:"3299",
+            disPrice:"595",
+            disPrsent:"81%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHSDDGUL1455A679",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Wedding wear,Party wear",
+                fabric:"Rassal net"
+            }
+        }, 
+        
+
+    ]
+    }
+]
+
+const LongKurtiCollections = [
+    {
+        title:"Long Kurti Collections",
+        Productlist:[
+        {
+            title:"Women Printed Pure Cotton Straight Kurta  (Yellow)",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/w/m/p/s-mf-620-global-beats-original-imagzfj8wgzghn9p.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/b/5/c/s-mf-620-global-beats-original-imagzfj8cchzcnnf.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/f/4/p/s-mf-620-global-beats-original-imagzfj8ns53233b.jpeg?q=70"
+            ],
+            sellingPrice:"999",
+            disPrice:"314",
+            disPrsent:"68%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL'
+            ],
+            ProductDetails:{
+                productCode:"SHKVAMSHY1708A244YL",
+                idealFor:"Women",
+                packOf:"1(KURTI + PALAZZO)",
+                occasion:"Festive, Party wear",
+                fabric:"Pure muslin silk"
+            }
+        },
+        {
+            title:"Unstitched Crepe Kurta & Patiyala Material Printed",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/fabric/c/q/k/yes-2-2-m-unstitched-2-m-2-5-m-soha-red-dm96-sarvada-original-imagkc7ygfzua4qd.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/fabric/x/e/m/yes-2-2-m-unstitched-2-m-2-5-m-soha-red-dm96-sarvada-original-imagkc7yjjkynrhu.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/fabric/g/l/w/yes-2-2-m-unstitched-2-m-2-5-m-soha-red-dm96-sarvada-original-imagkc7y6azs8bjf.jpeg?q=70"
+            ],
+            sellingPrice:"1845",
+            disPrice:"308",
+            disPrsent:"83%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKVAMSAJ5005A259",
+                idealFor:"Women",
+                packOf:"1(KURTI + Bottom + Duppatta)",
+                occasion:"Festive, Party wear",
+                fabric:"Rayon"
+            }
+        },
+        {
+            title:"Women Printed Cotton Rayon Straight Kurta ",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/kykgb680/kurta/p/f/j/s-banthani-mustard-kp-fab-original-imagarw8zykhef52.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kykgb680/kurta/0/v/a/s-banthani-mustard-kp-fab-original-imagarw8qdv6znya.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kykgb680/kurta/h/0/j/s-banthani-mustard-kp-fab-original-imagarw8engvnnjp.jpeg?q=70"
+            ],
+            sellingPrice:"699",
+            disPrice:"449",
+            disPrsent:"35%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKVAMLKNV21A249",
+                idealFor:"Women",
+                packOf:"1(Kurti + Bottom + Dupatta)",
+                occasion:"Festive, Party wear",
+                fabric:"Rayon"
+            }
+        },
+        {
+            title:"Women Printed Viscose Rayon Flared Kurta  (Red)",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-kurta/2/f/s/xl-ss-dar-122c-nama-original-imagh2wexwy7ns55.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-kurta/n/p/j/xl-ss-dar-122c-nama-original-imagh2we7kquvqj4.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/128/128/xif0q/shopsy-kurta/y/e/5/xl-ss-dar-122c-nama-original-imagh2wesmxscvys.jpeg?q=70"
+            ],
+            sellingPrice:"386",
+            disPrice:"1650",
+            disPrsent:"76%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL'
+            ],
+            ProductDetails:{
+                productCode:"SHKARRL4004A86",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Festive,Party wear",
+                fabric:"Rayon"
+            }
+        },
+        {
+            title:"Women Printed, Striped Silk Blend A-line Kurta  (Brown)",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta-kurti/8/o/f/xl-jne2305-kr-533-janasya-original-imaf8dqthtznnyag-bb.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/krtjgcw0hlty2aw/kurta-kurti/e/x/e/xl-jne2305-kr-533-janasya-original-imaf8dqu2shhksht.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/krtjgcw0hlty2aw/kurta-kurti/q/v/p/xl-jne2305-kr-533-janasya-original-imaf8dqtyzkhsgpc.jpeg?q=70"
+             ],
+            sellingPrice:"1299",
+            disPrice:"450",
+            disPrsent:"65%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKVAMUPSA236",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Viscose maslin silk"
+            }
+        },
+        {
+            title:"Women Embroidered Viscose Rayon High Low Kurta  (Yellow)",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/k4n2avk0/kurta/h/z/a/s-1081ykyellow-akiko-original-imafnfpjzukjrhzv.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/k4n2avk0/kurta/h/z/a/s-1081ykyellow-akiko-original-imafnfpjbypeq3c3.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/k4n2avk0/kurta/h/z/a/xl-1081ykyellow-akiko-original-imafnfpjc6tqrbz4.jpeg?q=70"
+             ],
+            sellingPrice:"3899",
+            disPrice:"824",
+            disPrsent:"78%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKVAMUPSA235",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Viscose maslin silk"
+            }
+        },
+        {
+            title:"Women Embroidered Viscose Rayon Anarkali Kurta  (Dark Green)",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/q/4/9/s-mayraa01-aanshi-fashion-original-imaghwtwyepdbv7g.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/l/x/x/s-mayraa01-aanshi-fashion-original-imaghwtwk6ggfyzx.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/n/c/c/s-mayraa01-aanshi-fashion-original-imaghwtwcgyrffyh.jpeg?q=70"
+             ],
+            sellingPrice:"1599",
+            disPrice:"431",
+            disPrsent:"73%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKVAMLCPA201",
+                idealFor:"Women",
+                packOf:"1(Kurti + Vottom + Dupatta)",
+                occasion:"Festive,Party wear",
+                fabric:"Rayon"
+            }
+        },
+        {
+            title:"Women Embroidered Cotton Silk Gown Kurta  (Beige)",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-kurta/0/n/m/m-s-d-105-imlie-original-imagh4wrtrbzpkbp.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-kurta/1/m/f/m-s-d-105-imlie-original-imagh4wrypwegbdg.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-kurta/a/i/a/m-s-d-105-imlie-original-imagh4wradtrut9u.jpeg?q=70"
+            ],
+            sellingPrice:"1999",
+            disPrice:"612",
+            disPrsent:"69%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                  'M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKVAMANTNXA229",
+                idealFor:"Women",
+                packOf:"1(Kurti + Vottom + Dupatta)",
+                occasion:"Festive,Party wear",
+                fabric:"Georgette with cotton silk"
+            }
+        },
+        {
+            title:"Women Embroidered Pure Cotton Anarkali Kurta  (Red)",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/ki6bgcw0-0/kurta/g/v/m/l-1245ykred-yash-gallary-original-imafyys3jvrawnzy.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/ki6bgcw0-0/kurta/v/x/l/l-1245ykred-yash-gallary-original-imafyys3cghksbng.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/ki6bgcw0-0/kurta/n/h/i/l-1245ykred-yash-gallary-original-imafyys3cnphv3u9.jpeg?q=70"
+             ],
+            sellingPrice:"2999",
+            disPrice:"844",
+            disPrsent:"71%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKARFFR1002A73",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear,Casual wear",
+                fabric:"Cotton"
+            }
+        },
+        {
+            title:"Women Printed Cotton Blend A-line Kurta  (Beige)",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/jgcktjk0/dress/x/q/n/xs-dk11282d-natty-india-original-imaf4gx3yqdxfuyz.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/jgcktjk0/dress/x/q/n/xl-dk11282d-natty-india-original-imaf4gx3jfymqdgr.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/jgcktjk0/dress/x/q/n/xs-dk11282d-natty-india-original-imaf4gx3cwgsybww.jpeg?q=70"
+            ],
+            sellingPrice:"2499",
+            disPrice:"1224",
+            disPrsent:"51%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKVAMANTNXA233",
+                idealFor:"Women",
+                packOf:"1(Kurti + Bottom + Dupatta)",
+                occasion:"Party wear",
+                fabric:"Synthetic sequence"
+            }
+        },
+        {
+            title:"Women Printed Crepe Straight Kurta ",
+            Image:[
+                "https://rukminim1.flixcart.com/image/832/832/kd94uq80-0/kurti/j/b/z/l-186-l-new-latest-designer-trendy-best-price-american-crepe-original-imafu7bkyrzbsb2w.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kd94uq80-0/kurti/f/t/x/l-186-l-new-latest-designer-trendy-best-price-american-crepe-original-imafu7bkabwpmzry.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/v/d/v/xxl-combo-printed-kurti-casual-party-wear-latest-pack-of-2-kurta-original-imafu7bkry9xskfg.jpeg?q=70"
+             ],
+            sellingPrice:"799",
+            disPrice:"252",
+            disPrsent:"68%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKVAMSHY1704A240",
+                idealFor:"Women",
+                packOf:"1(KURTI + PALAZZO)",
+                occasion:"Festive,Party wear",
+                fabric:"Pure muslin silk"
+            }
+        },        
+     ]
+    },
+]
+
+const NewArrivalsTrousers = [
+    {
+        title:"New Arrivals Trousers",
+        Productlist:[
+            { 
+                title:"Men Slim Fit Light Blue Cotton Lycra",
+                Image:[
+                    "https://rukminim1.flixcart.com/image/832/832/jrqo70w0/trouser/x/v/v/34-220498-tahvo-original-imafdgcq3aghwrjw.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/jrqo70w0/trouser/x/v/v/32-220498-tahvo-original-imafdgcqmprzhzxh.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/jrqo70w0/trouser/x/v/v/34-220498-tahvo-original-imafdgcqaky9dkzz.jpeg?q=70"
+                ],
+                sellingPrice:"1749",
+                disPrice:"1169",
+                disPrsent:"33%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:"1",
+                Size:[
+                    'S','M','L','XL','XXL'
+                ],
+                ProductDetails:{
+                    productcode:"SHTPGPPA496",
+                    idealfor:"Men",
+                    packof:"1",
+                    Fabric:"Lycra",
+                    febricCare:"Hand Wash , Machine Wash",
+                }
+            },
+            { 
+                title:"Slim Fit Men Cotton Lycra Blend Dark Blue Cotton Lycra Blend Trousers",
+                Image:[
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/w/u/t/-original-imagk5ktcz8bubtp.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/3/a/p/-original-imagk5ktsp4vsamh.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/v/t/0/-original-imagk5kt39vyzz8m.jpeg?q=70"
+                ],
+                sellingPrice:"1999",
+                disPrice:"539",
+                disPrsent:"73%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:"1",
+                Size:[
+                    'S','M','L','XL'
+                ],
+                ProductDetails:{
+                    productcode:"SHTPPGPPA497",
+                    idealfor:"Men",
+                    packof:"1",
+                    Fabric:"Lycra",
+                    febricCare:"Hand Wash,Machine Wash",
+                }
+            },
+            { 
+                title:"Men Slim Fit Beige Lycra Blend Trousers",
+                Image:[
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/s/c/o/34-chinos-beige-pesado-original-imagnjqz3bh6qw9m.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/6/h/d/34-chinos-beige-pesado-original-imagnjqzvwp7vtft.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/5/i/c/34-chinos-beige-pesado-original-imagnjqzg9gnyzwh.jpeg?q=70"
+                ],
+                sellingPrice:"999",
+                disPrice:"524",
+                disPrsent:"47%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:"1",
+                Size:[
+                    'S','M','L'
+                ],
+                ProductDetails:{
+                    productcode:"SHTPGPPA498",
+                    idealfor:"Men",
+                    packof:"1",
+                    Fabric:"Lycra",
+                    febricCare:"Hand Wash,Machine Wash",
+                }
+            },
+            { 
+                title:"Men Slim Fit Beige",
+                Image:[
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/l/5/o/32-vhtffslfc98425-van-heusen-original-imaggd2bhy29kyan.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/f/k/f/32-vhtffslfc98425-van-heusen-original-imaggd2bfyvbjuum.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/f/u/l/32-vhtffslfc98425-van-heusen-original-imaggd2bmuadcxy7.jpeg?q=70"
+                   ],
+                sellingPrice:"3299",
+                disPrice:"1649",
+                disPrsent:"50%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:"1",
+                Size:[
+                    'S','M','L','XL','XXL'
+                ],
+                ProductDetails:{
+                    productcode:"SHTPGPPA502",
+                    idealfor:"Men",
+                    packof:"1",
+                    Fabric:"Lycra",
+                    febricCare:"Hand Wash,Machine Wash",
+                }
+            },
+            { 
+                title:"Men Regular Fit Maroon",
+                Image:[
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/r/h/m/32-u39-baleno-maroon-aa-ad-av-original-imagn3aydchuanqm.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/k/j/g/32-u39-baleno-maroon-aa-ad-av-original-imagn3aycdazmyer.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/b/p/5/32-u39-baleno-maroon-aa-ad-av-original-imagn3ay3b6g8nnk.jpeg?q=70"
+                ],
+                sellingPrice:"1299",
+                disPrice:"459",
+                disPrsent:"64%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:"1",
+                Size:[
+                    'S','M','L','XL','XXL'
+                ],
+                ProductDetails:{
+                    productcode:"SHTPGPPA507",
+                    idealfor:"Men",
+                    packof:"1",
+                    Fabric:"Lycra",
+                    febricCare:"Hand Wash,Machine Wash",
+                }
+            },
+            { 
+                title:"Smart Flex Men Regular Fit Blue Viscose Rayon Trousers",
+                Image:[
+                    "https://rukminim1.flixcart.com/image/832/832/l37mtu80/trouser/c/h/d/34-aradtr2053-arrow-original-imagedwab9ygzehg.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/l37mtu80/trouser/p/m/h/34-aradtr2053-arrow-original-imagedwafg7ud5r3.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/l37mtu80/trouser/o/u/0/34-aradtr2053-arrow-original-imagedwamdfh9yqy.jpeg?q=70"
+                ],
+                sellingPrice:"2499",
+                disPrice:"1354",
+                disPrsent:"45%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:"1",
+                Size:[
+                    'S','M','XL','XXL'
+                ],
+                ProductDetails:{
+                    productcode:"SHTPGPPA503",
+                    idealfor:"Men",
+                    packof:"1",
+                    Fabric:"Lycra",
+                    febricCare:"Hand Wash,Machine Wash",
+                }
+            },
+            { 
+                title:"Men Slim Fit White Cotton Blend Trousers",
+                Image:[
+                    "https://rukminim1.flixcart.com/image/832/832/kwwfte80/trouser/m/a/k/32-nos-ares-sky-blue-mf-cly-classic-polo-original-imag9gw4bptahdza.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/kwwfte80/trouser/4/d/4/42-nos-ares-sky-blue-mf-cly-classic-polo-original-imag9gw4taar3cqa.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/kwwfte80/trouser/b/y/q/42-nos-ares-sky-blue-mf-cly-classic-polo-original-imag9gw4rkebgmzc.jpeg?q=70"
+                ],
+                sellingPrice:"1699",
+                disPrice:"1453",
+                disPrsent:"14%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:"1",
+                Size:[
+                    'S','M','XL','XXL'
+                ],
+                ProductDetails:{
+                    productcode:"SHTPGPPA505",
+                    idealfor:"Men",
+                    packof:"1",
+                    Fabric:"Lycra",
+                    febricCare:"Hand Wash,Machine Wash",
+                }
+            },
+            { 
+                title:"Men Slim Fit Green Cotton Blend Trousers",
+                Image:[
+                    "https://rukminim1.flixcart.com/image/832/832/kqzj7gw0/trouser/7/h/6/30-pctrousers5-vandnam-fabrics-original-imag4vqsgyhqxcf4.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/kqzj7gw0/trouser/n/g/g/30-pctrousers5-vandnam-fabrics-original-imag4vqsnzazqutb.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/kqzj7gw0/trouser/q/j/v/30-pctrousers5-vandnam-fabrics-original-imag4vqsg5phfxmm.jpeg?q=70"
+                ],
+                sellingPrice:"2798",
+                disPrice:"1249",
+                disPrsent:"55%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:"1",
+                Size:[
+                    'S','M','L','XL','XXL'
+                ],
+                ProductDetails:{
+                    productcode:"SHTPGPPA506",
+                    idealfor:"Men",
+                    packof:"1",
+                    Fabric:"Lycra",
+                    febricCare:"Hand Wash,Machine Wash",
+                }
+            },
+            { 
+                title:"Men Slim Fit Gold Lycra Blend Trousers",
+                Image:[
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/i/i/v/36-chinos-khaki-pesado-original-imagnjqzgt8x2zdu.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/e/h/e/36-chinos-khaki-pesado-original-imagnjqzd8rygzte.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/y/w/f/36-chinos-khaki-pesado-original-imagnjqzfgqusqvg.jpeg?q=70"
+                ],
+                sellingPrice:"999",
+                disPrice:"524",
+                disPrsent:"47%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:"1",
+                Size:[
+                    'S','L','XL'
+                ],
+                ProductDetails:{
+                    productcode:"SHTPGPPA499",
+                    idealfor:"Men",
+                    packof:"1",
+                    Fabric:"Lycra",
+                    febricCare:"Hand Wash,Machine Wash",
+                }
+            },
+            { 
+                title:"Men Slim Fit Light Blue Cotton Blend Trousers",
+                Image:[
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/g/j/s/34-chino-skyblue-urbano-fashion-original-imagjzqfysjqh3qd.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/h/w/r/34-chino-skyblue-urbano-fashion-original-imagjzqfbzxpkyjn.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/j/h/l/34-chino-skyblue-urbano-fashion-original-imagjzqfqhbrh4ac.jpeg?q=70"
+                ],
+                sellingPrice:"1699",
+                disPrice:"649",
+                disPrsent:"61%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:"1",
+                Size:[
+                    'S','M','L','XL','XXL'
+                ],
+                ProductDetails:{
+                    productcode:"SHTPGPPA500",
+                    idealfor:"Men",
+                    packof:"1",
+                    Fabric:"Lycra",
+                    febricCare:"Hand Wash,Machine Wash",
+                }
+            },
+            { 
+                title:"Men Slim Fit Blue Cotton Blend Trousers",
+                Image:[
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/k/c/l/36-kctr-2121-nb-fubar-original-imag6judz3wnh85y-bb.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/kt4ozgw0/trouser/t/f/l/36-kctr-2121-nb-fubar-original-imag6jud7e6yphth.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/kt4ozgw0/trouser/h/2/7/36-kctr-2121-nb-fubar-original-imag6judtxnzgc9t.jpeg?q=70"
+                ],
+                sellingPrice:"1448",
+                disPrice:"499",
+                disPrsent:"65%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:"1",
+                Size:[
+                    'S','M','L','XXL'
+                ],
+                ProductDetails:{
+                    productcode:"SHTPGPPA504",
+                    idealfor:"Men",
+                    packof:"1",
+                    Fabric:"Lycra",
+                    febricCare:"Hand Wash,Machine Wash",
+                }
+            },
+        ]
+        }
+    ]
+
 
 
 
@@ -7659,6 +8378,10 @@ module.exports = {
     BridalWeddingCollection,
     Dressesforyou,
     WesternDressesForWomen,
-    StellarStylesForHim
+    StellarStylesForHim,
+
+    WomenSareecollections,
+    LongKurtiCollections,
+    NewArrivalsTrousers
     
 }
