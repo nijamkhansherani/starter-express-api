@@ -5287,18 +5287,7 @@ const Westerndresscollections = [
                 fabric:"Satin"
             }
         },
-
-
-
-
-
-
-
-
-
-
-
-        
+   
     ]
     }
 ]
@@ -7494,7 +7483,6 @@ const Dressesforyou = [
      }
 ]
 
-
 const StellarStylesForHim = [
     {
         title:"Stellar Styles For Him",
@@ -8360,8 +8348,2114 @@ const NewArrivalsTrousers = [
     ]
 
 
+const Swaiper1 = [
+    {
+        title:"formal-pants",
+        Image:"https://dnpp799vut9mj.cloudfront.net/filters:format(webp)/2gTZ8pQ1xTIeHlxSdTdwn-Buy1%20Get1_Carousel_Banner2.png",
+        Productlist:[
+            { 
+                title:"Men Slim Fit Light Blue Cotton Lycra",
+                Image:[
+                    "https://rukminim1.flixcart.com/image/832/832/jrqo70w0/trouser/x/v/v/34-220498-tahvo-original-imafdgcq3aghwrjw.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/jrqo70w0/trouser/x/v/v/32-220498-tahvo-original-imafdgcqmprzhzxh.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/jrqo70w0/trouser/x/v/v/34-220498-tahvo-original-imafdgcqaky9dkzz.jpeg?q=70"
+                ],
+                sellingPrice:"1749",
+                disPrice:"1169",
+                disPrsent:"33%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:"1",
+                Size:[
+                    'S','M','L','XL','XXL'
+                ],
+                ProductDetails:{
+                    productcode:"SHTPGPPA496",
+                    idealfor:"Men",
+                    packof:"1",
+                    Fabric:"Lycra",
+                    febricCare:"Hand Wash , Machine Wash",
+                }
+            },
+            { 
+                title:"Slim Fit Men Cotton Lycra Blend Dark Blue Cotton Lycra Blend Trousers",
+                Image:[
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/w/u/t/-original-imagk5ktcz8bubtp.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/3/a/p/-original-imagk5ktsp4vsamh.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/v/t/0/-original-imagk5kt39vyzz8m.jpeg?q=70"
+                ],
+                sellingPrice:"1999",
+                disPrice:"539",
+                disPrsent:"73%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:"1",
+                Size:[
+                    'S','M','L','XL'
+                ],
+                ProductDetails:{
+                    productcode:"SHTPPGPPA497",
+                    idealfor:"Men",
+                    packof:"1",
+                    Fabric:"Lycra",
+                    febricCare:"Hand Wash,Machine Wash",
+                }
+            },
+            { 
+                title:"Men Slim Fit Beige Lycra Blend Trousers",
+                Image:[
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/s/c/o/34-chinos-beige-pesado-original-imagnjqz3bh6qw9m.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/6/h/d/34-chinos-beige-pesado-original-imagnjqzvwp7vtft.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/5/i/c/34-chinos-beige-pesado-original-imagnjqzg9gnyzwh.jpeg?q=70"
+                ],
+                sellingPrice:"999",
+                disPrice:"524",
+                disPrsent:"47%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:"1",
+                Size:[
+                    'S','M','L'
+                ],
+                ProductDetails:{
+                    productcode:"SHTPGPPA498",
+                    idealfor:"Men",
+                    packof:"1",
+                    Fabric:"Lycra",
+                    febricCare:"Hand Wash,Machine Wash",
+                }
+            },
+            { 
+                title:"Men Slim Fit Beige",
+                Image:[
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/l/5/o/32-vhtffslfc98425-van-heusen-original-imaggd2bhy29kyan.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/f/k/f/32-vhtffslfc98425-van-heusen-original-imaggd2bfyvbjuum.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/f/u/l/32-vhtffslfc98425-van-heusen-original-imaggd2bmuadcxy7.jpeg?q=70"
+                   ],
+                sellingPrice:"3299",
+                disPrice:"1649",
+                disPrsent:"50%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:"1",
+                Size:[
+                    'S','M','L','XL','XXL'
+                ],
+                ProductDetails:{
+                    productcode:"SHTPGPPA502",
+                    idealfor:"Men",
+                    packof:"1",
+                    Fabric:"Lycra",
+                    febricCare:"Hand Wash,Machine Wash",
+                }
+            },
+            { 
+                title:"Men Regular Fit Maroon",
+                Image:[
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/r/h/m/32-u39-baleno-maroon-aa-ad-av-original-imagn3aydchuanqm.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/k/j/g/32-u39-baleno-maroon-aa-ad-av-original-imagn3aycdazmyer.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/b/p/5/32-u39-baleno-maroon-aa-ad-av-original-imagn3ay3b6g8nnk.jpeg?q=70"
+                ],
+                sellingPrice:"1299",
+                disPrice:"459",
+                disPrsent:"64%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:"1",
+                Size:[
+                    'S','M','L','XL','XXL'
+                ],
+                ProductDetails:{
+                    productcode:"SHTPGPPA507",
+                    idealfor:"Men",
+                    packof:"1",
+                    Fabric:"Lycra",
+                    febricCare:"Hand Wash,Machine Wash",
+                }
+            },
+        ]
+    },
+    {
+        title:"dresses",
+        Image:"https://dnpp799vut9mj.cloudfront.net/filters:format(webp)/2gTZ8pQ1xTIeHlxSdTdwn-Kurti_Slider3.jpg",
+        Productlist:[
+        {
+            title:"Women Fit and Flare Yellow Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/sari/v/d/i/free-tilak-bpin-bandhani-hub-unstitched-original-imafzfm7s6hhhxyz.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kyxb9u80/dress/l/w/n/s-ddc-0022-dream-cloth-original-imagbfu4brtgyfvg.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kyxb9u80/dress/d/y/x/s-ddc-0022-dream-cloth-original-imagbfu4g7urr4pg.jpeg?q=70"],
+            sellingPrice:"1999",
+            disPrice:"499",
+            disPrsent:"75%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKWWEST380A415",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear, Casual wear",
+                fabric:"Georgette"
+            }
+        },
+        {
+            title:"Women Maxi Red Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/j7p2tu80/dress/n/d/a/free-rd520-01-ritu-designs-original-imaemzkfak6rgfuf.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/j7p2tu80/dress/n/d/a/free-rd520-01-ritu-designs-original-imaemzkftzyd3gwj.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/j7p2tu80/dress/n/d/a/free-rd520-01-ritu-designs-original-imaemzkggss7razf.jpeg?q=70"],
+            sellingPrice:"2499",
+            disPrice:"1660",
+            disPrsent:"33%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKWEST378A413",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear, Casual wear",
+                fabric:"Georgette"
+            }
+        },
+        {
+            title:"Women Fit and Flare Blue Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/dress/h/i/3/xxl-women-middi-zeshe-meshe-original-imagmcacupgwygwc.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/w/i/7/xxl-women-middi-zeshe-meshe-original-imagmcacbqu5cufz.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/i/i/c/xxl-women-middi-zeshe-meshe-original-imagmcacezd3ry3w.jpeg?q=70"],
+            sellingPrice:"999",
+            disPrice:"499",
+            disPrsent:"50%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKWEST379A414",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear, Casual wear",
+                fabric:"Crepe"
+            }
+        },
+        {
+            title:"Women Fit and Flare Green Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/l16rde80/dress/h/d/i/s-nvc270-stiped-midi-green-mon-fashion-collection-original-imagcshcgacqdkc7.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/l16rde80/dress/w/s/h/l-nvc270-stiped-midi-green-mon-fashion-collection-original-imagcshcnzamnht6.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/l16rde80/dress/w/f/u/s-nvc270-stiped-midi-green-mon-fashion-collection-original-imagcshczgg4qk87.jpeg?q=70"],
+            sellingPrice:"1999",
+            disPrice:"499",
+            disPrsent:"75%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKWESTT377A412",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear, Casual wear",
+                fabric:"Georgette"
+            }
+        },
+        {
+            title:"Women Maxi Red, White Dress",
+            Image:["https://rukminim1.flixcart.com/image/832/832/kwxv98w0/dress/u/a/o/s-gmlr087-g-m-collections-original-imag9g4ntwgyhuu6.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/128/128/kwxv98w0/dress/b/9/m/s-gmlr087-g-m-collections-original-imag9g4nzw2vvxyn.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/128/128/kwxv98w0/dress/o/d/s/s-gmlr087-g-m-collections-original-imag9g4nuvyyhyp4.jpeg?q=70"],
+            sellingPrice:"999",
+            disPrice:"599",
+            disPrsent:"40%",
+            soldBy:"SHOPPEEN",
+            COD:"Available",
+            Status:"In-Stock",
+            quantity:"1",
+            Size:[
+                'S','M','L','XL','XXL'
+            ],
+            ProductDetails:{
+                productCode:"SHKWEST371A409",
+                idealFor:"Women",
+                packOf:"1",
+                occasion:"Daily wear, Casual wear",
+                fabric:"Georgette"
+            }
+        }, 
+        ]
+    },
+    {
+        title:"fancy-sarees",
+        Image:"https://dnpp799vut9mj.cloudfront.net/filters:format(webp)/4255hs8b5iVJLOTHWdql--lehengas-slider-1png",
+        Productlist:[
+                       {
+                            title:"Embellished Bollywood Georgette Saree ",
+                            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/m/g/r/free-gf-234-granthva-fab-unstitched-original-imaghfa6vz9kfhjv.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/h/g/c/free-gf-234-granthva-fab-unstitched-original-imaghfa6vexuaery.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/t/4/k/free-gf-234-granthva-fab-unstitched-original-imaghfa68xys3awy.jpeg?q=70"],
+                            sellingPrice:"2299",
+                            disPrice:"900",
+                            disPrsent:"60%",
+                            soldBy:"SHOPPEEN",
+                            COD:"Available",
+                            Status:"In-Stock",
+                            quantity:"1",
+                            Size:[
+                                'S','M','L','XL','XXL'
+                            ],
+                            ProductDetails:{
+                                productCode:"SHSORCRYA97",
+                                idealFor:"Women",
+                                packOf:"1",
+                                occasion:"Wedding Wear, Party wear",
+                                fabric:"Satin"
+                            }
+                        },
+        
+                        {
+                            title:"Digital Print Gadwal Viscose Rayon, Cotton Blend Saree  (Orange)",
+                            Image:["https://rukminim1.flixcart.com/image/832/832/kxkqavk0/sari/d/o/3/free-pure-ch-314-marvosa-unstitched-original-imag9zxz2apgu7dn.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/kxkqavk0/sari/w/b/0/free-pure-ch-314-marvosa-unstitched-original-imag9zxzrfh2bpw8.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/kxkqavk0/sari/o/n/h/free-pure-ch-314-marvosa-unstitched-original-imag9zxzqpsvfgkw.jpeg?q=70"],
+                            sellingPrice:"4024",
+                            disPrice:"1375",
+                            disPrsent:"65%",
+                            soldBy:"SHOPPEEN",
+                            COD:"Available",
+                            Status:"In-Stock",
+                            quantity:"1",
+                            Size:[
+                                'S','M','L','XL','XXL'
+                            ],
+                            ProductDetails:{
+                                productCode:"SHSORCH2A24",
+                                idealFor:"Women",
+                                packOf:"1",
+                                occasion:"Festive, Party wear",
+                                fabric:"Viscose saree"
+                            }
+                        },
+        
+                        {
+                            title:"Embellished Bollywood Georgette Saree ",
+                            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/m/g/r/free-gf-234-granthva-fab-unstitched-original-imaghfa6vz9kfhjv.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/h/g/c/free-gf-234-granthva-fab-unstitched-original-imaghfa6vexuaery.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/t/4/k/free-gf-234-granthva-fab-unstitched-original-imaghfa68xys3awy.jpeg?q=70"],
+                            sellingPrice:"2820",
+                            disPrice:"1199",
+                            disPrsent:"57%",
+                            soldBy:"SHOPPEEN",
+                            COD:"Available",
+                            Status:"In-Stock",
+                            quantity:"1",
+                            Size:[
+                                'S','M','L','XL','XXL'
+                            ],
+                            ProductDetails:{
+                                productCode:"SHSORASHA27",
+                                idealFor:"Women",
+                                packOf:"1",
+                                occasion:"Festive, Party wear",
+                                fabric:"Satin"
+                            }
+                        },
+        
+                        {
+                            title:"Embroidered Bollywood Viscose Rayon Saree  (Red)",
+                            Image:["https://rukminim1.flixcart.com/image/832/832/l48s9zk0/shopsy-sari/r/j/d/free-ish3003rd-neer-saree-unstitched-original-imagf72nyhgepwev.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/l48s9zk0/shopsy-sari/7/7/i/free-ish3003rd-neer-saree-unstitched-original-imagf72n8cqhqs4c.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/l48s9zk0/shopsy-sari/f/x/i/free-ish3003rd-neer-saree-unstitched-original-imagf72nh2m2amzp.jpeg?q=70"],
+                            sellingPrice:"2999",
+                            disPrice:"1145",
+                            disPrsent:"61%",
+                            soldBy:"SHOPPEEN",
+                            COD:"Available",
+                            Status:"In-Stock",
+                            quantity:"1",
+                            Size:[
+                                'S','M','L','XL','XXL'
+                            ],
+                            ProductDetails:{
+                                productCode:"SHSORSQA32",
+                                idealFor:"Women",
+                                packOf:"1",
+                                occasion:"Festive, Party wear",
+                                fabric:"Viscose satin "
+                            }
+                        },
+        
+                        {
+                            title:"Women Banarasi Satin Saree ",
+                            Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/w/5/n/free-pattu-saree-ejoty-fashion-unstitched-original-imag4abzywzyk5ry-bb.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/kq8dua80/sari/b/f/a/free-pattu-saree-ejoty-fashion-unstitched-original-imag4abzwfmcvcez.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/kq8dua80/sari/q/b/x/free-pattu-saree-ejoty-fashion-unstitched-original-imag4abzfj2kfxmr.jpeg?q=70"],
+                            sellingPrice:"2979",
+                            disPrice:"935",
+                            disPrsent:"44%",
+                            soldBy:"SHOPPEEN",
+                            COD:"Available",
+                            Status:"In-Stock",
+                            quantity:"1",
+                            Size:[
+                                'S','M','L','XL','XXL'
+                            ],
+                            ProductDetails:{
+                                productCode:"SHSORFCA33",
+                                idealFor:"Women",
+                                packOf:"1",
+                                occasion:"Festive, Party wear",
+                                fabric:"Satin"
+                            }
+                        },
+        ]
+    }
+]
+
+const Swaiper2 = [
+        {
+            title:"shirts",
+            Image:"https://dnpp799vut9mj.cloudfront.net/filters:format(webp)/2gTZ8pQ1xTIeHlxSdTdwn-YesBrand_Combo_Shirt.png",
+            Productlist:[
+                { 
+                    title:"Men Slim Fit Checkered Spread Collar Casual Shirt",
+                    Image:[
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/o/p/0/5xl-pk19sh09g-surhi-original-imaft8vgvhmhbhsy.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/t/p/e/5xl-pk19sh09g-surhi-original-imaft8y3wdfshukg.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/i/x/z/5xl-pk19sh09g-surhi-original-imaft8vgyqjsyg64.jpeg?q=70"
+                    ],
+                    sellingPrice:"1999",
+                    disPrice:"349",
+                    disPrsent:"82%",
+                    soldBy:"SHOPPEEN",
+                    COD:"Available",
+                    status:"In-stock",
+                    quantity:"1",
+                    Size:[
+                        'L','XL'
+                    ],
+                    ProductDetails:{
+                        productcode:"SHSTYBHORIZLINE14A458",
+                        idealfor:"Men",
+                        packof:"1",
+                        occasion:"Daily wear, Casual wear",
+                        shirtFabric:"Cotton"
+                    }
+                },
+                { 
+                    title:"Men Regular Fit Printed Casual Shirt",
+                    Image:[
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/i/b/u/l-tylshirtful-sh19-tripr-original-imagb2wfpztracex-bb.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/kyyqpow0/shirt/i/4/4/l-tylshirtful-sh19-tripr-original-imagb2wfzzrhjfq2.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/i/b/u/l-tylshirtful-sh19-tripr-original-imagb2wfpztracex-bb.jpeg?q=70"
+                    ],
+                    sellingPrice:"1,999",
+                    disPrice:"253",
+                    disPrsent:"87%",
+                    soldBy:"SHOPPEEN",
+                    COD:"Available",
+                    status:"In-stock",
+                    quantity:"1",
+                    Size:[
+                        'S','M','L','XL'
+                    ],
+                    ProductDetails:{
+                        productcode:"SHSTYBSFONTPRTA636",
+                        idealfor:"Men",
+                        packof:"1",
+                        occasion:"Daily wear, Casual wear",
+                        shirtFabric:"Cotton"
+                    }
+                },
+                { 
+                    title:"Men Regular Fit Printed Spread Collar Casual Shirt",
+                    Image:[
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/o/d/v/l-hm-shirt26-hanumntra-original-imafuqy3q4rzffx7-bb.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/kdyus280-0/shirt/c/u/v/l-hm-shirt26-hanumntra-original-imafuqy3xzwwzhmg.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/kdyus280-0/shirt/h/5/x/l-hm-shirt26-hanumntra-original-imafuqy35f6qzwk7.jpeg?q=70"
+                    ],
+                    sellingPrice:"1,899",
+                    disPrice:"379",
+                    disPrsent:"80%",
+                    soldBy:"SHOPPEEN",
+                    COD:"Available",
+                    status:"In-stock",
+                    quantity:"1",
+                    Size:[
+                        'S','M','L'
+                    ],
+                    ProductDetails:{
+                        productcode:"SHSTYBTRIA20A629",
+                        idealfor:"Men",
+                        packof:"1",
+                        occasion:"Daily wear, Casual wear",
+                        shirtFabric:"Cotton"
+                    }
+                },
+                { 
+                    title:"Men Regular Fit Solid Casual Shirt",
+                    Image:[
+                        "https://rukminim1.flixcart.com/image/832/832/l4fxh8w0/shirt/z/z/q/xl-cnz-lst-green-p-v-creations-original-imagfc4rhyk2g3mu.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/l4fxh8w0/shirt/r/r/w/xl-cnz-lst-green-p-v-creations-original-imagfc4rwncz7hvv.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/l4fxh8w0/shirt/l/5/t/xl-cnz-lst-green-p-v-creations-original-imagfc4rxehwygcw.jpeg?q=70"
+                    ],
+                    sellingPrice:"1999",
+                    disPrice:"289",
+                    disPrsent:"85%",
+                    soldBy:"SHOPPEEN",
+                    COD:"Available",
+                    status:"In-stock",
+                    quantity:"1",
+                    Size:[
+                        'S','M','L','XL','XXL'
+                    ],
+                    ProductDetails:{
+                        productcode:"SHSTYBSNJSTYPRATA641",
+                        idealfor:"Men",
+                        packof:"1",
+                        occasion:"Daily wear, Casual wear",
+                        shirtFabric:"Cotton"
+                    }
+                },
+                { 
+                    title:"Men Regular Fit Printed Spread Collar Casual Shirt",
+                    Image:[
+                        "https://rukminim1.flixcart.com/image/832/832/l1zc6fk0/shirt/q/q/k/44-600-zartha-original-imagdf8evxxh3ydr.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/l1zc6fk0/shirt/m/f/3/44-600-zartha-original-imagdf8ezzedznfp.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/l1zc6fk0/shirt/q/q/k/44-600-zartha-original-imagdf8evxxh3ydr.jpeg?q=70"
+                    ],
+                    sellingPrice:"2499",
+                    disPrice:"499",
+                    disPrsent:"80%",
+                    soldBy:"SHOPPEEN",
+                    COD:"Available",
+                    status:"In-stock",
+                    quantity:"1",
+                    Size:[
+                        'S','XL','XXL'
+                    ],
+                    ProductDetails:{
+                        productcode:"SHSTYBSCLAWPRTA633",
+                        idealfor:"Men",
+                        packof:"1",
+                        occasion:"Daily wear, Casual wear",
+                        shirtFabric:"Cotton"
+                    }
+                },
+            ]
+        },
 
 
+        {
+            title:"velvet-lehengas",
+            Image:"https://dnpp799vut9mj.cloudfront.net/filters:format(webp)/4255hs8b5iVJLOTHWdql--lehengas-3x-bannerpng",
+            Productlist:[
+                { 
+                    title:"Embroidered Semi Stitched Lehenga Choli  (Pink)",
+                    Image:[ "https://rukminim1.flixcart.com/image/832/832/kxjav0w0/lehenga-choli/1/n/f/free-half-sleeve-l104-foriox-original-imag9yhyeqmczzws.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kxjav0w0/lehenga-choli/i/u/a/free-half-sleeve-l104-foriox-original-imag9yhym6sya9qd.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kxjav0w0/lehenga-choli/g/b/h/free-half-sleeve-l104-foriox-original-imag9yhy4fzv9kny.jpeg?q=70"],
+                    sellingPrice:"18010",
+                    disPrice:"10806",
+                    disPrsent:"40%",
+                    soldBy:"SHOPPEEN",
+                    COD:"Available",
+                    Status:"In-stock",
+                    quantity:" + 1 -",
+                    Size:["S","M","L","XL","XXL"],
+                    ProductDetails:{
+                        productCode:"SHLGCKEKA531",
+                        idealFor:"Women",
+                        packOf:"1",
+                        LehengaFabric:" Vrlvet",
+                        LehengaBlouseFabric:"Vrlvet"
+                    }
+                },
+                { 
+                    title:"Floral Print Semi Stitched Lehenga Choli  (Blue)",
+                    Image:[ "https://rukminim1.flixcart.com/image/832/832/kt7jv680/lehenga-choli/f/n/i/free-sleeveless-l8097-fashionuma-original-imag6hxffsx8hkgh.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kt7jv680/lehenga-choli/r/h/a/free-sleeveless-l8097-fashionuma-original-imag6hxfawazw8yd.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kt7jv680/lehenga-choli/q/w/o/free-sleeveless-l8097-fashionuma-original-imag6hxfrtc4v8zz.jpeg?q=70"],
+                    sellingPrice:"18132",
+                    disPrice:"4900",
+                    disPrsent:"72%",
+                    soldBy:"SHOPPEEN",
+                    COD:"Available",
+                    Status:"In-stock",
+                    quantity:" + 1 -",
+                    Size:["S","M","L","XL","XXL"],
+                    ProductDetails:{
+                        productCode:"SHLGCKROSEA542",
+                        idealFor:"Women",
+                        packOf:"1",
+                        LehengaFabric:" Vrlvet",
+                        LehengaBlouseFabric:" Vrlvet",
+    
+                    }
+                },
+                { 
+                    title:"Digital Print Semi Stitched Lehenga Choli  (Green)",
+                    Image:[  "https://rukminim1.flixcart.com/image/832/832/l4oi4cw0/lehenga-choli/b/z/l/free-sleeveless-fidera-organza-fabcartz-original-imagfgrsk8rz92aq.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/l4oi4cw0/lehenga-choli/o/l/c/free-sleeveless-fidera-organza-fabcartz-original-imagfgrsxfnqphjf.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/l4oi4cw0/lehenga-choli/s/e/m/free-sleeveless-fidera-organza-fabcartz-original-imagfgrscrfk2sda.jpeg?q=70"],
+                    sellingPrice:"16999",
+                    disPrice:"10199",
+                    disPrsent:"40%",
+                    soldBy:"SHOPPEEN",
+                    COD:"Available",
+                    Status:"In-stock",
+                    quantity:" + 1 -",
+                    Size:["S","M","L","XL","XXL"],
+                    ProductDetails:{
+                        productCode:"SHLGCKSINA546",
+                        idealFor:"Women",
+                        packOf:"1",
+                        LehengaFabric:"Vrlvet",
+                        LehengaBlouseFabric:"Vrlvet",
+                    }
+                },
+                { 
+                    title:"Embroidered Semi Stitched Lehenga Choli  (Blue)",
+                    Image:[ "https://rukminim1.flixcart.com/image/832/832/krntoy80/lehenga-choli/z/n/8/free-3-4-sleeve-future-wine-goroly-original-imag5ezdwczgyb5m.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/krntoy80/lehenga-choli/o/m/e/free-3-4-sleeve-future-wine-goroly-original-imag5ezd4rkawhxq.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/krntoy80/lehenga-choli/t/w/l/free-3-4-sleeve-future-wine-goroly-original-imag5ezdgm3dumzv.jpeg?q=70"],
+                    sellingPrice:"15275",
+                    disPrice:"4800",
+                    disPrsent:"68%",
+                    soldBy:"SHOPPEEN",
+                    COD:"Available",
+                    Status:"In-stock",
+                    quantity:" + 1 -",
+                    Size:["S","M","L","XL","XXL"],
+                    ProductDetails:{
+                        productCode:"SHLGCKROSEA543",
+                        idealFor:"Women",
+                        packOf:"1",
+                        LehengaFabric:"Vrlvet",
+                        LehengaBlouseFabric:"Vrlvet",
+    
+                    }
+                },
+                { 
+                    title:"Floral Print Semi Stitched Lehenga Choli  (Blue)",
+                    Image:[  "https://rukminim1.flixcart.com/image/832/832/xif0q/lehenga-choli/g/0/m/free-sleeveless-zip1434-zinariya-fab-original-imagnftyaaaqjexa.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/xif0q/lehenga-choli/r/f/w/free-sleeveless-zip1434-zinariya-fab-original-imagnftyr5e7aadz.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/xif0q/lehenga-choli/v/4/e/free-sleeveless-zip1434-zinariya-fab-original-imagnftyksxk8gec.jpeg?q=70"],
+                    sellingPrice:"25389",
+                    disPrice:"7400",
+                    disPrsent:"70%",
+                    soldBy:"SHOPPEEN",
+                    COD:"Available",
+                    Status:"In-stock",
+                    quantity:" + 1 -",
+                    Size:["S","M","L","XL","XXL"],
+                    ProductDetails:{
+                        productCode:"SHLGCK11A520",
+                        idealFor:"Women",
+                        packOf:"1",
+                        LehengaFabric:" Vrlvet",
+                        LehengaBlouseFabric:" Vrlvet",
+    
+                    }
+                },
+            ],
+        },
+
+
+         {
+            title:"trousers",
+            Image:"https://dnpp799vut9mj.cloudfront.net/filters:format(webp)/2gTZ8pQ1xTIeHlxSdTdwn-Combo_Offer_LYCRA.png",
+            Productlist:[
+                { 
+                    title:"Men Slim Fit Light Green Cotton Blend Trousers",
+                    Image:[ "https://rukminim1.flixcart.com/image/832/832/klscivk0/trouser/q/q/k/28-sktr-4242-olv-fubar-original-imagyuff8uq6cxny.jpeg?q=70",
+                             "https://rukminim1.flixcart.com/image/832/832/klscivk0/trouser/t/1/k/28-sktr-4242-olv-fubar-original-imagyuffe3pbk4dc.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/l15bxjk0/shopsy-trouser/v/b/a/28-shoptr-2121-olive-casual-trousers-fubar-original-imagcrshh34wmnze.jpeg?q=70"],
+                    sellingPrice:"999",
+                    disPrice:"510",
+                    disPrsent:"48%",
+                    soldBy:"SHOPPEEN",
+                    COD:"Available",
+                    Status:"In-stock",
+                    quantity:" + 1 -",
+                    Size:["S","M","XLL"],
+                    ProductDetails:{
+                        productCode:"SHSTYBPPCS452",
+                        idealFor:"Men",
+                        packOf:"1",
+                        occasion:"Daily Wear,casual wear",
+                        fabric:"Cotton",
+                  }
+                },
+                { 
+                    title:"Men Regular Fit Black Cotton Blend Trousers",
+                    Image:[ "https://rukminim1.flixcart.com/image/832/832/ksgehzk0/trouser/k/2/q/32-cyfor-a-cyphus-original-imag6yyyedypgvke.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/ksgehzk0/trouser/0/z/n/32-cyfor-a-cyphus-original-imag6yyycmzxqqp2.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/ksgehzk0/trouser/d/g/r/32-cyfor-a-cyphus-original-imag6yyy4uygkbz6.jpeg?q=70"],
+                    sellingPrice:"1299",
+                    disPrice:"450",
+                    disPrsent:"65%",
+                    soldBy:"SHOPPEEN",
+                    COD:"Available",
+                    Status:"In-stock",
+                    quantity:" + 1 -",
+                    Size:["S","XL","XXL"],
+                    ProductDetails:{
+                        productCode:"SHSTYBMP1A445",
+                        idealFor:"Men",
+                        packOf:"1",
+                        occasion:"Daily Wear,casual wear",
+                        fabric:"Royon",
+                    
+                    }
+                },
+                { 
+                    title:"Boys Slim Mid Rise Black Jeans",
+                    Image:[
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/jean/y/m/7/10-11-years-j-101-black-pro-ethic-original-imafz533agdpn5gs-bb.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/kjlrb0w0-0/jean/o/j/7/9-10-years-j-101-black-pro-ethic-original-imafz533acmgph6e.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/kjlrb0w0-0/jean/g/p/w/9-10-years-j-101-black-pro-ethic-original-imafz533ycvwrhxz.jpeg?q=70"
+                    ],
+                    sellingPrice:"1,499",
+                    disPrice:"499",
+                    disPrsent:"66%",
+                    soldBy:"SHOPPEEN",
+                    COD:"Available",
+                    Status:"In-stock",
+                    quantity:" + 1 -",
+                    Size:["S","M","L"],
+                    ProductDetails:{
+                        productCode:"SHTPGJ4A439",
+                        idealFor:"Men",
+                        packOf:"1",
+                        occasion:"Daily Wear,casual wear",
+                        fabric:"Denim",
+                  }
+                },
+                { 
+                    title:"Slim Fit Men Cotton Lycra Blend Dark Blue Cotton Lycra Blend Trousers",
+                    Image:[
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/w/u/t/-original-imagk5ktcz8bubtp.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/3/a/p/-original-imagk5ktsp4vsamh.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/k/p/3/-original-imagk5ktqzgz4rg8.jpeg?q=70"
+                    ], 
+                    sellingPrice:"1999",
+                    disPrice:"599",
+                    disPrsent:"70%",
+                    soldBy:"SHOPPEEN",
+                    COD:"Available",
+                    Status:"In-stock",
+                    quantity:" + 1 -",
+                    Size:["L","XL","XLL"],
+                    ProductDetails:{
+                        productCode:"SHTYBCLPA492",
+                        idealFor:"Men",
+                        packOf:"1",
+                        occasion:"Daily Wear,casual wear",
+                        fabric:"Lycra",
+                  }
+                },
+                { 
+                    title:"Men Tapered Grey Cotton Lycra Blend Trousers",
+                    Image:[
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/l/u/a/-original-imaghm9bazhs85rh.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/t/v/z/-original-imaghm9bd6qf4huf.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/7/n/a/-original-imaghm9bknhr7zhm.jpeg?q=70"
+                    ],
+                    sellingPrice:"2799",
+                    disPrice:"1,399",
+                    disPrsent:"50%",
+                    soldBy:"SHOPPEEN",
+                    COD:"Available",
+                    Status:"In-stock",
+                    quantity:" + 1 -",
+                    Size:["S","M","XL","XLL"],
+                    ProductDetails:{
+                        productCode:"SHTYBSLPA478",
+                        idealFor:"Men",
+                        packOf:"1",
+                        occasion:"Daily Wear,casual wear",
+                        fabric:"Lyctra",
+                  }
+                },
+            ],
+        },
+]
+
+const Swaiper3 = [
+      {
+        title:"casual-shirts",
+        Image:"https://dnpp799vut9mj.cloudfront.net/filters:format(webp)/2gTZ8pQ1xTIeHlxSdTdwn-COMBO_OFEER-1.png",
+        Productlist:[
+            { 
+                title:"Men Slim Fit Solid Spread Collar Formal Shirt",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/v/g/u/s-r-stbrg-stoneberg-original-imaghf7mfydfgfxg.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/3/t/n/s-r-stbrg-stoneberg-original-imaghf7m5yt6urzk.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/l/k/w/s-r-stbrg-stoneberg-original-imaghf7m3zuhkhpm.jpeg?q=70"],
+                sellingPrice:"1299",
+                disPrice:"450",
+                disPrsent:"65%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:" + 1 -",
+                Size:["s","m","l","xl","xxl"],
+                ProductDetails:{
+                    productcode:"SHSTYBMP1A445",
+                    idealfor:"men",
+                    packof:"1",
+                    Occasion:"Daily Wear,casual wear",
+                    ShirtsFabric:"Royon",
+                    
+
+                }
+            },
+            { 
+                title:"Men Slim Fit Solid Spread Collar Formal Shirt",
+                Image:["https://rukminim1.flixcart.com/image/832/832/l3t2fm80/shirt/o/6/x/xxl-r-black-stoneberg-original-imageum2jqhkdmhj.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/l3t2fm80/shirt/5/o/f/xxl-r-black-stoneberg-original-imageum2fbxk8s7b.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/l3t2fm80/shirt/g/8/m/xxl-r-black-stoneberg-original-imageum2fusthtfg.jpeg?q=70"],
+                sellingPrice:"1893",
+                disPrice:"1445",
+                disPrsent:"21%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:" + 1 -",
+                Size:["s","m","l","xl","xxl"],
+                ProductDetails:{
+                    productcode:"SHSTYBSC4A448",
+                    idealfor:"men",
+                    packof:"1",
+                    Occasion:"Daily Wear,casual wear",
+                    ShirtsFabric:"Cotton",
+                }
+            },
+            { 
+                title:"Men Slim Fit Checkered Casual Shirt",
+                Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/g/c/6/m-pk19sh09b-surhi-original-imaft8w4sdbfhphu-bb.jpeg?q=70",
+                       "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/i/j/2/2xl-pk19sh09b-surhi-original-imaft8wh9tjw77ke.jpeg?q=70",
+                       "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/a/2/u/2xl-pk19sh09b-surhi-original-imaft8w4k6xheux6.jpeg?q=70"],
+                sellingPrice:"999",
+                disPrice:"510",
+                disPrsent:"48%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-stock",
+                quantity:" + 1 -",
+                Size:["s","m","l","xl","xxl"],
+                ProductDetails:{
+                    Productcode:"SHSTYBPPCS452",
+                    Idealfor:"men",
+                    Packof:"1",
+                    Occasion:"Daily Wear,casual wear",
+                    ShirtsFabric:"Cotton",
+                }
+            },
+            {
+                title:"Men Slim Fit Washed Mandarin Collar Casual Shirt",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/ku4ezrk0/shirt/t/j/e/xl-sksh-bb110-xl-ma3-fubar-original-imag7baxs7pp5yuq.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/ku4ezrk0/shirt/p/u/l/xl-sksh-bb110-xl-ma3-fubar-original-imag7baxfeu2gk6e.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/ku4ezrk0/shirt/j/w/r/xl-sksh-bb110-xl-ma3-fubar-original-imag7baxqknaxhyz.jpeg?q=70"],
+                sellingPrice:"1349",
+                disPrice:"455",
+                disPrsent:"66%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:" + 1 -",
+                Size:["s","m","l","xl","xxl"],
+                ProductDetails:{
+                    productcode:"SHSTYBCLRSTP9A453",
+                    idealfor:"men",
+                    packof:"1",
+                    Occasion:"Daily Wear,casual wear",
+                    ShirtsFabric:"Cotton",
+                }
+            },
+            { 
+                title:"Men Slim Fit Checkered Spread Collar Casual Shirt",
+                Image:["https://rukminim1.flixcart.com/image/832/832/l30hmkw0/shirt/t/k/f/l-check1195-tanip-original-image85ed7ezb29q.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/l30hmkw0/shirt/z/k/y/l-check1195-tanip-original-image85e5gbzbtwg.jpeg?q=70",
+                    "https://rukminim1.flixcart.com/image/832/832/l30hmkw0/shirt/w/o/e/l-check1195-tanip-original-image85ekvh7rgue.jpeg?q=70"],       
+                sellingPrice:"999",
+                disPrice:"529",
+                disPrsent:"48%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                status:"In-stock",
+                quantity:" + 1 -",
+                Size:["s","m","l","xl","xxl"],
+                ProductDetails:{
+                    productcode:"SHSTYBSLABLBOXCHDA466",
+                    idealfor:"men",
+                    packof:"1",
+                    Occasion:"Daily Wear,casual wear",
+                    ShirtsFabric:"Cotton",
+                }
+            },
+        ]
+      },
+      {
+        title:"lycra-pants",
+        Image:"https://dnpp799vut9mj.cloudfront.net/filters:format(webp)/2gTZ8pQ1xTIeHlxSdTdwn-Buy1%26%20Get2%20Offer.png",
+        Productlist:[
+            { 
+                title:"Men Slim Fit Light Blue Lycra Blend Trousers",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/i/v/k/34-lycra001-online-cloth-khazana-original-imaghdg7dnetsgmt.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/8/l/7/32-g-1-gaumukhi-creation-original-imaghdg75k8swyfe.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/r/t/f/32-g-1-gaumukhi-creation-original-imaghdg7x2pjthv8.jpeg?q=70"],
+                sellingPrice:"999",
+                disPrice:"510",
+                disPrsent:"48%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-stock",
+                quantity:" + 1 -",
+                Size:["S","M","L","XL","XXL"],
+                ProductDetails:{
+                    productCode:"SHSTYBPPCS452",
+                    idealFor:"men",
+                    packOf:"1",
+                    occasion:"Daily Wear,casual wear",
+                    fabric:"Cotton",
+                    
+            
+                }
+            },           
+            { 
+                title:"Men Slim Fit Black Lycra Blend Trousers",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/l3hmwsw0/trouser/x/b/e/30-a1-aclass-original-imagehhhcuztyw5h.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/l3hmwsw0/trouser/v/r/e/30-a1-aclass-original-imagehhhnzjtgfd3.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/l3hmwsw0/trouser/w/h/q/30-a1-aclass-original-imagehhhfwexnzqy.jpeg?q=70"],
+                sellingPrice:"1299",
+                disPrice:"450",
+                disPrsent:"65%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-stock",
+                quantity:" + 1 -",
+                Size:["S","M","L","XL","XXL"],
+                ProductDetails:{
+                    productCode:"SHSTYBMP1A445",
+                    idealFor:"men",
+                    packOf:"1",
+                    occasion:"Daily Wear,casual wear",
+                    fabric:"Royon",
+                    
+            
+                }
+            },
+            { 
+                title:"Men Regular Fit Trousers",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/w/o/a/34-22a4ctwb1019i901-united-colors-of-benetton-original-imagjs7hqygaqsze.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/w/o/x/34-22a4ctwb1019i901-united-colors-of-benetton-original-imagjs7hz4gg2q9j.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/e/h/m/34-22a4ctwb1019i901-united-colors-of-benetton-original-imagjs7hcdtfyneg.jpeg?q=70"],
+                sellingPrice:"999",
+                disPrice:"510",
+                disPrsent:"48%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-stock",
+                quantity:" + 1 -",
+                Size:["S","M","L","XL","XXL"],
+                ProductDetails:{
+                    productCode:"SHSTYBPPCS452",
+                    idealFor:"men",
+                    packOf:"1",
+                    occasion:"Daily Wear,casual wear",
+                    fabric:"Cotton",
+                    
+                }
+            },   
+            { 
+                title:"Men Slim Fit Black Viscose Rayon Trousers",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/kkprmvk0/trouser/i/z/s/32-pmtx06279-b9-park-avenue-original-imagyyfpupwjay7z.jpeg?q=70",
+                         "https://rukminim1.flixcart.com/image/832/832/kkprmvk0/trouser/j/s/x/32-pmtx06279-b9-park-avenue-original-imagyyfptzfynfhr.jpeg?q=70",
+                         "https://rukminim1.flixcart.com/image/832/832/kkprmvk0/trouser/v/v/t/32-pmtx06279-b9-park-avenue-original-imagyyfpm5tjzeyk.jpeg?q=70"],
+                sellingPrice:"1299",
+                disPrice:"450",
+                disPrsent:"65%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-stock",
+                quantity:" + 1 -",
+                Size:["S","M","L","XL","XXL"],
+                ProductDetails:{
+                    productCode:"SHSTYBMP1A445",
+                    idealFor:"men",
+                    packOf:"1",
+                    occasion:"Daily Wear,casual wear",
+                    fabric:"Royon",
+                }
+            },
+        ]
+      },
+      {
+        title:"sarees",
+        Image:"https://dnpp799vut9mj.cloudfront.net/filters:format(webp)/2gTZ8pQ1xTIeHlxSdTdwn-samta_Sarees_01.png",
+        Productlist:[
+            {
+                title:"Printed, Digital Print Bollywood Satin Saree ( White )",
+                Image:["https://rukminim1.flixcart.com/image/832/832/kwtkxow0/sari/2/a/z/free-looknbook-7045-peach-fabian-fashion-unstitched-original-imag9eztv86gbvfq.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kwtkxow0/sari/s/k/x/free-looknbook-7045-peach-fabian-fashion-unstitched-original-imag9ezt5bhwxm3z.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kxtaxzk0/shopsy-sari/d/s/j/free-lnb-fabian-fashion-unstitched-original-imaga6mvtkskmess.jpeg?q=70"],
+                sellingPrice:"2624",
+                disPrice:"975",
+                disPrsent:"62%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-Stock",
+                quantity:"1",
+                Size:[
+                    'S','M','L','XL','XXL'
+                ],
+                ProductDetails:{
+                    productCode:"SHSJMFPA16",
+                    idealFor:"Women",
+                    packOf:"1",
+                    occasion:"Festive,Party wear",
+                    fabric:"Satin"
+                }
+            },
+            {
+                title:"Woven Bollywood Cotton Silk Saree (Pink)",
+                Image:["https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/sari/v/d/i/free-tilak-bpin-bandhani-hub-unstitched-original-imafzfm7s6hhhxyz.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/sari/z/y/h/free-tilak-bpin-bandhani-hub-unstitched-original-imafzfm7pknermkq.jpeg?q=70",
+                "https://rukminim1.flixcart.com/image/832/832/kjhgzgw0-0/sari/2/b/i/free-tilak-bpin-bandhani-hub-unstitched-original-imafzfm7gahmg4pn.jpeg?q=70"],
+                sellingPrice:"2799",
+                disPrice:"1100",
+                disPrsent:"60%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-Stock",
+                quantity:"1",
+                Size:[
+                    'S','M','L','XL','XXL'
+                ],
+                ProductDetails:{
+                    productCode:"SHSLSKC77721A29",
+                    idealFor:"Women",
+                    packOf:"1",
+                    occasion:"Festive,Party wear",
+                    fabric:"Cotton"
+                }
+            },
+            {
+                title:"Woven Bollywood Cotton Silk Saree (Yellow)",
+                Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/n/l/s/free-sz-chit-f-mu-862-silk-zone-unstitched-original-imaggsbjnguhntzm.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/h/1/f/free-sz-chit-f-mu-862-silk-zone-unstitched-original-imaggsbj2gdw2vts.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/x/1/q/free-sz-chit-f-mu-862-silk-zone-unstitched-original-imaggsbjh3bys7br.jpeg?q=70"],
+                sellingPrice:"2499",
+                disPrice:"1245",
+                disPrsent:"50%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-Stock",
+                quantity:"1",
+                Size:[
+                    'S','M','L','XL','XXL'
+                ],
+                ProductDetails:{
+                    productCode:"SHSLSANU78781A30",
+                    idealFor:"Women",
+                    packOf:"1",
+                    occasion:"Function Wear",
+                    fabric:"Cotton"
+                }
+            },
+            {
+                title:"Embroidered, Dyed, Embellished, Self Design Bollywood Chiffon Saree ",
+                Image:["https://rukminim1.flixcart.com/image/832/832/kqgyhe80/sari/o/v/r/free-afkf810-kasturi-fashion-unstitched-original-imag4hbfsyrasu2g.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/kqgyhe80/sari/s/v/m/free-afkf810-kasturi-fashion-unstitched-original-imag4hbfkfshe3ew.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/kqgyhe80/sari/2/r/n/free-afkf810-kasturi-fashion-unstitched-original-imag4hbfs2arhj8p.jpeg?q=70"],
+                sellingPrice:"2628",
+                disPrice:"1456",
+                disPrsent:"44%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-Stock",
+                quantity:"1",
+                Size:[
+                    'S','M','L','XL','XXL'
+                ],
+                ProductDetails:{
+                    productCode:"SHSLSVIC77201A01",
+                    idealFor:"Women",
+                    packOf:"1",
+                    occasion:"Festive, Party wear",
+                    fabric:"Satin chiffon"
+                }
+            },
+            {
+                title:"Woven Kanjivaram Silk Blend Saree  (Pink)",
+                Image:["https://rukminim1.flixcart.com/image/832/832/xif0q/sari/t/y/l/free-gt-1001-m-s-retail-unstitched-original-imagnjyhqgf4zzb3.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/c/x/r/free-gt-1001-m-s-retail-unstitched-original-imagnjyhfckdzgyc.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/sari/l/7/z/free-gt-1001-m-s-retail-unstitched-original-imagnjyhddssqby7.jpeg?q=70"],
+                sellingPrice:"3099",
+                disPrice:"1115",
+                disPrsent:"64%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-Stock",
+                quantity:"1",
+                Size:[
+                    'S','M','L','XL','XXL'
+                ],
+                ProductDetails:{
+                    productCode:"SHSORSVA35",
+                    idealFor:"Women",
+                    packOf:"1",
+                    occasion:"Festive, Party wear",
+                    fabric:"Silk viscose"
+                }
+            },
+        ]
+      },
+    
+  
+]
+
+const Swaiper4 = [
+    {
+        title:"long-kurtis",
+        Image:"https://dnpp799vut9mj.cloudfront.net/filters:format(webp)/2gTZ8pQ1xTIeHlxSdTdwn-Offer.png",
+        Productlist:[
+                    {
+                        title:"Women Printed Georgette Gown Kurta  (Purple)",
+                        Image:[
+                            "https://rukminim1.flixcart.com/image/832/832/l3bx5e80/kurta/1/x/u/l-maroon-anarkali-kurta-01-jayesh-creation-original-imagegw3hrhgz9yu.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/l3bx5e80/kurta/4/r/v/l-maroon-anarkali-kurta-01-jayesh-creation-original-imagegw3ge9yhaya.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/l3bx5e80/kurta/w/g/t/l-maroon-anarkali-kurta-01-jayesh-creation-original-imagegw3dthyrzfr.jpeg?q=70"
+                        ],
+                        sellingPrice:"2499",
+                        disPrice:"999",
+                        disPrsent:"60%",
+                        soldBy:"SHOPPEN",
+                        Status:"In-Stock",
+                        COD:"Available",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHKARRL4004A86",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Festive,Party wear",
+                            fabric:"Rayon"
+                        }
+                    },
+                    {
+                        title:"Women Geometric Print Cotton Blend A-line Kurta  (Pink)",
+                        Image:[
+                            "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/z/b/q/xxl-psk103-glorious-original-imaftnbjjzfgxzej-bb.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kcjexe80/kurta/9/r/l/xxl-psk103-glorious-original-imaftnbjyrs2myyw.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kcjexe80/kurta/4/j/j/xxl-psk103-glorious-original-imaftnbjqytrnzga.jpeg?q=70"
+                        ],
+                        sellingPrice:"2399",
+                        disPrice:"975",
+                        disPrsent:"59%",
+                        soldBy:"SHOPPEN",
+                        Status:"In-Stock",
+                        COD:"Available",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHKARRL4003A85",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Festive,Party wear",
+                            fabric:"Rayon"
+                        }
+                    },
+                    {
+                        title:"Women Floral Print Viscose Rayon Anarkali Kurta  (Black)",
+                        Image:[
+                            "https://rukminim1.flixcart.com/image/832/832/kvba7bk0/kurta/r/p/t/xxl-kurti-503-gujari-original-imag883ugsymq2mf.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kvba7bk0/kurta/b/l/q/xxl-kurti-503-gujari-original-imag883uzzdzvg27.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kvba7bk0/kurta/g/o/3/xxl-kurti-503-gujari-original-imag883uyqgagsmk.jpeg?q=70"
+                        ],
+                        sellingPrice:"2399",
+                        disPrice:"755",
+                        disPrsent:"68%",
+                        soldBy:"SHOPPEN",
+                        Status:"In-Stock",
+                        COD:"Available",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHKARRL4002A85",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Festive,Party wear",
+                            fabric:" Rayon"
+                        }
+                    },
+                    {
+                        title:"Women Printed, Polka Print Crepe Frontslit Kurta  (Blue)",
+                        Image:[
+                            "https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-dress/h/j/t/l-shopsy-f172-long-maxi-stylist-party-wear-printed-one-piece-original-imaggnx8kgck9agg.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/d/9/r/xxl-combo-printed-kurti-casual-party-wear-latest-pack-of-2-kurta-original-imaggnx8gydkhmuu.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-dress/y/b/l/l-shopsy-f172-long-maxi-stylist-party-wear-printed-one-piece-original-imaggnx8ugvm2hx9.jpeg?q=70"
+                        ],
+                        sellingPrice:"1763",
+                        disPrice:"703",
+                        disPrsent:"60%",
+                        soldBy:"SHOPPEN",
+                        Status:"In-Stock",
+                        COD:"Available",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHKRYSENCO2A275",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Daily wear, Casual wear",
+                            fabric:"Rayon"
+                        }
+                    },
+                    {
+                        title:"Women Embroidered Georgette Anarkali Kurta  (Brown)",
+                        Image:[
+                            "https://rukminim1.flixcart.com/image/832/832/klzhq4w0/kurta/n/7/x/3xl-coffe-jaip-m-disha-collection-original-imagyzndymkg6asv.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kiulxu80-0/kurta/z/8/x/m-markr-001-brown-marwar-s-original-imafyjtbthhhmwd6.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kirr24w0-0/kurta/8/t/n/m-markr-001-brown-marwar-s-original-imafyhqqw4kf2gpm.jpeg?q=70"
+                        ],
+                        sellingPrice:"1563",
+                        disPrice:"625",
+                        disPrsent:"60%",
+                        soldBy:"SHOPPEN",
+                        Status:"In-Stock",
+                        COD:"Available",
+                        quantity:"1",
+                        Size:[
+                            'L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHKRYSENCO4A277",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Daily wear, Casual wear",
+                            fabric:"Rayon"
+                        }
+                    },   
+                ]
+    },
+    {
+        title:"long-kurtis",
+        Image:"https://dnpp799vut9mj.cloudfront.net/filters:format(webp)/2gTZ8pQ1xTIeHlxSdTdwn-Banner_7.png",
+        Productlist:[
+                    {
+                        title:"Women Printed Georgette Gown Kurta  (Purple)",
+                        Image:[
+                            "https://rukminim1.flixcart.com/image/832/832/l3bx5e80/kurta/1/x/u/l-maroon-anarkali-kurta-01-jayesh-creation-original-imagegw3hrhgz9yu.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/l3bx5e80/kurta/4/r/v/l-maroon-anarkali-kurta-01-jayesh-creation-original-imagegw3ge9yhaya.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/l3bx5e80/kurta/w/g/t/l-maroon-anarkali-kurta-01-jayesh-creation-original-imagegw3dthyrzfr.jpeg?q=70"
+                        ],
+                        sellingPrice:"2499",
+                        disPrice:"999",
+                        disPrsent:"60%",
+                        soldBy:"SHOPPEN",
+                        Status:"In-Stock",
+                        COD:"Available",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHKARRL4004A86",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Festive,Party wear",
+                            fabric:"Rayon"
+                        }
+                    },
+                    {
+                        title:"Women Geometric Print Cotton Blend A-line Kurta  (Pink)",
+                        Image:[
+                            "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/z/b/q/xxl-psk103-glorious-original-imaftnbjjzfgxzej-bb.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kcjexe80/kurta/9/r/l/xxl-psk103-glorious-original-imaftnbjyrs2myyw.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kcjexe80/kurta/4/j/j/xxl-psk103-glorious-original-imaftnbjqytrnzga.jpeg?q=70"
+                        ],
+                        sellingPrice:"2399",
+                        disPrice:"975",
+                        disPrsent:"59%",
+                        soldBy:"SHOPPEN",
+                        Status:"In-Stock",
+                        COD:"Available",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHKARRL4003A85",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Festive,Party wear",
+                            fabric:"Rayon"
+                        }
+                    },
+                    {
+                        title:"Women Floral Print Viscose Rayon Anarkali Kurta  (Black)",
+                        Image:[
+                            "https://rukminim1.flixcart.com/image/832/832/kvba7bk0/kurta/r/p/t/xxl-kurti-503-gujari-original-imag883ugsymq2mf.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kvba7bk0/kurta/b/l/q/xxl-kurti-503-gujari-original-imag883uzzdzvg27.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kvba7bk0/kurta/g/o/3/xxl-kurti-503-gujari-original-imag883uyqgagsmk.jpeg?q=70"
+                        ],
+                        sellingPrice:"2399",
+                        disPrice:"755",
+                        disPrsent:"68%",
+                        soldBy:"SHOPPEN",
+                        Status:"In-Stock",
+                        COD:"Available",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHKARRL4002A85",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Festive,Party wear",
+                            fabric:" Rayon"
+                        }
+                    },
+                    {
+                        title:"Women Printed, Polka Print Crepe Frontslit Kurta  (Blue)",
+                        Image:[
+                            "https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-dress/h/j/t/l-shopsy-f172-long-maxi-stylist-party-wear-printed-one-piece-original-imaggnx8kgck9agg.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/d/9/r/xxl-combo-printed-kurti-casual-party-wear-latest-pack-of-2-kurta-original-imaggnx8gydkhmuu.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-dress/y/b/l/l-shopsy-f172-long-maxi-stylist-party-wear-printed-one-piece-original-imaggnx8ugvm2hx9.jpeg?q=70"
+                        ],
+                        sellingPrice:"1763",
+                        disPrice:"703",
+                        disPrsent:"60%",
+                        soldBy:"SHOPPEN",
+                        Status:"In-Stock",
+                        COD:"Available",
+                        quantity:"1",
+                        Size:[
+                            'S','M','L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHKRYSENCO2A275",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Daily wear, Casual wear",
+                            fabric:"Rayon"
+                        }
+                    },
+                    {
+                        title:"Women Embroidered Georgette Anarkali Kurta  (Brown)",
+                        Image:[
+                            "https://rukminim1.flixcart.com/image/832/832/klzhq4w0/kurta/n/7/x/3xl-coffe-jaip-m-disha-collection-original-imagyzndymkg6asv.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kiulxu80-0/kurta/z/8/x/m-markr-001-brown-marwar-s-original-imafyjtbthhhmwd6.jpeg?q=70",
+                            "https://rukminim1.flixcart.com/image/832/832/kirr24w0-0/kurta/8/t/n/m-markr-001-brown-marwar-s-original-imafyhqqw4kf2gpm.jpeg?q=70"
+                        ],
+                        sellingPrice:"1563",
+                        disPrice:"625",
+                        disPrsent:"60%",
+                        soldBy:"SHOPPEN",
+                        Status:"In-Stock",
+                        COD:"Available",
+                        quantity:"1",
+                        Size:[
+                            'L','XL','XXL'
+                        ],
+                        ProductDetails:{
+                            productCode:"SHKRYSENCO4A277",
+                            idealFor:"Women",
+                            packOf:"1",
+                            occasion:"Daily wear, Casual wear",
+                            fabric:"Rayon"
+                        }
+                    },   
+                ]
+    },
+]
+
+const Swaiper5 = [
+            {
+                title:"casual-shirts",
+                Image:"https://dnpp799vut9mj.cloudfront.net/filters:format(webp)/dRgLUKkHhAjFoMFMkHC9t-CASUAL.jpg",
+                Productlist:[          
+            { 
+                                title:"CASUAL SHIRT YES BRAND HORIZONTAL LINE",
+                                Image:[ "https://rukminim1.flixcart.com/image/832/832/kc6jyq80/shirt/q/2/v/m-hm-shirt02-hanumntra-original-imaftd53zzeqchzy.jpeg?q=70",
+                                      "https://rukminim1.flixcart.com/image/832/832/kc6jyq80/shirt/e/z/f/m-hm-shirt02-hanumntra-original-imaftd53bxwy8qqf.jpeg?q=70",
+                                      "https://rukminim1.flixcart.com/image/832/832/kc6jyq80/shirt/y/i/v/m-hm-shirt02-hanumntra-original-imaftd53fdzp64mt.jpeg?q=70"],
+                                sellingPrice:"999",
+                                disPrice:"510",
+                                disPrsent:"48%",
+                                soldBy:"SHOPPEEN",
+                                COD:"Available",
+                                Status:"In-stock",
+                                quantity:" + 1 -",
+                                Size:["S","M","L","XL","XXL"],
+                                ProductDetails:{
+                                    productCode:"SHSTYBPPCS452",
+                                    idealFor:"men",
+                                    packOf:"1",
+                                    occasion:"Daily Wear,casual wear",
+                                    ShirtsFabric:"Cotton",
+                                    
+                
+                                }
+            },  
+            { 
+                                title:"Men Slim Fit Solid Casual Shirt",
+                                Image:[ "https://rukminim1.flixcart.com/image/832/832/kst9gnk0/shirt/u/a/t/l-frml-st2-vebnor-original-imag6apmphuh2ayu.jpeg?q=70",
+                                      "https://rukminim1.flixcart.com/image/832/832/kst9gnk0/shirt/c/c/h/l-frml-st2-vebnor-original-imag6apmjzyehu6p.jpeg?q=70",
+                                      "https://rukminim1.flixcart.com/image/832/832/kst9gnk0/shirt/f/7/v/l-frml-st2-vebnor-original-imag6apmq69vfxqz.jpeg?q=70"],
+                                sellingPrice:"1299",
+                                disPrice:"450",
+                                disPrsent:"65%",
+                                soldBy:"SHOPPEEN",
+                                COD:"Available",
+                                Status:"In-stock",
+                                quantity:" + 1 -",
+                                Size:["S","M","L","XL","XXL"],
+                                ProductDetails:{
+                                    productCode:"SHSTYBMP1A445",
+                                    idealFor:"men",
+                                    packOf:"1",
+                                    occasion:"Daily Wear,casual wear",
+                                    ShirtsFabric:"Royon",
+                                    
+                
+                                }
+            },
+            { 
+                                title:"Men Slim Fit Checkered Spread Collar Casual Shirt",
+                                Image:[ "https://rukminim1.flixcart.com/image/832/832/kyag87k0/shirt/2/e/c/l-hlsh013040-highlander-original-imagajukzaxnfqqk.jpeg?q=70",
+                                      "https://rukminim1.flixcart.com/image/832/832/kyag87k0/shirt/n/7/j/l-hlsh013040-highlander-original-imagajukcubp7ggq.jpeg?q=70",
+                                      "https://rukminim1.flixcart.com/image/832/832/kyag87k0/shirt/f/6/b/l-hlsh013040-highlander-original-imagajukjsgtdqwe.jpeg?q=70"],
+                                sellingPrice:"1893",
+                                disPrice:"1445",
+                                disPrsent:"21%",
+                                soldBy:"SHOPPEEN",
+                                COD:"Available",
+                                Status:"In-stock",
+                                quantity:" + 1 -",
+                                Size:["S","M","L","XL","XXL"],
+                                ProductDetails:{
+                                    productCode:"SHSTYBSC4A448",
+                                    idealFor:"men",
+                                    packOf:"1",
+                                    occasion:"Daily Wear,casual wear",
+                                    ShirtsFabric:"Cotton",
+                                    
+                
+                                }
+            },  
+            { 
+                                title:"Men Slim Fit Checkered Spread Collar Casual Shirt",
+                                Image:[ "https://rukminim1.flixcart.com/image/832/832/l30hmkw0/shirt/t/k/f/l-check1195-tanip-original-image85ed7ezb29q.jpeg?q=70",
+                                      "https://rukminim1.flixcart.com/image/832/832/l30hmkw0/shirt/z/k/y/l-check1195-tanip-original-image85e5gbzbtwg.jpeg?q=70",
+                                      "https://rukminim1.flixcart.com/image/832/832/l30hmkw0/shirt/1/m/x/l-check1195-tanip-original-image85eukssmgkg.jpeg?q=70"],
+                                sellingPrice:"1349",
+                                disPrice:"455",
+                                disPrsent:"66%",
+                                soldBy:"SHOPPEEN",
+                                COD:"Available",
+                                Status:"In-stock",
+                                quantity:" + 1 -",
+                                Size:["S","M","L","XL","XXL"],
+                                ProductDetails:{
+                                    productCode:"SHSTYBCLRSTP9A453",
+                                    idealFor:"men",
+                                    packOf:"1",
+                                    occasion:"Daily Wear,casual wear",
+                                    ShirtsFabric:"Cotton",
+                                    
+                
+                                }
+            },
+            { 
+                                title:"https://rukminim1.flixcart.com/image/832/832/kqwobrk0/shirt/h/p/u/xxl-pink-sws4125-allan-peter-original-imag4tkbnaxgtq8z.jpeg?q=70",
+                                Image:[ "https://rukminim1.flixcart.com/image/832/832/kqwobrk0/shirt/h/p/u/xxl-pink-sws4125-allan-peter-original-imag4tkbnaxgtq8z.jpeg?q=70",
+                                      "https://rukminim1.flixcart.com/image/832/832/kqwobrk0/shirt/y/p/i/xxl-pink-sws4125-allan-peter-original-imag4tkbdasb7u5v.jpeg?q=70",
+                                      "https://rukminim1.flixcart.com/image/832/832/kqwobrk0/shirt/j/f/e/xxl-pink-sws4125-allan-peter-original-imag4tkbzetqdhqv.jpeg?q=70"],
+                                sellingPrice:"999",
+                                disPrice:"245",
+                                disPrsent:"75%",
+                                soldBy:"SHOPPEEN",
+                                COD:"Available",
+                                Status:"In-stock",
+                                quantity:" + 1 -",
+                                Size:["S","M","L","XL","XXL"],
+                                ProductDetails:{
+                                    productCode:"SHSTYBSSLASHBOXA465",
+                                    idealFor:"men",
+                                    packOf:"1",
+                                    occasion:"Daily Wear,casual wear",
+                                    ShirtsFabric:"Cotton",
+                                    
+                
+                                }
+            },  
+            { 
+                                title:"Men Slim Fit Solid Casual Shirt",
+                                Image:[ "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/p/j/8/40-rmsx12365-b5-raymond-original-imagnbzgksdhc7xp.jpeg?q=70",
+                                      "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/9/d/r/40-rmsx12365-b5-raymond-original-imagnbzgrtpctwup.jpeg?q=70",
+                                      "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/o/e/p/40-rmsx12365-b5-raymond-original-imagnbzgfvghbzug.jpeg?q=70"],
+                                sellingPrice:"999",
+                                disPrice:"529",
+                                disPrsent:"48%",
+                                soldBy:"SHOPPEEN",
+                                COD:"Available",
+                                Status:"In-stock",
+                                quantity:" + 1 -",
+                                Size:["S","M","L","XL","XXL"],
+                                ProductDetails:{
+                                    productCode:"SHSTYBSLABLBOXCHDA466",
+                                    idealFor:"men",
+                                    packOf:"1",
+                                    occasion:"Daily Wear,casual wear",
+                                    ShirtsFabric:"Cotton",
+                                    
+                
+                                }
+            },
+                            
+        ],
+    },
+    {
+        title:"Shirts",
+        Image:"http://cdn.shopify.com/s/files/1/2546/6304/collections/lifestyle-block-2_58b4f367-1217-4eaa-bdd4-eb4a9e8f9986.jpg?v=1675091017",
+        Productlist:[
+            { 
+                title:"Men Regular Fit Solid Spread Collar Formal Shirt",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/kst9gnk0/shirt/u/a/t/l-frml-st2-vebnor-original-imag6apmphuh2ayu.jpeg?q=70",
+                      "https://rukminim1.flixcart.com/image/832/832/kst9gnk0/shirt/c/c/h/l-frml-st2-vebnor-original-imag6apmjzyehu6p.jpeg?q=70",
+                      "https://rukminim1.flixcart.com/image/832/832/kst9gnk0/shirt/f/7/v/l-frml-st2-vebnor-original-imag6apmq69vfxqz.jpeg?q=70"],
+                sellingPrice:"1299",
+                disPrice:"450",
+                disPrsent:"65%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-stock",
+                quantity:" + 1 -",
+                Size:["S","M","L","XL","XXL"],
+                ProductDetails:{
+                    productCode:"SHSTYBMP1A445",
+                    idealFor:"men",
+                    packOf:"1",
+                    occasion:"Daily Wear,casual wear",
+                    ShirtsFabric:"Royon",
+                    
+
+                }
+            },
+            { 
+                title:"Men Regular Fit Solid Button Down Collar Formal Shirt",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/kyag87k0/shirt/2/e/c/l-hlsh013040-highlander-original-imagajukzaxnfqqk.jpeg?q=70",
+                      "https://rukminim1.flixcart.com/image/832/832/kyag87k0/shirt/n/7/j/l-hlsh013040-highlander-original-imagajukcubp7ggq.jpeg?q=70",
+                      "https://rukminim1.flixcart.com/image/832/832/kyag87k0/shirt/f/6/b/l-hlsh013040-highlander-original-imagajukjsgtdqwe.jpeg?q=70"],
+                sellingPrice:"1893",
+                disPrice:"1445",
+                disPrsent:"21%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-stock",
+                quantity:" + 1 -",
+                Size:["S","M","L","XL","XXL"],
+                ProductDetails:{
+                    productCode:"SHSTYBSC4A448",
+                    idealFor:"men",
+                    packOf:"1",
+                    occasion:"Daily Wear,casual wear",
+                    ShirtsFabric:"Cotton",
+                    
+
+                }
+            },
+            { 
+                title:"Men Slim Fit Checkered Spread Collar Casual Shirt",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/l30hmkw0/shirt/t/k/f/l-check1195-tanip-original-image85ed7ezb29q.jpeg?q=70",
+                      "https://rukminim1.flixcart.com/image/832/832/l30hmkw0/shirt/z/k/y/l-check1195-tanip-original-image85e5gbzbtwg.jpeg?q=70",
+                      "https://rukminim1.flixcart.com/image/832/832/l30hmkw0/shirt/1/m/x/l-check1195-tanip-original-image85eukssmgkg.jpeg?q=70"],
+                sellingPrice:"1349",
+                disPrice:"455",
+                disPrsent:"66%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-stock",
+                quantity:" + 1 -",
+                Size:["S","M","L","XL","XXL"],
+                ProductDetails:{
+                    productCode:"SHSTYBCLRSTP9A453",
+                    idealFor:"men",
+                    packOf:"1",
+                    occasion:"Daily Wear,casual wear",
+                    ShirtsFabric:"Cotton",
+                    
+
+                }
+            },
+            { 
+                title:"Men Regular Fit Checkered Mandarin Collar Casual Shirt",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/kqwobrk0/shirt/h/p/u/xxl-pink-sws4125-allan-peter-original-imag4tkbnaxgtq8z.jpeg?q=70",
+                      "https://rukminim1.flixcart.com/image/832/832/kqwobrk0/shirt/y/p/i/xxl-pink-sws4125-allan-peter-original-imag4tkbdasb7u5v.jpeg?q=70",
+                      "https://rukminim1.flixcart.com/image/832/832/kqwobrk0/shirt/j/f/e/xxl-pink-sws4125-allan-peter-original-imag4tkbzetqdhqv.jpeg?q=70"],
+                sellingPrice:"999",
+                disPrice:"245",
+                disPrsent:"75%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-stock",
+                quantity:" + 1 -",
+                Size:["S","M","L","XL","XXL"],
+                ProductDetails:{
+                    productCode:"SHSTYBSSLASHBOXA465",
+                    idealFor:"men",
+                    packOf:"1",
+                    occasion:"Daily Wear,casual wear",
+                    ShirtsFabric:"Cotton",
+                    
+
+                }
+            },
+            { 
+                title:"Men Slim Fit Printed Spread Collar Formal Shirt",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/p/j/8/40-rmsx12365-b5-raymond-original-imagnbzgksdhc7xp.jpeg?q=70",
+                      "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/9/d/r/40-rmsx12365-b5-raymond-original-imagnbzgrtpctwup.jpeg?q=70",
+                      "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/o/e/p/40-rmsx12365-b5-raymond-original-imagnbzgfvghbzug.jpeg?q=70"],
+                sellingPrice:"999",
+                disPrice:"529",
+                disPrsent:"48%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-stock",
+                quantity:" + 1 -",
+                Size:["S","M","L","XL","XXL"],
+                ProductDetails:{
+                    productCode:"SHSTYBSLABLBOXCHDA466",
+                    idealFor:"men",
+                    packOf:"1",
+                    occasion:"Daily Wear,casual wear",
+                    ShirtsFabric:"Cotton",
+                    
+
+                }
+            },
+        ]
+    },
+    {
+        title:"Jeans",
+        Image:"https://cdn.anscommerce.com/catalog/brandstore/kkcl/539-2023_02_23-killer_web_banners_03.jpg",
+        Productlist:[
+            { 
+                title:"Boys Slim Mid Rise Grey Jeans",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/xif0q/jean/2/x/b/13-14-years-junhpsjoggerboy-lgrey-urbano-juniors-original-imafpm83zszw3dfn-bb.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/k7dnonk0/jean/2/x/b/11-12-years-junhpsjoggerboy-lgrey-urbano-juniors-original-imafpm83dvrbrrby.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/k7dnonk0/jean/2/x/b/13-14-years-junhpsjoggerboy-lgrey-urbano-juniors-original-imafpm83qjymaywf.jpeg?q=70"],
+                sellingPrice:"999",
+                disPrice:"510",
+                disPrsent:"48%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-stock",
+                quantity:" + 1 -",
+                Size:["S","M","L","XL","XXL"],
+                ProductDetails:{
+                    productCode:"SHSTYBPPCS452",
+                    idealFor:"men",
+                    packOf:"1",
+                    occasion:"Daily Wear,casual wear",
+                    fabric:"Cotton",
+                    
+        
+                }
+            },
+            { 
+                title:"Men Slim Mid Rise Blue Jeans",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/l5bd5zk0/jean/g/j/b/32-wmjn004806-wrangler-original-imaggyry9nrug5tr.jpeg?q=70",
+                         "https://rukminim1.flixcart.com/image/832/832/l5bd5zk0/jean/j/c/n/32-wmjn004806-wrangler-original-imaggyrymkvjg3vs.jpeg?q=70",
+                         "https://rukminim1.flixcart.com/image/832/832/l5bd5zk0/jean/i/h/h/32-wmjn004806-wrangler-original-imaggyrygecmjmhf.jpeg?q=70"],
+                sellingPrice:"1299",
+                disPrice:"450",
+                disPrsent:"65%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-stock",
+                quantity:" + 1 -",
+                Size:["S","M","L","XL","XXL"],
+                ProductDetails:{
+                    productCode:"SHSTYBMP1A445",
+                    idealFor:"men",
+                    packOf:"1",
+                    occasion:"Daily Wear,casual wear",
+                    fabric:"Royon",
+                    
+        
+                }
+            },
+            { 
+                      title:"Men Regular Fit Trousers",
+                      Image:[ "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/w/o/a/34-22a4ctwb1019i901-united-colors-of-benetton-original-imagjs7hqygaqsze.jpeg?q=70",
+                              "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/w/o/x/34-22a4ctwb1019i901-united-colors-of-benetton-original-imagjs7hz4gg2q9j.jpeg?q=70",
+                              "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/e/h/m/34-22a4ctwb1019i901-united-colors-of-benetton-original-imagjs7hcdtfyneg.jpeg?q=70"],
+                      sellingPrice:"999",
+                      disPrice:"510",
+                      disPrsent:"48%",
+                      soldBy:"SHOPPEEN",
+                      COD:"Available",
+                      Status:"In-stock",
+                      quantity:" + 1 -",
+                      Size:["S","M","L","XL","XXL"],
+                      ProductDetails:{
+                          productCode:"SHSTYBPPCS452",
+                          idealFor:"men",
+                          packOf:"1",
+                          occasion:"Daily Wear,casual wear",
+                          fabric:"Cotton",
+                          
+                      }
+            },        
+            { 
+                      title:"Men Slim Fit Black Viscose Rayon Trousers",
+                      Image:[ "https://rukminim1.flixcart.com/image/832/832/kkprmvk0/trouser/i/z/s/32-pmtx06279-b9-park-avenue-original-imagyyfpupwjay7z.jpeg?q=70",
+                               "https://rukminim1.flixcart.com/image/832/832/kkprmvk0/trouser/j/s/x/32-pmtx06279-b9-park-avenue-original-imagyyfptzfynfhr.jpeg?q=70",
+                               "https://rukminim1.flixcart.com/image/832/832/kkprmvk0/trouser/v/v/t/32-pmtx06279-b9-park-avenue-original-imagyyfpm5tjzeyk.jpeg?q=70"],
+                      sellingPrice:"1299",
+                      disPrice:"450",
+                      disPrsent:"65%",
+                      soldBy:"SHOPPEEN",
+                      COD:"Available",
+                      Status:"In-stock",
+                      quantity:" + 1 -",
+                      Size:["S","M","L","XL","XXL"],
+                      ProductDetails:{
+                          productCode:"SHSTYBMP1A445",
+                          idealFor:"men",
+                          packOf:"1",
+                          occasion:"Daily Wear,casual wear",
+                          fabric:"Royon",
+                          
+                  
+                      }
+            },
+            { 
+                title:"Men Slim Fit Gold Lycra Blend Trousers",
+                Image:[ "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/m/k/l/32-4way-20-grandstitch-original-imaggqhxhu8tk2dy.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/e/3/z/32-4way-20-grandstitch-original-imaggqhxpqr3yvfp.jpeg?q=70",
+                        "https://rukminim1.flixcart.com/image/832/832/xif0q/trouser/8/p/k/32-4way-20-grandstitch-original-imaggqhxk5wgmf6y.jpeg?q=70"],
+                sellingPrice:"999",
+                disPrice:"510",
+                disPrsent:"48%",
+                soldBy:"SHOPPEEN",
+                COD:"Available",
+                Status:"In-stock",
+                quantity:" + 1 -",
+                Size:["S","M","L","XL","XXL"],
+                ProductDetails:{
+                    productCode:"SHSTYBPPCS452",
+                    idealFor:"men",
+                    packOf:"1",
+                    occasion:"Daily Wear,casual wear",
+                    fabric:"Cotton",
+                    
+            
+                }
+            },
+
+            
+        ]
+    }
+]
+
+const Swaiper6 = [
+    {
+      title: "Sarees",
+      Image:
+        "https://dnpp799vut9mj.cloudfront.net/filters:format(webp)/dWcyiFc8FHL1DvJm98Lvv-gift.png",
+      Productlist: [
+        {
+          title: "BOLLYWOOD SAREE JI MAIDAM SUMITHA SILK COTTON",
+          Image: [
+            "https://rukminim1.flixcart.com/image/612/612/kn97te80/sari/l/d/n/free-1068-k-shaibo-saree-unstitched-original-imagfz7jpaquwduy.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/kzygpzk0/sari/b/3/p/free-2329s781-samah-unstitched-original-imagbugfqwbxpsj2.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/kzrbiq80/sari/j/4/d/free-mk-zal-cosbila-fashion-unstitched-original-imagbpgmfvx7cehu.jpeg?q=70",
+          ],
+          sellingPrice: "2399",
+          disPrice: "890",
+          disPrsent: "63%",
+          soldBy: "SHOPPEEN",
+          COD: "Available",
+          status: "In-stock",
+          quantity: "1",
+          Size: ["S", "M", "L", "XL", "XXL"],
+          ProductDetails: {
+            productcode: "SHSJMSSA707",
+            idealfor: "Women",
+            packof: "1",
+            Fabric: "Silk cotton",
+            febricCare: "Hand Wash , Machine Wash",
+          },
+        },
+        {
+          title: "FANCY SAREE MANTRA FALAK GEORGETTE",
+          Image: [
+            "https://rukminim1.flixcart.com/image/612/612/kv9urgw0/sari/2/x/v/free-dl-5-blue-desty-unstitched-original-imag87hgkf8zvyqq.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/kzvlua80/sari/7/s/l/free-sds0030-sadika-unstitched-original-imagbsg4na5x3gfn.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/krkyt8w0/sari/y/p/v/free-wedding-saree-ecolors-fab-unstitched-original-imag5c8efuhrjz9t.jpeg?q=70",
+          ],
+          sellingPrice: "2303",
+          disPrice: "995",
+          disPrsent: "57%",
+          soldBy: "SHOPPEEN",
+          COD: "Available",
+          status: "In-stock",
+          quantity: "1",
+          Size: ["S", "M", "L", "XL", "XXL"],
+          ProductDetails: {
+            productcode: "SHSMANFALAK1002A11",
+            idealfor: "Women",
+            packof: "1",
+            Fabric: "Georgette",
+            febricCare: "Hand Wash , Machine Wash",
+          },
+        },
+        {
+          title: "BOLLYWOOD SAREE JI MAIDAM FACE PRINT (MULTI COLOR)",
+          Image: [
+            "https://rukminim1.flixcart.com/image/612/612/xif0q/sari/d/y/m/free-blstin1-blissta-unstitched-original-imaghy4a6hgghcc8.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/xif0q/sari/r/v/c/free-at-kl-101-aarvi-trends-unstitched-original-imagkcdxgjsxfrv2.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/kqv8vww0/sari/w/h/i/free-mansi-saree-yellow-vajiba-unstitched-original-imag4sdzncyfvsx3.jpeg?q=70",
+          ],
+          sellingPrice: "2624",
+          disPrice: "1100",
+          disPrsent: "58%",
+          soldBy: "SHOPPEEN",
+          COD: "Available",
+          status: "In-stock",
+          quantity: "1",
+          Size: ["S", "M", "L", "XL", "XXL"],
+          ProductDetails: {
+            productcode: "SHSJMFPA716",
+            idealfor: "Women",
+            packof: "1",
+            Fabric: "Satin",
+            febricCare: "Hand Wash , Machine Wash",
+          },
+        },
+        {
+          title: "BOLLYWOOD SAREE DHRUV FASHION DF-FADDING GEORGETTE",
+          Image: [
+            "https://rukminim1.flixcart.com/image/612/612/xif0q/sari/u/j/4/free-8101-1-kashvi-sarees-unstitched-original-imagn22qhe7wgmz7.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/xif0q/sari/n/u/d/free-bfgrt145-surat4fashion-unstitched-original-imaghv4whzwz7yav.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/xif0q/sari/z/t/s/free-gulab-new-saree-anjavi-fashion-unstitched-original-imag7pw9skh8hneb-bb.jpeg?q=70",
+          ],
+          sellingPrice: "2034",
+          disPrice: "1149",
+          disPrsent: "59%",
+          soldBy: "SHOPPEEN",
+          COD: "Available",
+          status: "In-stock",
+          quantity: "1",
+          Size: ["S", "M", "L", "XL", "XXL"],
+          ProductDetails: {
+            productcode: "SHSDFFADA704",
+            idealfor: "Women",
+            packof: "1",
+            Fabric: "Georgette",
+            febricCare: "Hand Wash",
+          },
+        },     
+        {
+          title: "BOLLYWOOD SAREE DHRUV FASHION DF-3231 GEORGETTE",
+          Image: [
+            "https://rukminim1.flixcart.com/image/612/612/k4rcmfk0pkrrdj/sari/v/a/6/free-black-1466-6-pooja-fashion-1466-6-original-imafd5zbedgzeps9.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/kay9bbk0/sari/a/s/z/free-1262-5-kashvi-sarees-unstitched-original-imafsepbpnpbxgsz.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/kzd147k0/sari/y/t/f/free-neavyblue-saree-lyunica-unstitched-original-imagbe5hxufrqb5d.jpeg?q=70",
+          ],
+          sellingPrice: "2999",
+          disPrice: "1274",
+          disPrsent: "58%",
+          soldBy: "SHOPPEEN",
+          COD: "Available",
+          status: "In-stock",
+          quantity: "1",
+          Size: ["S", "M", "L", "XL", "XXL"],
+          ProductDetails: {
+            productcode: "SHSDF3231A703",
+            idealfor: "Women",
+            packof: "1",
+            Fabric: "Georgette",
+            febricCare: "Hand Wash",
+          },
+        },
+    
+      ],
+    },
+    {
+      title: "Popcorn Pants",
+      Image: "https://dnpp799vut9mj.cloudfront.net/filters:format(webp)/dWcyiFc8FHL1DvJm98Lvv-Gift_2.png",
+      Productlist: [
+        {
+          title: "POPCORN PANT PURPLE GRAPES MATT BLACK",
+          Image: [
+            "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/r/a/b/38-eps-black-03-urbano-fashion-original-imaghkgk27whjcej.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/h/y/d/28-1-eps-black-06-urbano-fashion-original-imafumyf4fxzhduu-bb.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/kdbzqfk0/jean/q/8/3/36-mpszipjean-black-urbano-fashion-original-imafu9hqhqzyhrng.jpeg?q=70",
+          ],
+          sellingPrice: "1699",
+          disPrice: "470",
+          disPrsent: "72%",
+          soldBy: "SHOPPEEN",
+          COD: "Available",
+          status: "In-stock",
+          quantity: "1",
+          Size: [28, 30, 36, 38],
+          ProductDetails: {
+            productcode: "SHTPGPPA508",
+            idealfor: "Men",
+            packof: "1",
+            Fabric: "Lycra",
+            febricCare: "Hand Wash , Machine Wash",
+          },
+        },
+        {
+          title: "POPCORN PANT PURPLE GRAPES CREAM",
+          Image: [
+            "https://rukminim1.flixcart.com/image/612/612/xif0q/trouser/l/b/v/32-kpb-67-cpslmft-crm-killer-original-imaghza3cpwfbpzu.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/kqwobrk0/trouser/e/4/b/34-dominoslycra-darkcream-13-haul-chic-original-imag4tk4e3sfvhzb.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/kzegk280/trouser/z/o/b/28-t933-merge-chex-flexi-cream-aa-ad-av-original-imagbf78fynh4jzb.jpeg?q=70",
+          ],
+          sellingPrice: "1699",
+          disPrice: "485",
+          disPrsent: "71%",
+          soldBy: "SHOPPEEN",
+          COD: "Available",
+          status: "In-stock",
+          quantity: "1",
+          Size: [28, 32, 34],
+          ProductDetails: {
+            productcode: "SHTPGPPA499",
+            idealfor: "Men",
+            packof: "1",
+            Fabric: "Lycra",
+            febricCare: "Hand Wash , Machine Wash",
+          },
+        },
+        {
+          title: "POPCORN PANT PURPLE GRAPES GREEN",
+          Image: [
+            "https://rukminim1.flixcart.com/image/612/612/xif0q/trouser/g/3/g/32-pro-ss-pg-provogue-original-imaghhsbehfzduwn.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/xif0q/trouser/c/a/e/36-g-1-bapasitaram-enterprise-original-imagkybyzqyqcxab.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/xif0q/trouser/y/d/n/34-tpnw1-topqore-original-imagbz842hnufgxg-bb.jpeg?q=70",
+          ],
+          sellingPrice: "1549",
+          disPrice: "475",
+          disPrsent: "69%",
+          soldBy: "SHOPPEEN",
+          COD: "Available",
+          status: "In-stock",
+          quantity: "1",
+          Size: [32, 34, 36],
+          ProductDetails: {
+            productcode: "SHTPGPPA506",
+            idealfor: "Men",
+            packof: "1",
+            Fabric: "Lycra",
+            febricCare: "Hand Wash , Machine Wash",
+          },
+        },   
+        {
+          title: "POPCORN PANT PURPLE GRAPES CEMENT",
+          Image: [
+            "https://rukminim1.flixcart.com/image/612/612/xif0q/trouser/q/p/k/32-g-1-gaumukhi-creation-original-imaghf5haa6wdqnz.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/xif0q/trouser/7/r/n/28-t-1-fashionable-village-original-imaghevjdzwr47r9.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/xif0q/trouser/t/z/q/38-oldcs-medium-grey-franko-roger-original-imaghhvnybubx3d7.jpeg?q=70",
+          ],
+          sellingPrice: "1549",
+          disPrice: "509",
+          disPrsent: "67%",
+          soldBy: "SHOPPEEN",
+          COD: "Available",
+          status: "In-stock",
+          quantity: "1",
+          Size: [28, 32, 38],
+          ProductDetails: {
+            productcode: "SHTPGPPA500",
+            idealfor: "Men",
+            packof: "1",
+            Fabric: "Lycra",
+            febricCare: "Hand Wash , Machine Wash",
+          },
+        },
+        {
+          title: "POPCORN PANT PURPLE GRAPES WINE",
+          Image: [
+            "https://rukminim1.flixcart.com/image/612/612/xif0q/trouser/r/p/m/30-trouser-solid-01-gaumukhi-creation-original-imaghbxye6pkbbk5.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/xif0q/trouser/1/p/t/36-g-1-gaumukhi-creation-original-imaghdg7cxu7mgnv.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/xif0q/trouser/r/p/m/30-trouser-solid-01-gaumukhi-creation-original-imaghbxye6pkbbk5.jpeg?q=70",
+          ],
+          sellingPrice: "1699",
+          disPrice: "485",
+          disPrsent: "71%",
+          soldBy: "SHOPPEEN",
+          COD: "Available",
+          status: "In-stock",
+          quantity: "1",
+          Size: [28, 30, 32, 34, 36],
+          ProductDetails: {
+            productcode: "SHTPGPPA507",
+            idealfor: "Men",
+            packof: "1",
+            Fabric: "Lycra",
+            febricCare: "Hand Wash , Machine Wash",
+          },
+        },
+      ],
+    },
+    {
+      title: "Jeans",
+      Image:
+        "https://dnpp799vut9mj.cloudfront.net/filters:format(webp)/dWcyiFc8FHL1DvJm98Lvv-06.jpg  ",
+      Productlist: [
+        {
+          title: "JEANS PURPLE GRAPES DENIM BLUE",
+          Image: [
+            "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/p/g/p/32-bmw-darklevis-d-ben-martin-original-imafszrthheg5usf-bb.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/k0wqwsw0/jean/d/c/h/30-10064495-roadster-original-imafkhymuff6j95d.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/n/b/0/28-jns-light-grey-ben-martin-original-imafszrt6f9qgvym-bb.jpeg?q=70",
+          ],
+          sellingPrice: "1999",
+          disPrice: "855",
+          disPrsent: "57%",
+          soldBy: "SHOPPEEN",
+          COD: "Available",
+          status: "In-stock",
+          quantity: "1",
+          Size: [28, 30, 32, 34],
+          ProductDetails: {
+            productcode: "SHTPGJA7A442",
+            idealfor: "Men",
+            packof: "1",
+            Fabric: "Denim",
+            febricCare: "Machine Wash",
+          },
+        },
+        {
+          title: "JEANS PURPLE GRAPES BLACK SHADE ",
+          Image: [
+            "https://rukminim1.flixcart.com/image/612/612/xif0q/trouser/b/z/k/36-tp4qset05blak-36-dream-makers-original-imafk5gtmhbenjhs-bb.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/j/c/o/34-word-styzon-original-imafxxnggvb4zcfb-bb.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/m/r/l/34-r-280-styzon-original-imagggzszjygbgy7.jpeg?q=70",
+          ],
+          sellingPrice: "1999",
+          disPrice: "735",
+          disPrsent: "63%",
+          soldBy: "SHOPPEEN",
+          COD: "Available",
+          status: "In-stock",
+          quantity: "1",
+          Size: [28, 30, 32, 34, 36],
+          ProductDetails: {
+            productcode: "SHTPGJA4A439",
+            idealfor: "Men",
+            packof: "1",
+            Fabric: "Denim",
+            febricCare: "Machine Wash",
+          },
+        },
+        {
+          title: "JEANS YES BRAND SQUARE DESIGN DENIM BLUE",
+          Image: [
+            "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/5/r/u/38-ecskn-bb-15-lightblue-blue-buddha-original-imagh7dgydg2ztm5.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/kn4xhu80/jean/n/t/e/32-19p4l23r1145i-901-united-colors-of-benetton-original-imagfvwzsfvnkq9p.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/kbb49zk0/jean/n/b/u/36-bmw-darklevis-d-ben-martin-original-imafszrtctdhcqe2.jpeg?q=70",
+          ],
+          sellingPrice: "1999",
+          disPrice: "840",
+          disPrsent: "58%",
+          soldBy: "SHOPPEEN",
+          COD: "Available",
+          status: "In-stock",
+          quantity: "1",
+          Size: [28, 30, 32, 36, 38],
+          ProductDetails: {
+            productcode: "SHTYBJFSHDNCLA361",
+            idealfor: "Men",
+            packof: "1",
+            Fabric: "Denim",
+            febricCare: "Hand Wash , Machine Wash",
+          },
+        },
+        {
+          title: "JEANS YES BRAND FASHION LIGHT BLUE",
+          Image: [
+            "https://rukminim1.flixcart.com/image/612/612/jgcktjk0/jean/z/s/d/32-fmjn3949blue-flying-machine-original-imaf4huxqfkmf86j.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/n/b/0/28-jns-light-grey-ben-martin-original-imafszrt6f9qgvym-bb.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/kw6pw280/jean/l/r/6/36-hljn001959-highlander-original-imag8wwhdggkbhf6.jpeg?q=70",
+          ],
+          sellingPrice: "2399",
+          disPrice: "882",
+          disPrsent: "63%",
+          soldBy: "SHOPPEEN",
+          COD: "Available",
+          status: "In-stock",
+          quantity: "1",
+          Size: [28, 30, 32, 34, 36],
+          ProductDetails: {
+            productcode: "SHTYBJFASA392",
+            idealfor: "Men",
+            packof: "1",
+            Fabric: "Denim",
+            febricCare: "Machine Wash",
+          },
+        },
+        {
+          title: " JEANS YES BRAND FASHION BLUE",
+          Image: [
+            "https://rukminim1.flixcart.com/image/612/612/k41mp3k0/jean/6/b/5/40-avwhskryelstrpbwr-mblu-01-urbano-fashion-original-imafmzyghsq9gvy6.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/kj7gwi80hlty2aw-0/jean/u/r/c/34-1-avdisheavywhsk-mblu-urbano-fashion-original-imafyyahbsng4uuq.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/9/w/y/28-avdisheavywhsk-iceblu-urbano-fashion-original-imaghzq7js7tzzpg.jpeg?q=70",
+          ],
+          sellingPrice: "2399",
+          disPrice: "889",
+          disPrsent: "63%",
+          soldBy: "SHOPPEEN",
+          COD: "Available",
+          status: "In-stock",
+          quantity: "1",
+          Size: [28, 30, 34, 38, 40],
+          ProductDetails: {
+            productcode: "SHTYBJFASA394",
+            idealfor: "Men",
+            packof: "1",
+            Fabric: "Denim",
+            febricCare: "Hand Wash , Machine Wash",
+          },
+        },
+      ],
+    },
+ ]
 
 
 
@@ -8379,9 +10473,14 @@ module.exports = {
     Dressesforyou,
     WesternDressesForWomen,
     StellarStylesForHim,
-
     WomenSareecollections,
     LongKurtiCollections,
-    NewArrivalsTrousers
-    
+    NewArrivalsTrousers,
+
+    Swaiper1,
+    Swaiper2,
+    Swaiper3,
+    Swaiper4,
+    Swaiper5,
+    Swaiper6
 }
