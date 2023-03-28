@@ -7,6 +7,7 @@ const asyncHandler = require('express-async-handler');
 
 
 const getaddtocard = async (req, res) => {
+    console.log("=sdsds=====>",req.user)
 let data = await addtocard.find({ user_id: req.user});
 
 if(!data.length){
