@@ -27,6 +27,8 @@ app.use('/api/shopeen/wishlish', require('./Routers/wishlishrouters'));
 app.use('/api/shopeen', require('./Routers/signuprouters'));
 app.use('/api/shopeen/address',require('./Routers/addressrouters'))
 app.use('/api/malefaction',require('./Routers/productrouter'))
+app.use('/api/intiale',require('./Routers/intialerouters'))
+
 app.listen(port, () => {
     console.log(`port is colled ${port}`);
 });
