@@ -30,6 +30,7 @@ app.use('/api/malefaction',require('./Routers/productrouter'))
 app.use('/api/intiale',require('./Routers/intialerouters'))
 app.use('/api/todo',require('./Routers/todorouters'))
 app.use('/api/doing',require('./Routers/doingrouters'))
+app.use('/api/complete',require('./Routers/completerouters'))
 
 
 
